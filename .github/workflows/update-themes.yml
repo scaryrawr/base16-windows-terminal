@@ -17,15 +17,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: actions/checkout@v4
-        with:
-          repository: tinted-theming/schemes
-          path: schemes
-
       - name: Base16 Builder Go
-        uses: tinted-theming/base16-builder-go@v0.3.1
-        with:
-          path: schemes
+        uses: tinted-theming/base16-builder-go@latest
       
       - name: Build Combined Themes
         run: |
@@ -35,7 +28,6 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          rm -r schemes
           git diff --quiet || (
             git add windows-terminal allthemes.json
             git commit -m "fix: update themes"
