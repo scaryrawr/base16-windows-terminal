@@ -1,0 +1,23 @@
+{
+  "name": "Base16 Tokyo Night Moon",
+  "_author": "Ólafur Bjarki Bogason",
+  "_variant": "dark",
+  "background": "#222436",
+  "foreground": "#3b4261",
+  "black": "#222436",
+  "red": "#ff757f",
+  "green": "#c3e88d",
+  "yellow": "#ffc777",
+  "blue": "#82aaff",
+  "purple": "#fca7ea",
+  "cyan": "#86e1fc",
+  "white": "#3b4261",
+  "brightBlack": "#636da6",
+  "brightRed": "#ff757f",
+  "brightGreen": "#c3e88d",
+  "brightYellow": "#ffc777",
+  "brightBlue": "#82aaff",
+  "brightPurple": "#fca7ea",
+  "brightCyan": "#86e1fc",
+  "brightWhite": "#c8d3f5"
+}

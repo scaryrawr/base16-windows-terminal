@@ -1,0 +1,23 @@
+{
+  "name": "Base16 Moonlight",
+  "_author": "Jeremy Swinarton (https://github.com/jswinarton)",
+  "_variant": "dark",
+  "background": "#212337",
+  "foreground": "#a3ace1",
+  "black": "#212337",
+  "red": "#ff5370",
+  "green": "#2df4c0",
+  "yellow": "#ffc777",
+  "blue": "#40ffff",
+  "purple": "#b994f1",
+  "cyan": "#04d1f9",
+  "white": "#a3ace1",
+  "brightBlack": "#748cd6",
+  "brightRed": "#ff5370",
+  "brightGreen": "#2df4c0",
+  "brightYellow": "#ffc777",
+  "brightBlue": "#40ffff",
+  "brightPurple": "#b994f1",
+  "brightCyan": "#04d1f9",
+  "brightWhite": "#ef43fa"
+}

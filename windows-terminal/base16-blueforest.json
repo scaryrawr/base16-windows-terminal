@@ -1,0 +1,23 @@
+{
+  "name": "Base16 Blue Forest",
+  "_author": "alonsodomin (https://github.com/alonsodomin)",
+  "_variant": "dark",
+  "background": "#141f2e",
+  "foreground": "#ffcc33",
+  "black": "#141f2e",
+  "red": "#fffab1",
+  "green": "#80ff80",
+  "yellow": "#91ccff",
+  "blue": "#a2cff5",
+  "purple": "#0099ff",
+  "cyan": "#80ff80",
+  "white": "#ffcc33",
+  "brightBlack": "#a0ffa0",
+  "brightRed": "#fffab1",
+  "brightGreen": "#80ff80",
+  "brightYellow": "#91ccff",
+  "brightBlue": "#a2cff5",
+  "brightPurple": "#0099ff",
+  "brightCyan": "#80ff80",
+  "brightWhite": "#375780"
+}

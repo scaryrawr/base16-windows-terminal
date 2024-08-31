@@ -1,0 +1,23 @@
+{
+  "name": "Base16 Gruber",
+  "_author": "Patel, Nimai &lt;nimai.m.patel@gmail.com&gt;, colors from www.github.com/rexim/gruber-darker-theme",
+  "_variant": "dark",
+  "background": "#181818",
+  "foreground": "#f4f4ff",
+  "black": "#181818",
+  "red": "#f43841",
+  "green": "#73c936",
+  "yellow": "#ffdd33",
+  "blue": "#96a6c8",
+  "purple": "#9e95c7",
+  "cyan": "#95a99f",
+  "white": "#f4f4ff",
+  "brightBlack": "#52494e",
+  "brightRed": "#f43841",
+  "brightGreen": "#73c936",
+  "brightYellow": "#ffdd33",
+  "brightBlue": "#96a6c8",
+  "brightPurple": "#9e95c7",
+  "brightCyan": "#95a99f",
+  "brightWhite": "#e4e4ef"
+}

@@ -1,28 +1,23 @@
 {
-    "name": "Base16 Dracula",
-    "background": "#282936",    // base00
-    "foreground": "#e9e9f4",    // base05
-    "black": "#282936",         // base00
-    "red": "#ea51b2",           // base08
-    "green": "#ebff87",         // base0B
-    //"yellow": "#b45bcf",        // base09
-    "yellow": "#00f769",        // base0A
-    "blue": "#62d6e8",          // base0D
-    "purple": "#b45bcf",        // base0E
-    "cyan": "#a1efe4",          // base0C
-    "white": "#e9e9f4",         // base05
-    "brightBlack": "#626483",   // base03
-    //"brightRed": "#62d6e8",     // base04
-    "brightRed": "#ea51b2",     // base08
-    //"brightGreen": "#4d4f68",   // base02
-    "brightGreen": "#ebff87",   // base0B
-    //"brightYellow": "#f1f2f8",  // base06
-    "brightYellow": "#00f769",  // base0A
-    //"brightBlue": "#3a3c4e",    // base01
-    "brightBlue": "#62d6e8",    // base0D
-    //"brightPurple": "#e9e9f4",  // base05
-    "brightPurple": "#b45bcf",  // base0E
-    //"brightCyan": "#626483",    // base03
-    "brightCyan": "#a1efe4",    // base0C
-    "brightWhite": "#f7f7fb"    // base07
+  "name": "Base16 Dracula",
+  "_author": "Jamy Golden (http://github.com/JamyGolden), based on Dracula Theme (http://github.com/dracula)",
+  "_variant": "dark",
+  "background": "#282a36",
+  "foreground": "#f8f8f2",
+  "black": "#282a36",
+  "red": "#ff5555",
+  "green": "#50fa7b",
+  "yellow": "#f1fa8c",
+  "blue": "#80bfff",
+  "purple": "#ff79c6",
+  "cyan": "#8be9fd",
+  "white": "#f8f8f2",
+  "brightBlack": "#6272a4",
+  "brightRed": "#ff5555",
+  "brightGreen": "#50fa7b",
+  "brightYellow": "#f1fa8c",
+  "brightBlue": "#80bfff",
+  "brightPurple": "#ff79c6",
+  "brightCyan": "#8be9fd",
+  "brightWhite": "#ffffff"
 }

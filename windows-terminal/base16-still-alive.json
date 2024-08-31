@@ -1,0 +1,23 @@
+{
+  "name": "Base16 Still Alive",
+  "_author": "Derrick McKee (derrick.mckee@gmail.com)",
+  "_variant": "light",
+  "background": "#f0f0f0",
+  "foreground": "#d80000",
+  "black": "#f0f0f0",
+  "red": "#487830",
+  "green": "#5c5c6a",
+  "yellow": "#426395",
+  "blue": "#001878",
+  "purple": "#900000",
+  "cyan": "#2c3c57",
+  "white": "#d80000",
+  "brightBlack": "#f01818",
+  "brightRed": "#487830",
+  "brightGreen": "#5c5c6a",
+  "brightYellow": "#426395",
+  "brightBlue": "#001878",
+  "brightPurple": "#900000",
+  "brightCyan": "#2c3c57",
+  "brightWhite": "#30a860"
+}

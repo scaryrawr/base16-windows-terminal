@@ -1,28 +1,23 @@
 {
-    "name": "Base16 Atlas",
-    "background": "#002635",    // base00
-    "foreground": "#a1a19a",    // base05
-    "black": "#002635",         // base00
-    "red": "#ff5a67",           // base08
-    "green": "#7fc06e",         // base0B
-    //"yellow": "#f08e48",        // base09
-    "yellow": "#ffcc1b",        // base0A
-    "blue": "#5dd7b9",          // base0D
-    "purple": "#9a70a4",        // base0E
-    "cyan": "#14747e",          // base0C
-    "white": "#a1a19a",         // base05
-    "brightBlack": "#6c8b91",   // base03
-    //"brightRed": "#869696",     // base04
-    "brightRed": "#ff5a67",     // base08
-    //"brightGreen": "#517f8d",   // base02
-    "brightGreen": "#7fc06e",   // base0B
-    //"brightYellow": "#e6e6dc",  // base06
-    "brightYellow": "#ffcc1b",  // base0A
-    //"brightBlue": "#00384d",    // base01
-    "brightBlue": "#5dd7b9",    // base0D
-    //"brightPurple": "#a1a19a",  // base05
-    "brightPurple": "#9a70a4",  // base0E
-    //"brightCyan": "#6c8b91",    // base03
-    "brightCyan": "#14747e",    // base0C
-    "brightWhite": "#fafaf8"    // base07
+  "name": "Base16 Atlas",
+  "_author": "Alex Lende (https://ajlende.com)",
+  "_variant": "dark",
+  "background": "#002635",
+  "foreground": "#a1a19a",
+  "black": "#002635",
+  "red": "#ff5a67",
+  "green": "#7fc06e",
+  "yellow": "#ffcc1b",
+  "blue": "#14747e",
+  "purple": "#9a70a4",
+  "cyan": "#5dd7b9",
+  "white": "#a1a19a",
+  "brightBlack": "#6c8b91",
+  "brightRed": "#ff5a67",
+  "brightGreen": "#7fc06e",
+  "brightYellow": "#ffcc1b",
+  "brightBlue": "#14747e",
+  "brightPurple": "#9a70a4",
+  "brightCyan": "#5dd7b9",
+  "brightWhite": "#fafaf8"
 }

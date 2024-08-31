@@ -1,28 +1,23 @@
 {
-    "name": "Base16 Gruvbox dark, pale",
-    "background": "#262626",    // base00
-    "foreground": "#dab997",    // base05
-    "black": "#262626",         // base00
-    "red": "#d75f5f",           // base08
-    "green": "#afaf00",         // base0B
-    //"yellow": "#ff8700",        // base09
-    "yellow": "#ffaf00",        // base0A
-    "blue": "#83adad",          // base0D
-    "purple": "#d485ad",        // base0E
-    "cyan": "#85ad85",          // base0C
-    "white": "#dab997",         // base05
-    "brightBlack": "#8a8a8a",   // base03
-    //"brightRed": "#949494",     // base04
-    "brightRed": "#d75f5f",     // base08
-    //"brightGreen": "#4e4e4e",   // base02
-    "brightGreen": "#afaf00",   // base0B
-    //"brightYellow": "#d5c4a1",  // base06
-    "brightYellow": "#ffaf00",  // base0A
-    //"brightBlue": "#3a3a3a",    // base01
-    "brightBlue": "#83adad",    // base0D
-    //"brightPurple": "#dab997",  // base05
-    "brightPurple": "#d485ad",  // base0E
-    //"brightCyan": "#8a8a8a",    // base03
-    "brightCyan": "#85ad85",    // base0C
-    "brightWhite": "#ebdbb2"    // base07
+  "name": "Base16 Gruvbox dark, pale",
+  "_author": "Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)",
+  "_variant": "dark",
+  "background": "#262626",
+  "foreground": "#dab997",
+  "black": "#262626",
+  "red": "#d75f5f",
+  "green": "#afaf00",
+  "yellow": "#ffaf00",
+  "blue": "#83adad",
+  "purple": "#d485ad",
+  "cyan": "#85ad85",
+  "white": "#dab997",
+  "brightBlack": "#8a8a8a",
+  "brightRed": "#d75f5f",
+  "brightGreen": "#afaf00",
+  "brightYellow": "#ffaf00",
+  "brightBlue": "#83adad",
+  "brightPurple": "#d485ad",
+  "brightCyan": "#85ad85",
+  "brightWhite": "#ebdbb2"
 }

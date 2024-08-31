@@ -1,0 +1,23 @@
+{
+  "name": "Base16 Ayu Light",
+  "_author": "Khue Nguyen &lt;Z5483Y@gmail.com&gt;",
+  "_variant": "light",
+  "background": "#fafafa",
+  "foreground": "#5c6773",
+  "black": "#fafafa",
+  "red": "#f07178",
+  "green": "#86b300",
+  "yellow": "#f2ae49",
+  "blue": "#36a3d9",
+  "purple": "#a37acc",
+  "cyan": "#4cbf99",
+  "white": "#5c6773",
+  "brightBlack": "#abb0b6",
+  "brightRed": "#f07178",
+  "brightGreen": "#86b300",
+  "brightYellow": "#f2ae49",
+  "brightBlue": "#36a3d9",
+  "brightPurple": "#a37acc",
+  "brightCyan": "#4cbf99",
+  "brightWhite": "#1a1f29"
+}

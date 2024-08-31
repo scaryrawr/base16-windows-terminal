@@ -1,28 +1,23 @@
 {
-    "name": "Base16 IR Black",
-    "background": "#000000",    // base00
-    "foreground": "#b5b3aa",    // base05
-    "black": "#000000",         // base00
-    "red": "#ff6c60",           // base08
-    "green": "#a8ff60",         // base0B
-    //"yellow": "#e9c062",        // base09
-    "yellow": "#ffffb6",        // base0A
-    "blue": "#96cbfe",          // base0D
-    "purple": "#ff73fd",        // base0E
-    "cyan": "#c6c5fe",          // base0C
-    "white": "#b5b3aa",         // base05
-    "brightBlack": "#6c6c66",   // base03
-    //"brightRed": "#918f88",     // base04
-    "brightRed": "#ff6c60",     // base08
-    //"brightGreen": "#484844",   // base02
-    "brightGreen": "#a8ff60",   // base0B
-    //"brightYellow": "#d9d7cc",  // base06
-    "brightYellow": "#ffffb6",  // base0A
-    //"brightBlue": "#242422",    // base01
-    "brightBlue": "#96cbfe",    // base0D
-    //"brightPurple": "#b5b3aa",  // base05
-    "brightPurple": "#ff73fd",  // base0E
-    //"brightCyan": "#6c6c66",    // base03
-    "brightCyan": "#c6c5fe",    // base0C
-    "brightWhite": "#fdfbee"    // base07
+  "name": "Base16 IR Black",
+  "_author": "Timothée Poisot (http://timotheepoisot.fr)",
+  "_variant": "dark",
+  "background": "#000000",
+  "foreground": "#b5b3aa",
+  "black": "#000000",
+  "red": "#ff6c60",
+  "green": "#a8ff60",
+  "yellow": "#ffffb6",
+  "blue": "#96cbfe",
+  "purple": "#ff73fd",
+  "cyan": "#c6c5fe",
+  "white": "#b5b3aa",
+  "brightBlack": "#6c6c66",
+  "brightRed": "#ff6c60",
+  "brightGreen": "#a8ff60",
+  "brightYellow": "#ffffb6",
+  "brightBlue": "#96cbfe",
+  "brightPurple": "#ff73fd",
+  "brightCyan": "#c6c5fe",
+  "brightWhite": "#fdfbee"
 }

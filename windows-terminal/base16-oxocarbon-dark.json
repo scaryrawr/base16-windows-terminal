@@ -1,0 +1,23 @@
+{
+  "name": "Base16 Oxocarbon Dark",
+  "_author": "shaunsingh/IBM",
+  "_variant": "dark",
+  "background": "#161616",
+  "foreground": "#f2f4f8",
+  "black": "#161616",
+  "red": "#3ddbd9",
+  "green": "#33b1ff",
+  "yellow": "#ee5396",
+  "blue": "#42be65",
+  "purple": "#be95ff",
+  "cyan": "#ff7eb6",
+  "white": "#f2f4f8",
+  "brightBlack": "#525252",
+  "brightRed": "#3ddbd9",
+  "brightGreen": "#33b1ff",
+  "brightYellow": "#ee5396",
+  "brightBlue": "#42be65",
+  "brightPurple": "#be95ff",
+  "brightCyan": "#ff7eb6",
+  "brightWhite": "#08bdba"
+}

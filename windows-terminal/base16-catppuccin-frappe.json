@@ -1,0 +1,23 @@
+{
+  "name": "Base16 Catppuccin Frappe",
+  "_author": "https://github.com/catppuccin/catppuccin",
+  "_variant": "dark",
+  "background": "#303446",
+  "foreground": "#c6d0f5",
+  "black": "#303446",
+  "red": "#e78284",
+  "green": "#a6d189",
+  "yellow": "#e5c890",
+  "blue": "#8caaee",
+  "purple": "#ca9ee6",
+  "cyan": "#81c8be",
+  "white": "#c6d0f5",
+  "brightBlack": "#51576d",
+  "brightRed": "#e78284",
+  "brightGreen": "#a6d189",
+  "brightYellow": "#e5c890",
+  "brightBlue": "#8caaee",
+  "brightPurple": "#ca9ee6",
+  "brightCyan": "#81c8be",
+  "brightWhite": "#babbf1"
+}

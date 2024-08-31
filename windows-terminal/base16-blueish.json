@@ -1,0 +1,23 @@
+{
+  "name": "Base16 Blueish",
+  "_author": "Ben Mayoras",
+  "_variant": "dark",
+  "background": "#182430",
+  "foreground": "#c8e1f8",
+  "black": "#182430",
+  "red": "#4ce587",
+  "green": "#c3e88d",
+  "yellow": "#82aaff",
+  "blue": "#82aaff",
+  "purple": "#ff84dd",
+  "cyan": "#5fd1ff",
+  "white": "#c8e1f8",
+  "brightBlack": "#616d78",
+  "brightRed": "#4ce587",
+  "brightGreen": "#c3e88d",
+  "brightYellow": "#82aaff",
+  "brightBlue": "#82aaff",
+  "brightPurple": "#ff84dd",
+  "brightCyan": "#5fd1ff",
+  "brightWhite": "#8f98a0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Base16 Jabuti",
+  "_author": "https://github.com/notusknot",
+  "_variant": "dark",
+  "background": "#292a37",
+  "foreground": "#c0cbe3",
+  "black": "#292a37",
+  "red": "#ec6a88",
+  "green": "#3fdaa4",
+  "yellow": "#e1c697",
+  "blue": "#3fc6de",
+  "purple": "#be95ff",
+  "cyan": "#ff7eb6",
+  "white": "#c0cbe3",
+  "brightBlack": "#45475d",
+  "brightRed": "#ec6a88",
+  "brightGreen": "#3fdaa4",
+  "brightYellow": "#e1c697",
+  "brightBlue": "#3fc6de",
+  "brightPurple": "#be95ff",
+  "brightCyan": "#ff7eb6",
+  "brightWhite": "#ffffff"
+}

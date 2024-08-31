@@ -1,28 +1,23 @@
 {
-    "name": "Base16 Woodland",
-    "background": "#231e18",    // base00
-    "foreground": "#cabcb1",    // base05
-    "black": "#231e18",         // base00
-    "red": "#d35c5c",           // base08
-    "green": "#b7ba53",         // base0B
-    //"yellow": "#ca7f32",        // base09
-    "yellow": "#e0ac16",        // base0A
-    "blue": "#88a4d3",          // base0D
-    "purple": "#bb90e2",        // base0E
-    "cyan": "#6eb958",          // base0C
-    "white": "#cabcb1",         // base05
-    "brightBlack": "#9d8b70",   // base03
-    //"brightRed": "#b4a490",     // base04
-    "brightRed": "#d35c5c",     // base08
-    //"brightGreen": "#48413a",   // base02
-    "brightGreen": "#b7ba53",   // base0B
-    //"brightYellow": "#d7c8bc",  // base06
-    "brightYellow": "#e0ac16",  // base0A
-    //"brightBlue": "#302b25",    // base01
-    "brightBlue": "#88a4d3",    // base0D
-    //"brightPurple": "#cabcb1",  // base05
-    "brightPurple": "#bb90e2",  // base0E
-    //"brightCyan": "#9d8b70",    // base03
-    "brightCyan": "#6eb958",    // base0C
-    "brightWhite": "#e4d4c8"    // base07
+  "name": "Base16 Woodland",
+  "_author": "Jay Cornwall (https://jcornwall.com)",
+  "_variant": "dark",
+  "background": "#231e18",
+  "foreground": "#cabcb1",
+  "black": "#231e18",
+  "red": "#d35c5c",
+  "green": "#b7ba53",
+  "yellow": "#e0ac16",
+  "blue": "#88a4d3",
+  "purple": "#bb90e2",
+  "cyan": "#6eb958",
+  "white": "#cabcb1",
+  "brightBlack": "#9d8b70",
+  "brightRed": "#d35c5c",
+  "brightGreen": "#b7ba53",
+  "brightYellow": "#e0ac16",
+  "brightBlue": "#88a4d3",
+  "brightPurple": "#bb90e2",
+  "brightCyan": "#6eb958",
+  "brightWhite": "#e4d4c8"
 }

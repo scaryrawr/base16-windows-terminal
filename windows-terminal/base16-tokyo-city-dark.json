@@ -1,0 +1,23 @@
+{
+  "name": "Base16 Tokyo City Dark",
+  "_author": "Michaël Ball",
+  "_variant": "dark",
+  "background": "#171d23",
+  "foreground": "#d8e2ec",
+  "black": "#171d23",
+  "red": "#f7768e",
+  "green": "#9ece6a",
+  "yellow": "#b7c5d3",
+  "blue": "#7aa2f7",
+  "purple": "#bb9af7",
+  "cyan": "#89ddff",
+  "white": "#d8e2ec",
+  "brightBlack": "#526270",
+  "brightRed": "#f7768e",
+  "brightGreen": "#9ece6a",
+  "brightYellow": "#b7c5d3",
+  "brightBlue": "#7aa2f7",
+  "brightPurple": "#bb9af7",
+  "brightCyan": "#89ddff",
+  "brightWhite": "#fbfbfd"
+}

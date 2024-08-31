@@ -1,0 +1,23 @@
+{
+  "name": "Base16 Tokyodark",
+  "_author": "Tiagovla (https://github.com/tiagovla/)",
+  "_variant": "dark",
+  "background": "#11121d",
+  "foreground": "#abb2bf",
+  "black": "#11121d",
+  "red": "#a485dd",
+  "green": "#d7a65f",
+  "yellow": "#7199ee",
+  "blue": "#95c561",
+  "purple": "#ee6d85",
+  "cyan": "#a485dd",
+  "white": "#abb2bf",
+  "brightBlack": "#393a45",
+  "brightRed": "#a485dd",
+  "brightGreen": "#d7a65f",
+  "brightYellow": "#7199ee",
+  "brightBlue": "#95c561",
+  "brightPurple": "#ee6d85",
+  "brightCyan": "#a485dd",
+  "brightWhite": "#2c2d38"
+}

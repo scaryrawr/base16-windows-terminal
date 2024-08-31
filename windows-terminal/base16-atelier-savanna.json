@@ -1,28 +1,23 @@
 {
-    "name": "Base16 Atelier Savanna",
-    "background": "#171c19",    // base00
-    "foreground": "#87928a",    // base05
-    "black": "#171c19",         // base00
-    "red": "#b16139",           // base08
-    "green": "#489963",         // base0B
-    //"yellow": "#9f713c",        // base09
-    "yellow": "#a07e3b",        // base0A
-    "blue": "#478c90",          // base0D
-    "purple": "#55859b",        // base0E
-    "cyan": "#1c9aa0",          // base0C
-    "white": "#87928a",         // base05
-    "brightBlack": "#5f6d64",   // base03
-    //"brightRed": "#78877d",     // base04
-    "brightRed": "#b16139",     // base08
-    //"brightGreen": "#526057",   // base02
-    "brightGreen": "#489963",   // base0B
-    //"brightYellow": "#dfe7e2",  // base06
-    "brightYellow": "#a07e3b",  // base0A
-    //"brightBlue": "#232a25",    // base01
-    "brightBlue": "#478c90",    // base0D
-    //"brightPurple": "#87928a",  // base05
-    "brightPurple": "#55859b",  // base0E
-    //"brightCyan": "#5f6d64",    // base03
-    "brightCyan": "#1c9aa0",    // base0C
-    "brightWhite": "#ecf4ee"    // base07
+  "name": "Base16 Atelier Savanna",
+  "_author": "Bram de Haan (http://atelierbramdehaan.nl)",
+  "_variant": "dark",
+  "background": "#171c19",
+  "foreground": "#87928a",
+  "black": "#171c19",
+  "red": "#b16139",
+  "green": "#489963",
+  "yellow": "#a07e3b",
+  "blue": "#478c90",
+  "purple": "#55859b",
+  "cyan": "#1c9aa0",
+  "white": "#87928a",
+  "brightBlack": "#5f6d64",
+  "brightRed": "#b16139",
+  "brightGreen": "#489963",
+  "brightYellow": "#a07e3b",
+  "brightBlue": "#478c90",
+  "brightPurple": "#55859b",
+  "brightCyan": "#1c9aa0",
+  "brightWhite": "#ecf4ee"
 }

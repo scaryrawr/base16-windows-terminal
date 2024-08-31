@@ -1,0 +1,23 @@
+{
+  "name": "Base16 Aztec",
+  "_author": "TheNeverMan (github.com/TheNeverMan)",
+  "_variant": "dark",
+  "background": "#101600",
+  "foreground": "#ffda51",
+  "black": "#101600",
+  "red": "#ee2e00",
+  "green": "#63d932",
+  "yellow": "#eebb00",
+  "blue": "#5b4a9f",
+  "purple": "#883e9f",
+  "cyan": "#3d94a5",
+  "white": "#ffda51",
+  "brightBlack": "#2e2e05",
+  "brightRed": "#ee2e00",
+  "brightGreen": "#63d932",
+  "brightYellow": "#eebb00",
+  "brightBlue": "#5b4a9f",
+  "brightPurple": "#883e9f",
+  "brightCyan": "#3d94a5",
+  "brightWhite": "#ffeba0"
+}

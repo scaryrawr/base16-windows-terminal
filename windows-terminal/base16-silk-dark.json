@@ -1,0 +1,23 @@
+{
+  "name": "Base16 Silk Dark",
+  "_author": "Gabriel Fontes (https://github.com/Misterio77)",
+  "_variant": "dark",
+  "background": "#0e3c46",
+  "foreground": "#c7dbdd",
+  "black": "#0e3c46",
+  "red": "#fb6953",
+  "green": "#73d8ad",
+  "yellow": "#fce380",
+  "blue": "#46bddd",
+  "purple": "#756b8a",
+  "cyan": "#3fb2b9",
+  "white": "#c7dbdd",
+  "brightBlack": "#587073",
+  "brightRed": "#fb6953",
+  "brightGreen": "#73d8ad",
+  "brightYellow": "#fce380",
+  "brightBlue": "#46bddd",
+  "brightPurple": "#756b8a",
+  "brightCyan": "#3fb2b9",
+  "brightWhite": "#d2faff"
+}

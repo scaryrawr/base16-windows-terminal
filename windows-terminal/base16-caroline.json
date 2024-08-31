@@ -1,0 +1,23 @@
+{
+  "name": "Base16 caroline",
+  "_author": "ed (https://codeberg.org/ed)",
+  "_variant": "dark",
+  "background": "#1c1213",
+  "foreground": "#a87569",
+  "black": "#1c1213",
+  "red": "#c24f57",
+  "green": "#806c61",
+  "yellow": "#f28171",
+  "blue": "#684c59",
+  "purple": "#a63650",
+  "cyan": "#6b6566",
+  "white": "#a87569",
+  "brightBlack": "#6d4745",
+  "brightRed": "#c24f57",
+  "brightGreen": "#806c61",
+  "brightYellow": "#f28171",
+  "brightBlue": "#684c59",
+  "brightPurple": "#a63650",
+  "brightCyan": "#6b6566",
+  "brightWhite": "#e3a68c"
+}

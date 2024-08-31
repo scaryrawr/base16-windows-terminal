@@ -1,0 +1,23 @@
+{
+  "name": "Base16 Dark Violet",
+  "_author": "ruler501 (https://github.com/ruler501/base16-darkviolet)",
+  "_variant": "dark",
+  "background": "#000000",
+  "foreground": "#b08ae6",
+  "black": "#000000",
+  "red": "#a82ee6",
+  "green": "#4595e6",
+  "yellow": "#f29df2",
+  "blue": "#4136d9",
+  "purple": "#7e5ce6",
+  "cyan": "#40dfff",
+  "white": "#b08ae6",
+  "brightBlack": "#593380",
+  "brightRed": "#a82ee6",
+  "brightGreen": "#4595e6",
+  "brightYellow": "#f29df2",
+  "brightBlue": "#4136d9",
+  "brightPurple": "#7e5ce6",
+  "brightCyan": "#40dfff",
+  "brightWhite": "#a366ff"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Base16 pandora",
+  "_author": "Cassandra Fox",
+  "_variant": "dark",
+  "background": "#131213",
+  "foreground": "#f15c99",
+  "black": "#131213",
+  "red": "#b00b69",
+  "green": "#9ddf69",
+  "yellow": "#ffcc00",
+  "blue": "#008080",
+  "purple": "#a24030",
+  "cyan": "#714ca6",
+  "white": "#f15c99",
+  "brightBlack": "#ffbee3",
+  "brightRed": "#b00b69",
+  "brightGreen": "#9ddf69",
+  "brightYellow": "#ffcc00",
+  "brightBlue": "#008080",
+  "brightPurple": "#a24030",
+  "brightCyan": "#714ca6",
+  "brightWhite": "#632227"
+}

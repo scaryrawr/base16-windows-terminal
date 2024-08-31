@@ -1,0 +1,23 @@
+{
+  "name": "Base16 OneDark Dark",
+  "_author": "olimorris (https://github.com/olimorris)",
+  "_variant": "dark",
+  "background": "#000000",
+  "foreground": "#abb2bf",
+  "black": "#000000",
+  "red": "#ef596f",
+  "green": "#89ca78",
+  "yellow": "#e5c07b",
+  "blue": "#61afef",
+  "purple": "#d55fde",
+  "cyan": "#2bbac5",
+  "white": "#abb2bf",
+  "brightBlack": "#434852",
+  "brightRed": "#ef596f",
+  "brightGreen": "#89ca78",
+  "brightYellow": "#e5c07b",
+  "brightBlue": "#61afef",
+  "brightPurple": "#d55fde",
+  "brightCyan": "#2bbac5",
+  "brightWhite": "#c8ccd4"
+}

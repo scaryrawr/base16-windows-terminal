@@ -1,28 +1,23 @@
 {
-    "name": "Base16 Cupertino",
-    "background": "#ffffff",    // base00
-    "foreground": "#404040",    // base05
-    "black": "#ffffff",         // base00
-    "red": "#c41a15",           // base08
-    "green": "#007400",         // base0B
-    //"yellow": "#eb8500",        // base09
-    "yellow": "#826b28",        // base0A
-    "blue": "#0000ff",          // base0D
-    "purple": "#a90d91",        // base0E
-    "cyan": "#318495",          // base0C
-    "white": "#404040",         // base05
-    "brightBlack": "#808080",   // base03
-    //"brightRed": "#808080",     // base04
-    "brightRed": "#c41a15",     // base08
-    //"brightGreen": "#c0c0c0",   // base02
-    "brightGreen": "#007400",   // base0B
-    //"brightYellow": "#404040",  // base06
-    "brightYellow": "#826b28",  // base0A
-    //"brightBlue": "#c0c0c0",    // base01
-    "brightBlue": "#0000ff",    // base0D
-    //"brightPurple": "#404040",  // base05
-    "brightPurple": "#a90d91",  // base0E
-    //"brightCyan": "#808080",    // base03
-    "brightCyan": "#318495",    // base0C
-    "brightWhite": "#5e5e5e"    // base07
+  "name": "Base16 Cupertino",
+  "_author": "Defman21",
+  "_variant": "light",
+  "background": "#ffffff",
+  "foreground": "#404040",
+  "black": "#ffffff",
+  "red": "#c41a15",
+  "green": "#007400",
+  "yellow": "#826b28",
+  "blue": "#0000ff",
+  "purple": "#a90d91",
+  "cyan": "#318495",
+  "white": "#404040",
+  "brightBlack": "#808080",
+  "brightRed": "#c41a15",
+  "brightGreen": "#007400",
+  "brightYellow": "#826b28",
+  "brightBlue": "#0000ff",
+  "brightPurple": "#a90d91",
+  "brightCyan": "#318495",
+  "brightWhite": "#5e5e5e"
 }

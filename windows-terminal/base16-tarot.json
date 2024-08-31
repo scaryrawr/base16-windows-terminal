@@ -1,0 +1,23 @@
+{
+  "name": "Base16 tarot",
+  "_author": "ed (https://codeberg.org/ed)",
+  "_variant": "dark",
+  "background": "#0e091d",
+  "foreground": "#aa556f",
+  "black": "#0e091d",
+  "red": "#c53253",
+  "green": "#a68e5a",
+  "yellow": "#ff6565",
+  "blue": "#6e6080",
+  "purple": "#a45782",
+  "cyan": "#8c9785",
+  "white": "#aa556f",
+  "brightBlack": "#74316b",
+  "brightRed": "#c53253",
+  "brightGreen": "#a68e5a",
+  "brightYellow": "#ff6565",
+  "brightBlue": "#6e6080",
+  "brightPurple": "#a45782",
+  "brightCyan": "#8c9785",
+  "brightWhite": "#dc8f7c"
+}

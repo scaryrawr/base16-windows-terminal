@@ -1,0 +1,23 @@
+{
+  "name": "Base16 Apprentice",
+  "_author": "romainl",
+  "_variant": "dark",
+  "background": "#262626",
+  "foreground": "#5f5f87",
+  "black": "#262626",
+  "red": "#444444",
+  "green": "#ffffaf",
+  "yellow": "#87af87",
+  "blue": "#8787af",
+  "purple": "#5fafaf",
+  "cyan": "#87afd7",
+  "white": "#5f5f87",
+  "brightBlack": "#87875f",
+  "brightRed": "#444444",
+  "brightGreen": "#ffffaf",
+  "brightYellow": "#87af87",
+  "brightBlue": "#8787af",
+  "brightPurple": "#5fafaf",
+  "brightCyan": "#87afd7",
+  "brightWhite": "#6c6c6c"
+}

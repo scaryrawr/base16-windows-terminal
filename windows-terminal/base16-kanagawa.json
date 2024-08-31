@@ -1,0 +1,23 @@
+{
+  "name": "Base16 Kanagawa",
+  "_author": "Tommaso Laurenzi (https://github.com/rebelot)",
+  "_variant": "dark",
+  "background": "#1f1f28",
+  "foreground": "#dcd7ba",
+  "black": "#1f1f28",
+  "red": "#c34043",
+  "green": "#76946a",
+  "yellow": "#c0a36e",
+  "blue": "#7e9cd8",
+  "purple": "#957fb8",
+  "cyan": "#6a9589",
+  "white": "#dcd7ba",
+  "brightBlack": "#54546d",
+  "brightRed": "#c34043",
+  "brightGreen": "#76946a",
+  "brightYellow": "#c0a36e",
+  "brightBlue": "#7e9cd8",
+  "brightPurple": "#957fb8",
+  "brightCyan": "#6a9589",
+  "brightWhite": "#717c7c"
+}

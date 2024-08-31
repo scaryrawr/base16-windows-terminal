@@ -1,0 +1,23 @@
+{
+  "name": "Base16 vice",
+  "_author": "Thomas Leon Highbaugh thighbaugh@zoho.com",
+  "_variant": "dark",
+  "background": "#17191e",
+  "foreground": "#8b9cbe",
+  "black": "#17191e",
+  "red": "#ff29a8",
+  "green": "#0badff",
+  "yellow": "#f0ffaa",
+  "blue": "#00eaff",
+  "purple": "#00f6d9",
+  "cyan": "#8265ff",
+  "white": "#8b9cbe",
+  "brightBlack": "#383a47",
+  "brightRed": "#ff29a8",
+  "brightGreen": "#0badff",
+  "brightYellow": "#f0ffaa",
+  "brightBlue": "#00eaff",
+  "brightPurple": "#00f6d9",
+  "brightCyan": "#8265ff",
+  "brightWhite": "#f4f4f7"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Base16 SAGA",
+  "_author": "https://github.com/SAGAtheme/SAGA",
+  "_variant": "dark",
+  "background": "#05080a",
+  "foreground": "#dce2f7",
+  "black": "#05080a",
+  "red": "#ffd4e9",
+  "green": "#f7ddff",
+  "yellow": "#fbebc8",
+  "blue": "#c9fff7",
+  "purple": "#dcc3f9",
+  "cyan": "#c5edc1",
+  "white": "#dce2f7",
+  "brightBlack": "#141f27",
+  "brightRed": "#ffd4e9",
+  "brightGreen": "#f7ddff",
+  "brightYellow": "#fbebc8",
+  "brightBlue": "#c9fff7",
+  "brightPurple": "#dcc3f9",
+  "brightCyan": "#c5edc1",
+  "brightWhite": "#ccd3fe"
+}

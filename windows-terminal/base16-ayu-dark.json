@@ -1,0 +1,23 @@
+{
+  "name": "Base16 Ayu Dark",
+  "_author": "Khue Nguyen &lt;Z5483Y@gmail.com&gt;",
+  "_variant": "dark",
+  "background": "#0f1419",
+  "foreground": "#e6e1cf",
+  "black": "#0f1419",
+  "red": "#f07178",
+  "green": "#b8cc52",
+  "yellow": "#ffb454",
+  "blue": "#59c2ff",
+  "purple": "#d2a6ff",
+  "cyan": "#95e6cb",
+  "white": "#e6e1cf",
+  "brightBlack": "#3e4b59",
+  "brightRed": "#f07178",
+  "brightGreen": "#b8cc52",
+  "brightYellow": "#ffb454",
+  "brightBlue": "#59c2ff",
+  "brightPurple": "#d2a6ff",
+  "brightCyan": "#95e6cb",
+  "brightWhite": "#f3f4f5"
+}
