@@ -1,6 +1,8 @@
 [
   {
     "name": "Base16 3024",
+    "_author": "Jan T. Sott (http://github.com/idleberg)",
+    "_variant": "dark",
     "background": "#090300",
     "foreground": "#a5a2a2",
     "black": "#090300",
@@ -22,6 +24,8 @@
   },
   {
     "name": "Base16 Apathy",
+    "_author": "Jannik Siebert (https://github.com/janniks)",
+    "_variant": "dark",
     "background": "#031a16",
     "foreground": "#81b5ac",
     "black": "#031a16",
@@ -43,6 +47,8 @@
   },
   {
     "name": "Base16 Apprentice",
+    "_author": "romainl",
+    "_variant": "dark",
     "background": "#262626",
     "foreground": "#5f5f87",
     "black": "#262626",
@@ -64,6 +70,8 @@
   },
   {
     "name": "Base16 Ashes",
+    "_author": "Jannik Siebert (https://github.com/janniks)",
+    "_variant": "dark",
     "background": "#1c2023",
     "foreground": "#c7ccd1",
     "black": "#1c2023",
@@ -85,6 +93,8 @@
   },
   {
     "name": "Base16 Atelier Cave Light",
+    "_author": "Bram de Haan (http://atelierbramdehaan.nl)",
+    "_variant": "light",
     "background": "#efecf4",
     "foreground": "#585260",
     "black": "#efecf4",
@@ -106,6 +116,8 @@
   },
   {
     "name": "Base16 Atelier Cave",
+    "_author": "Bram de Haan (http://atelierbramdehaan.nl)",
+    "_variant": "dark",
     "background": "#19171c",
     "foreground": "#8b8792",
     "black": "#19171c",
@@ -127,6 +139,8 @@
   },
   {
     "name": "Base16 Atelier Dune Light",
+    "_author": "Bram de Haan (http://atelierbramdehaan.nl)",
+    "_variant": "light",
     "background": "#fefbec",
     "foreground": "#6e6b5e",
     "black": "#fefbec",
@@ -148,6 +162,8 @@
   },
   {
     "name": "Base16 Atelier Dune",
+    "_author": "Bram de Haan (http://atelierbramdehaan.nl)",
+    "_variant": "dark",
     "background": "#20201d",
     "foreground": "#a6a28c",
     "black": "#20201d",
@@ -169,6 +185,8 @@
   },
   {
     "name": "Base16 Atelier Estuary Light",
+    "_author": "Bram de Haan (http://atelierbramdehaan.nl)",
+    "_variant": "light",
     "background": "#f4f3ec",
     "foreground": "#5f5e4e",
     "black": "#f4f3ec",
@@ -190,6 +208,8 @@
   },
   {
     "name": "Base16 Atelier Estuary",
+    "_author": "Bram de Haan (http://atelierbramdehaan.nl)",
+    "_variant": "dark",
     "background": "#22221b",
     "foreground": "#929181",
     "black": "#22221b",
@@ -211,6 +231,8 @@
   },
   {
     "name": "Base16 Atelier Forest Light",
+    "_author": "Bram de Haan (http://atelierbramdehaan.nl)",
+    "_variant": "light",
     "background": "#f1efee",
     "foreground": "#68615e",
     "black": "#f1efee",
@@ -232,6 +254,8 @@
   },
   {
     "name": "Base16 Atelier Forest",
+    "_author": "Bram de Haan (http://atelierbramdehaan.nl)",
+    "_variant": "dark",
     "background": "#1b1918",
     "foreground": "#a8a19f",
     "black": "#1b1918",
@@ -253,6 +277,8 @@
   },
   {
     "name": "Base16 Atelier Heath Light",
+    "_author": "Bram de Haan (http://atelierbramdehaan.nl)",
+    "_variant": "light",
     "background": "#f7f3f7",
     "foreground": "#695d69",
     "black": "#f7f3f7",
@@ -274,6 +300,8 @@
   },
   {
     "name": "Base16 Atelier Heath",
+    "_author": "Bram de Haan (http://atelierbramdehaan.nl)",
+    "_variant": "dark",
     "background": "#1b181b",
     "foreground": "#ab9bab",
     "black": "#1b181b",
@@ -295,6 +323,8 @@
   },
   {
     "name": "Base16 Atelier Lakeside Light",
+    "_author": "Bram de Haan (http://atelierbramdehaan.nl)",
+    "_variant": "light",
     "background": "#ebf8ff",
     "foreground": "#516d7b",
     "black": "#ebf8ff",
@@ -316,6 +346,8 @@
   },
   {
     "name": "Base16 Atelier Lakeside",
+    "_author": "Bram de Haan (http://atelierbramdehaan.nl)",
+    "_variant": "dark",
     "background": "#161b1d",
     "foreground": "#7ea2b4",
     "black": "#161b1d",
@@ -337,6 +369,8 @@
   },
   {
     "name": "Base16 Atelier Plateau Light",
+    "_author": "Bram de Haan (http://atelierbramdehaan.nl)",
+    "_variant": "light",
     "background": "#f4ecec",
     "foreground": "#585050",
     "black": "#f4ecec",
@@ -358,6 +392,8 @@
   },
   {
     "name": "Base16 Atelier Plateau",
+    "_author": "Bram de Haan (http://atelierbramdehaan.nl)",
+    "_variant": "dark",
     "background": "#1b1818",
     "foreground": "#8a8585",
     "black": "#1b1818",
@@ -379,6 +415,8 @@
   },
   {
     "name": "Base16 Atelier Savanna Light",
+    "_author": "Bram de Haan (http://atelierbramdehaan.nl)",
+    "_variant": "light",
     "background": "#ecf4ee",
     "foreground": "#526057",
     "black": "#ecf4ee",
@@ -400,6 +438,8 @@
   },
   {
     "name": "Base16 Atelier Savanna",
+    "_author": "Bram de Haan (http://atelierbramdehaan.nl)",
+    "_variant": "dark",
     "background": "#171c19",
     "foreground": "#87928a",
     "black": "#171c19",
@@ -421,6 +461,8 @@
   },
   {
     "name": "Base16 Atelier Seaside Light",
+    "_author": "Bram de Haan (http://atelierbramdehaan.nl)",
+    "_variant": "light",
     "background": "#f4fbf4",
     "foreground": "#5e6e5e",
     "black": "#f4fbf4",
@@ -442,6 +484,8 @@
   },
   {
     "name": "Base16 Atelier Seaside",
+    "_author": "Bram de Haan (http://atelierbramdehaan.nl)",
+    "_variant": "dark",
     "background": "#131513",
     "foreground": "#8ca68c",
     "black": "#131513",
@@ -463,6 +507,8 @@
   },
   {
     "name": "Base16 Atelier Sulphurpool Light",
+    "_author": "Bram de Haan (http://atelierbramdehaan.nl)",
+    "_variant": "light",
     "background": "#f5f7ff",
     "foreground": "#5e6687",
     "black": "#f5f7ff",
@@ -484,6 +530,8 @@
   },
   {
     "name": "Base16 Atelier Sulphurpool",
+    "_author": "Bram de Haan (http://atelierbramdehaan.nl)",
+    "_variant": "dark",
     "background": "#202746",
     "foreground": "#979db4",
     "black": "#202746",
@@ -505,6 +553,8 @@
   },
   {
     "name": "Base16 Atlas",
+    "_author": "Alex Lende (https://ajlende.com)",
+    "_variant": "dark",
     "background": "#002635",
     "foreground": "#a1a19a",
     "black": "#002635",
@@ -526,6 +576,8 @@
   },
   {
     "name": "Base16 Ayu Dark",
+    "_author": "Khue Nguyen &lt;Z5483Y@gmail.com&gt;",
+    "_variant": "dark",
     "background": "#0f1419",
     "foreground": "#e6e1cf",
     "black": "#0f1419",
@@ -547,6 +599,8 @@
   },
   {
     "name": "Base16 Ayu Light",
+    "_author": "Khue Nguyen &lt;Z5483Y@gmail.com&gt;",
+    "_variant": "light",
     "background": "#fafafa",
     "foreground": "#5c6773",
     "black": "#fafafa",
@@ -568,6 +622,8 @@
   },
   {
     "name": "Base16 Ayu Mirage",
+    "_author": "Khue Nguyen &lt;Z5483Y@gmail.com&gt;",
+    "_variant": "dark",
     "background": "#171b24",
     "foreground": "#cccac2",
     "black": "#171b24",
@@ -589,6 +645,8 @@
   },
   {
     "name": "Base16 Aztec",
+    "_author": "TheNeverMan (github.com/TheNeverMan)",
+    "_variant": "dark",
     "background": "#101600",
     "foreground": "#ffda51",
     "black": "#101600",
@@ -610,6 +668,8 @@
   },
   {
     "name": "Base16 Bespin",
+    "_author": "Jan T. Sott",
+    "_variant": "dark",
     "background": "#28211c",
     "foreground": "#8a8986",
     "black": "#28211c",
@@ -631,6 +691,8 @@
   },
   {
     "name": "Base16 Black Metal (Bathory)",
+    "_author": "metalelf0 (https://github.com/metalelf0)",
+    "_variant": "dark",
     "background": "#000000",
     "foreground": "#c1c1c1",
     "black": "#000000",
@@ -652,6 +714,8 @@
   },
   {
     "name": "Base16 Black Metal (Burzum)",
+    "_author": "metalelf0 (https://github.com/metalelf0)",
+    "_variant": "dark",
     "background": "#000000",
     "foreground": "#c1c1c1",
     "black": "#000000",
@@ -673,6 +737,8 @@
   },
   {
     "name": "Base16 Black Metal (Dark Funeral)",
+    "_author": "metalelf0 (https://github.com/metalelf0)",
+    "_variant": "dark",
     "background": "#000000",
     "foreground": "#c1c1c1",
     "black": "#000000",
@@ -694,6 +760,8 @@
   },
   {
     "name": "Base16 Black Metal (Gorgoroth)",
+    "_author": "metalelf0 (https://github.com/metalelf0)",
+    "_variant": "dark",
     "background": "#000000",
     "foreground": "#c1c1c1",
     "black": "#000000",
@@ -715,6 +783,8 @@
   },
   {
     "name": "Base16 Black Metal (Immortal)",
+    "_author": "metalelf0 (https://github.com/metalelf0)",
+    "_variant": "dark",
     "background": "#000000",
     "foreground": "#c1c1c1",
     "black": "#000000",
@@ -736,6 +806,8 @@
   },
   {
     "name": "Base16 Black Metal (Khold)",
+    "_author": "metalelf0 (https://github.com/metalelf0)",
+    "_variant": "dark",
     "background": "#000000",
     "foreground": "#c1c1c1",
     "black": "#000000",
@@ -757,6 +829,8 @@
   },
   {
     "name": "Base16 Black Metal (Marduk)",
+    "_author": "metalelf0 (https://github.com/metalelf0)",
+    "_variant": "dark",
     "background": "#000000",
     "foreground": "#c1c1c1",
     "black": "#000000",
@@ -778,6 +852,8 @@
   },
   {
     "name": "Base16 Black Metal (Mayhem)",
+    "_author": "metalelf0 (https://github.com/metalelf0)",
+    "_variant": "dark",
     "background": "#000000",
     "foreground": "#c1c1c1",
     "black": "#000000",
@@ -799,6 +875,8 @@
   },
   {
     "name": "Base16 Black Metal (Nile)",
+    "_author": "metalelf0 (https://github.com/metalelf0)",
+    "_variant": "dark",
     "background": "#000000",
     "foreground": "#c1c1c1",
     "black": "#000000",
@@ -820,6 +898,8 @@
   },
   {
     "name": "Base16 Black Metal (Venom)",
+    "_author": "metalelf0 (https://github.com/metalelf0)",
+    "_variant": "dark",
     "background": "#000000",
     "foreground": "#c1c1c1",
     "black": "#000000",
@@ -841,6 +921,8 @@
   },
   {
     "name": "Base16 Black Metal",
+    "_author": "metalelf0 (https://github.com/metalelf0)",
+    "_variant": "dark",
     "background": "#000000",
     "foreground": "#c1c1c1",
     "black": "#000000",
@@ -862,6 +944,8 @@
   },
   {
     "name": "Base16 Blue Forest",
+    "_author": "alonsodomin (https://github.com/alonsodomin)",
+    "_variant": "dark",
     "background": "#141f2e",
     "foreground": "#ffcc33",
     "black": "#141f2e",
@@ -883,6 +967,8 @@
   },
   {
     "name": "Base16 Blueish",
+    "_author": "Ben Mayoras",
+    "_variant": "dark",
     "background": "#182430",
     "foreground": "#c8e1f8",
     "black": "#182430",
@@ -904,6 +990,8 @@
   },
   {
     "name": "Base16 Brewer",
+    "_author": "Timothée Poisot (http://github.com/tpoisot)",
+    "_variant": "dark",
     "background": "#0c0d0e",
     "foreground": "#b7b8b9",
     "black": "#0c0d0e",
@@ -925,6 +1013,8 @@
   },
   {
     "name": "Base16 Bright",
+    "_author": "Chris Kempson (http://chriskempson.com)",
+    "_variant": "dark",
     "background": "#000000",
     "foreground": "#e0e0e0",
     "black": "#000000",
@@ -946,6 +1036,8 @@
   },
   {
     "name": "Base16 Brogrammer",
+    "_author": "Vik Ramanujam (http://github.com/piggyslasher)",
+    "_variant": "dark",
     "background": "#1f1f1f",
     "foreground": "#4e5ab7",
     "black": "#1f1f1f",
@@ -967,6 +1059,8 @@
   },
   {
     "name": "Base16 Brush Trees Dark",
+    "_author": "Abraham White &lt;abelincoln.white@gmail.com&gt;",
+    "_variant": "dark",
     "background": "#485867",
     "foreground": "#b0c5c8",
     "black": "#485867",
@@ -988,6 +1082,8 @@
   },
   {
     "name": "Base16 Brush Trees",
+    "_author": "Abraham White &lt;abelincoln.white@gmail.com&gt;",
+    "_variant": "dark",
     "background": "#e3efef",
     "foreground": "#6d828e",
     "black": "#e3efef",
@@ -1009,6 +1105,8 @@
   },
   {
     "name": "Base16 caroline",
+    "_author": "ed (https://codeberg.org/ed)",
+    "_variant": "dark",
     "background": "#1c1213",
     "foreground": "#a87569",
     "black": "#1c1213",
@@ -1030,6 +1128,8 @@
   },
   {
     "name": "Base16 Catppuccin Frappe",
+    "_author": "https://github.com/catppuccin/catppuccin",
+    "_variant": "dark",
     "background": "#303446",
     "foreground": "#c6d0f5",
     "black": "#303446",
@@ -1051,6 +1151,8 @@
   },
   {
     "name": "Base16 Catppuccin Latte",
+    "_author": "https://github.com/catppuccin/catppuccin",
+    "_variant": "light",
     "background": "#eff1f5",
     "foreground": "#4c4f69",
     "black": "#eff1f5",
@@ -1072,6 +1174,8 @@
   },
   {
     "name": "Base16 Catppuccin Macchiato",
+    "_author": "https://github.com/catppuccin/catppuccin",
+    "_variant": "dark",
     "background": "#24273a",
     "foreground": "#cad3f5",
     "black": "#24273a",
@@ -1093,6 +1197,8 @@
   },
   {
     "name": "Base16 Catppuccin Mocha",
+    "_author": "https://github.com/catppuccin/catppuccin",
+    "_variant": "dark",
     "background": "#1e1e2e",
     "foreground": "#cdd6f4",
     "black": "#1e1e2e",
@@ -1114,6 +1220,8 @@
   },
   {
     "name": "Base16 Chalk",
+    "_author": "Chris Kempson (http://chriskempson.com)",
+    "_variant": "dark",
     "background": "#151515",
     "foreground": "#d0d0d0",
     "black": "#151515",
@@ -1135,6 +1243,8 @@
   },
   {
     "name": "Base16 Circus",
+    "_author": "Stephan Boyer (https://github.com/stepchowfun) and Esther Wang (https://github.com/ewang12)",
+    "_variant": "dark",
     "background": "#191919",
     "foreground": "#a7a7a7",
     "black": "#191919",
@@ -1156,6 +1266,8 @@
   },
   {
     "name": "Base16 Classic Dark",
+    "_author": "Jason Heeris (http://heeris.id.au)",
+    "_variant": "dark",
     "background": "#151515",
     "foreground": "#d0d0d0",
     "black": "#151515",
@@ -1177,6 +1289,8 @@
   },
   {
     "name": "Base16 Classic Light",
+    "_author": "Jason Heeris (http://heeris.id.au)",
+    "_variant": "light",
     "background": "#f5f5f5",
     "foreground": "#303030",
     "black": "#f5f5f5",
@@ -1198,6 +1312,8 @@
   },
   {
     "name": "Base16 Codeschool",
+    "_author": "blockloop",
+    "_variant": "dark",
     "background": "#232c31",
     "foreground": "#9ea7a6",
     "black": "#232c31",
@@ -1219,6 +1335,8 @@
   },
   {
     "name": "Base16 Colors",
+    "_author": "mrmrs (http://clrs.cc)",
+    "_variant": "dark",
     "background": "#111111",
     "foreground": "#bbbbbb",
     "black": "#111111",
@@ -1240,6 +1358,8 @@
   },
   {
     "name": "Base16 Cupcake",
+    "_author": "Chris Kempson (http://chriskempson.com)",
+    "_variant": "light",
     "background": "#fbf1f2",
     "foreground": "#8b8198",
     "black": "#fbf1f2",
@@ -1261,6 +1381,8 @@
   },
   {
     "name": "Base16 Cupertino",
+    "_author": "Defman21",
+    "_variant": "light",
     "background": "#ffffff",
     "foreground": "#404040",
     "black": "#ffffff",
@@ -1282,6 +1404,8 @@
   },
   {
     "name": "Base16 Da One Black",
+    "_author": "NNB (https://github.com/NNBnh)",
+    "_variant": "dark",
     "background": "#000000",
     "foreground": "#ffffff",
     "black": "#000000",
@@ -1303,6 +1427,8 @@
   },
   {
     "name": "Base16 Da One Gray",
+    "_author": "NNB (https://github.com/NNBnh)",
+    "_variant": "dark",
     "background": "#181818",
     "foreground": "#ffffff",
     "black": "#181818",
@@ -1324,6 +1450,8 @@
   },
   {
     "name": "Base16 Da One Ocean",
+    "_author": "NNB (https://github.com/NNBnh)",
+    "_variant": "dark",
     "background": "#171726",
     "foreground": "#ffffff",
     "black": "#171726",
@@ -1345,6 +1473,8 @@
   },
   {
     "name": "Base16 Da One Paper",
+    "_author": "NNB (https://github.com/NNBnh)",
+    "_variant": "light",
     "background": "#faf0dc",
     "foreground": "#181818",
     "black": "#faf0dc",
@@ -1366,6 +1496,8 @@
   },
   {
     "name": "Base16 Da One Sea",
+    "_author": "NNB (https://github.com/NNBnh)",
+    "_variant": "dark",
     "background": "#22273d",
     "foreground": "#ffffff",
     "black": "#22273d",
@@ -1387,6 +1519,8 @@
   },
   {
     "name": "Base16 Da One White",
+    "_author": "NNB (https://github.com/NNBnh)",
+    "_variant": "light",
     "background": "#ffffff",
     "foreground": "#181818",
     "black": "#ffffff",
@@ -1408,6 +1542,8 @@
   },
   {
     "name": "Base16 DanQing Light",
+    "_author": "Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)",
+    "_variant": "light",
     "background": "#fcfefd",
     "foreground": "#5a605d",
     "black": "#fcfefd",
@@ -1429,6 +1565,8 @@
   },
   {
     "name": "Base16 DanQing",
+    "_author": "Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)",
+    "_variant": "dark",
     "background": "#2d302f",
     "foreground": "#e0f0ef",
     "black": "#2d302f",
@@ -1450,6 +1588,8 @@
   },
   {
     "name": "Base16 Darcula",
+    "_author": "jetbrains",
+    "_variant": "dark",
     "background": "#2b2b2b",
     "foreground": "#a9b7c6",
     "black": "#2b2b2b",
@@ -1471,6 +1611,8 @@
   },
   {
     "name": "Base16 darkmoss",
+    "_author": "Gabriel Avanzi (https://github.com/avanzzzi)",
+    "_variant": "dark",
     "background": "#171e1f",
     "foreground": "#c7c7a5",
     "black": "#171e1f",
@@ -1492,6 +1634,8 @@
   },
   {
     "name": "Base16 Darktooth",
+    "_author": "Jason Milkins (https://github.com/jasonm23)",
+    "_variant": "dark",
     "background": "#1d2021",
     "foreground": "#a89984",
     "black": "#1d2021",
@@ -1513,6 +1657,8 @@
   },
   {
     "name": "Base16 Dark Violet",
+    "_author": "ruler501 (https://github.com/ruler501/base16-darkviolet)",
+    "_variant": "dark",
     "background": "#000000",
     "foreground": "#b08ae6",
     "black": "#000000",
@@ -1534,6 +1680,8 @@
   },
   {
     "name": "Base16 Decaf",
+    "_author": "Alex Mirrington (https://github.com/alexmirrington)",
+    "_variant": "dark",
     "background": "#2d2d2d",
     "foreground": "#cccccc",
     "black": "#2d2d2d",
@@ -1555,6 +1703,8 @@
   },
   {
     "name": "Base16 Default Dark",
+    "_author": "Chris Kempson (http://chriskempson.com)",
+    "_variant": "dark",
     "background": "#181818",
     "foreground": "#d8d8d8",
     "black": "#181818",
@@ -1576,6 +1726,8 @@
   },
   {
     "name": "Base16 Default Light",
+    "_author": "Chris Kempson (http://chriskempson.com)",
+    "_variant": "light",
     "background": "#f8f8f8",
     "foreground": "#383838",
     "black": "#f8f8f8",
@@ -1597,6 +1749,8 @@
   },
   {
     "name": "Base16 dirtysea",
+    "_author": "Kahlil (Kal) Hodgson",
+    "_variant": "light",
     "background": "#e0e0e0",
     "foreground": "#000000",
     "black": "#e0e0e0",
@@ -1618,6 +1772,8 @@
   },
   {
     "name": "Base16 Dracula",
+    "_author": "Jamy Golden (http://github.com/JamyGolden), based on Dracula Theme (http://github.com/dracula)",
+    "_variant": "dark",
     "background": "#282a36",
     "foreground": "#f8f8f2",
     "black": "#282a36",
@@ -1639,6 +1795,8 @@
   },
   {
     "name": "Base16 Edge Dark",
+    "_author": "cjayross (https://github.com/cjayross)",
+    "_variant": "dark",
     "background": "#262729",
     "foreground": "#b7bec9",
     "black": "#262729",
@@ -1660,6 +1818,8 @@
   },
   {
     "name": "Base16 Edge Light",
+    "_author": "cjayross (https://github.com/cjayross)",
+    "_variant": "light",
     "background": "#fafafa",
     "foreground": "#5e646f",
     "black": "#fafafa",
@@ -1681,6 +1841,8 @@
   },
   {
     "name": "Base16 Eighties",
+    "_author": "Chris Kempson (http://chriskempson.com)",
+    "_variant": "dark",
     "background": "#2d2d2d",
     "foreground": "#d3d0c8",
     "black": "#2d2d2d",
@@ -1702,6 +1864,8 @@
   },
   {
     "name": "Base16 Embers Light",
+    "_author": "Jannik Siebert (https://github.com/janniks)",
+    "_variant": "light",
     "background": "#d1d6db",
     "foreground": "#323b43",
     "black": "#d1d6db",
@@ -1723,6 +1887,8 @@
   },
   {
     "name": "Base16 Embers",
+    "_author": "Jannik Siebert (https://github.com/janniks)",
+    "_variant": "dark",
     "background": "#16130f",
     "foreground": "#a39a90",
     "black": "#16130f",
@@ -1744,6 +1910,8 @@
   },
   {
     "name": "Base16 emil",
+    "_author": "limelier",
+    "_variant": "light",
     "background": "#efefef",
     "foreground": "#313145",
     "black": "#efefef",
@@ -1765,6 +1933,8 @@
   },
   {
     "name": "Base16 Equilibrium Dark",
+    "_author": "Carlo Abelli",
+    "_variant": "dark",
     "background": "#0c1118",
     "foreground": "#afaba2",
     "black": "#0c1118",
@@ -1786,6 +1956,8 @@
   },
   {
     "name": "Base16 Equilibrium Gray Dark",
+    "_author": "Carlo Abelli",
+    "_variant": "dark",
     "background": "#111111",
     "foreground": "#ababab",
     "black": "#111111",
@@ -1807,6 +1979,8 @@
   },
   {
     "name": "Base16 Equilibrium Gray Light",
+    "_author": "Carlo Abelli",
+    "_variant": "light",
     "background": "#f1f1f1",
     "foreground": "#474747",
     "black": "#f1f1f1",
@@ -1828,6 +2002,8 @@
   },
   {
     "name": "Base16 Equilibrium Light",
+    "_author": "Carlo Abelli",
+    "_variant": "light",
     "background": "#f5f0e7",
     "foreground": "#43474e",
     "black": "#f5f0e7",
@@ -1849,6 +2025,8 @@
   },
   {
     "name": "Base16 eris",
+    "_author": "ed (https://codeberg.org/ed)",
+    "_variant": "dark",
     "background": "#0a0920",
     "foreground": "#606bac",
     "black": "#0a0920",
@@ -1870,6 +2048,8 @@
   },
   {
     "name": "Base16 Espresso",
+    "_author": "Unknown. Maintained by Alex Mirrington (https://github.com/alexmirrington)",
+    "_variant": "dark",
     "background": "#2d2d2d",
     "foreground": "#cccccc",
     "black": "#2d2d2d",
@@ -1891,6 +2071,8 @@
   },
   {
     "name": "Base16 Eva Dim",
+    "_author": "kjakapat (https://github.com/kjakapat)",
+    "_variant": "dark",
     "background": "#2a3b4d",
     "foreground": "#9fa2a6",
     "black": "#2a3b4d",
@@ -1912,6 +2094,8 @@
   },
   {
     "name": "Base16 Eva",
+    "_author": "kjakapat (https://github.com/kjakapat)",
+    "_variant": "dark",
     "background": "#2a3b4d",
     "foreground": "#9fa2a6",
     "black": "#2a3b4d",
@@ -1933,6 +2117,8 @@
   },
   {
     "name": "Base16 Evenok Dark",
+    "_author": "Mekeor Melire",
+    "_variant": "dark",
     "background": "#000000",
     "foreground": "#d0d0d0",
     "black": "#000000",
@@ -1954,6 +2140,8 @@
   },
   {
     "name": "Base16 Everforest Dark Hard",
+    "_author": "Sainnhe Park (https://github.com/sainnhe)",
+    "_variant": "dark",
     "background": "#272e33",
     "foreground": "#d3c6aa",
     "black": "#272e33",
@@ -1975,6 +2163,8 @@
   },
   {
     "name": "Base16 Everforest",
+    "_author": "Sainnhe Park (https://github.com/sainnhe)",
+    "_variant": "dark",
     "background": "#2d353b",
     "foreground": "#d3c6aa",
     "black": "#2d353b",
@@ -1996,6 +2186,8 @@
   },
   {
     "name": "Base16 Flat",
+    "_author": "Chris Kempson (http://chriskempson.com)",
+    "_variant": "dark",
     "background": "#2c3e50",
     "foreground": "#e0e0e0",
     "black": "#2c3e50",
@@ -2017,6 +2209,8 @@
   },
   {
     "name": "Base16 Framer",
+    "_author": "Framer (Maintained by Jesse Hoyos)",
+    "_variant": "dark",
     "background": "#181818",
     "foreground": "#d0d0d0",
     "black": "#181818",
@@ -2038,6 +2232,8 @@
   },
   {
     "name": "Base16 Fruit Soda",
+    "_author": "jozip",
+    "_variant": "light",
     "background": "#f1ecf1",
     "foreground": "#515151",
     "black": "#f1ecf1",
@@ -2059,6 +2255,8 @@
   },
   {
     "name": "Base16 Gigavolt",
+    "_author": "Aidan Swope (http://github.com/Whillikers)",
+    "_variant": "dark",
     "background": "#202126",
     "foreground": "#e9e7e1",
     "black": "#202126",
@@ -2080,6 +2278,8 @@
   },
   {
     "name": "Base16 Github",
+    "_author": "Defman21",
+    "_variant": "light",
     "background": "#ffffff",
     "foreground": "#333333",
     "black": "#ffffff",
@@ -2101,6 +2301,8 @@
   },
   {
     "name": "Base16 Google Dark",
+    "_author": "Seth Wright (http://sethawright.com)",
+    "_variant": "dark",
     "background": "#1d1f21",
     "foreground": "#c5c8c6",
     "black": "#1d1f21",
@@ -2122,6 +2324,8 @@
   },
   {
     "name": "Base16 Google Light",
+    "_author": "Seth Wright (http://sethawright.com)",
+    "_variant": "light",
     "background": "#ffffff",
     "foreground": "#373b41",
     "black": "#ffffff",
@@ -2143,6 +2347,8 @@
   },
   {
     "name": "Base16 Gotham",
+    "_author": "Andrea Leopardi (arranged by Brett Jones)",
+    "_variant": "dark",
     "background": "#0c1014",
     "foreground": "#599cab",
     "black": "#0c1014",
@@ -2164,6 +2370,8 @@
   },
   {
     "name": "Base16 Grayscale Dark",
+    "_author": "Alexandre Gavioli (https://github.com/Alexx2/)",
+    "_variant": "dark",
     "background": "#101010",
     "foreground": "#b9b9b9",
     "black": "#101010",
@@ -2185,6 +2393,8 @@
   },
   {
     "name": "Base16 Grayscale Light",
+    "_author": "Alexandre Gavioli (https://github.com/Alexx2/)",
+    "_variant": "light",
     "background": "#f7f7f7",
     "foreground": "#464646",
     "black": "#f7f7f7",
@@ -2206,6 +2416,8 @@
   },
   {
     "name": "Base16 Green Screen",
+    "_author": "Chris Kempson (http://chriskempson.com)",
+    "_variant": "dark",
     "background": "#001100",
     "foreground": "#00bb00",
     "black": "#001100",
@@ -2227,6 +2439,8 @@
   },
   {
     "name": "Base16 Gruber",
+    "_author": "Patel, Nimai &lt;nimai.m.patel@gmail.com&gt;, colors from www.github.com/rexim/gruber-darker-theme",
+    "_variant": "dark",
     "background": "#181818",
     "foreground": "#f4f4ff",
     "black": "#181818",
@@ -2248,6 +2462,8 @@
   },
   {
     "name": "Base16 Gruvbox dark, hard",
+    "_author": "Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)",
+    "_variant": "dark",
     "background": "#1d2021",
     "foreground": "#d5c4a1",
     "black": "#1d2021",
@@ -2269,6 +2485,8 @@
   },
   {
     "name": "Base16 Gruvbox dark, medium",
+    "_author": "Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)",
+    "_variant": "dark",
     "background": "#282828",
     "foreground": "#d5c4a1",
     "black": "#282828",
@@ -2290,6 +2508,8 @@
   },
   {
     "name": "Base16 Gruvbox dark, pale",
+    "_author": "Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)",
+    "_variant": "dark",
     "background": "#262626",
     "foreground": "#dab997",
     "black": "#262626",
@@ -2311,6 +2531,8 @@
   },
   {
     "name": "Base16 Gruvbox dark, soft",
+    "_author": "Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)",
+    "_variant": "dark",
     "background": "#32302f",
     "foreground": "#d5c4a1",
     "black": "#32302f",
@@ -2332,6 +2554,8 @@
   },
   {
     "name": "Base16 Gruvbox light, hard",
+    "_author": "Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)",
+    "_variant": "light",
     "background": "#f9f5d7",
     "foreground": "#504945",
     "black": "#f9f5d7",
@@ -2353,6 +2577,8 @@
   },
   {
     "name": "Base16 Gruvbox light, medium",
+    "_author": "Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)",
+    "_variant": "light",
     "background": "#fbf1c7",
     "foreground": "#504945",
     "black": "#fbf1c7",
@@ -2374,6 +2600,8 @@
   },
   {
     "name": "Base16 Gruvbox light, soft",
+    "_author": "Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)",
+    "_variant": "light",
     "background": "#f2e5bc",
     "foreground": "#504945",
     "black": "#f2e5bc",
@@ -2395,6 +2623,8 @@
   },
   {
     "name": "Base16 Gruvbox Material Dark, Hard",
+    "_author": "Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)",
+    "_variant": "dark",
     "background": "#202020",
     "foreground": "#ddc7a1",
     "black": "#202020",
@@ -2416,6 +2646,8 @@
   },
   {
     "name": "Base16 Gruvbox Material Dark, Medium",
+    "_author": "Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)",
+    "_variant": "dark",
     "background": "#292828",
     "foreground": "#ddc7a1",
     "black": "#292828",
@@ -2437,6 +2669,8 @@
   },
   {
     "name": "Base16 Gruvbox Material Dark, Soft",
+    "_author": "Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)",
+    "_variant": "dark",
     "background": "#32302f",
     "foreground": "#ddc7a1",
     "black": "#32302f",
@@ -2458,6 +2692,8 @@
   },
   {
     "name": "Base16 Gruvbox Material Light, Hard",
+    "_author": "Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)",
+    "_variant": "light",
     "background": "#f9f5d7",
     "foreground": "#654735",
     "black": "#f9f5d7",
@@ -2479,6 +2715,8 @@
   },
   {
     "name": "Base16 Gruvbox Material Light, Medium",
+    "_author": "Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)",
+    "_variant": "light",
     "background": "#fbf1c7",
     "foreground": "#654735",
     "black": "#fbf1c7",
@@ -2500,6 +2738,8 @@
   },
   {
     "name": "Base16 Gruvbox Material Light, Soft",
+    "_author": "Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)",
+    "_variant": "light",
     "background": "#f2e5bc",
     "foreground": "#654735",
     "black": "#f2e5bc",
@@ -2521,6 +2761,8 @@
   },
   {
     "name": "Base16 Hardcore",
+    "_author": "Chris Caller",
+    "_variant": "dark",
     "background": "#212121",
     "foreground": "#cdcdcd",
     "black": "#212121",
@@ -2542,6 +2784,8 @@
   },
   {
     "name": "Base16 Harmonic16 Dark",
+    "_author": "Jannik Siebert (https://github.com/janniks)",
+    "_variant": "dark",
     "background": "#0b1c2c",
     "foreground": "#cbd6e2",
     "black": "#0b1c2c",
@@ -2563,6 +2807,8 @@
   },
   {
     "name": "Base16 Harmonic16 Light",
+    "_author": "Jannik Siebert (https://github.com/janniks)",
+    "_variant": "light",
     "background": "#f7f9fb",
     "foreground": "#405c79",
     "black": "#f7f9fb",
@@ -2584,6 +2830,8 @@
   },
   {
     "name": "Base16 Heetch Light",
+    "_author": "Geoffrey Teale (tealeg@gmail.com)",
+    "_variant": "light",
     "background": "#feffff",
     "foreground": "#5a496e",
     "black": "#feffff",
@@ -2605,6 +2853,8 @@
   },
   {
     "name": "Base16 Heetch Dark",
+    "_author": "Geoffrey Teale (tealeg@gmail.com)",
+    "_variant": "dark",
     "background": "#190134",
     "foreground": "#bdb6c5",
     "black": "#190134",
@@ -2626,6 +2876,8 @@
   },
   {
     "name": "Base16 Helios",
+    "_author": "Alex Meyer (https://github.com/reyemxela)",
+    "_variant": "dark",
     "background": "#1d2021",
     "foreground": "#d5d5d5",
     "black": "#1d2021",
@@ -2647,6 +2899,8 @@
   },
   {
     "name": "Base16 Hopscotch",
+    "_author": "Jan T. Sott",
+    "_variant": "dark",
     "background": "#322931",
     "foreground": "#b9b5b8",
     "black": "#322931",
@@ -2668,6 +2922,8 @@
   },
   {
     "name": "Base16 Horizon Dark",
+    "_author": "Michaël Ball (http://github.com/michael-ball/)",
+    "_variant": "dark",
     "background": "#1c1e26",
     "foreground": "#cbced0",
     "black": "#1c1e26",
@@ -2689,6 +2945,8 @@
   },
   {
     "name": "Base16 Horizon Light",
+    "_author": "Michaël Ball (http://github.com/michael-ball/)",
+    "_variant": "light",
     "background": "#fdf0ed",
     "foreground": "#403c3d",
     "black": "#fdf0ed",
@@ -2710,6 +2968,8 @@
   },
   {
     "name": "Base16 Horizon Terminal Dark",
+    "_author": "Michaël Ball (http://github.com/michael-ball/)",
+    "_variant": "dark",
     "background": "#1c1e26",
     "foreground": "#cbced0",
     "black": "#1c1e26",
@@ -2731,6 +2991,8 @@
   },
   {
     "name": "Base16 Horizon Terminal Light",
+    "_author": "Michaël Ball (http://github.com/michael-ball/)",
+    "_variant": "light",
     "background": "#fdf0ed",
     "foreground": "#403c3d",
     "black": "#fdf0ed",
@@ -2752,6 +3014,8 @@
   },
   {
     "name": "Base16 Humanoid dark",
+    "_author": "Thomas (tasmo) Friese",
+    "_variant": "dark",
     "background": "#232629",
     "foreground": "#f8f8f2",
     "black": "#232629",
@@ -2773,6 +3037,8 @@
   },
   {
     "name": "Base16 Humanoid light",
+    "_author": "Thomas (tasmo) Friese",
+    "_variant": "light",
     "background": "#f8f8f2",
     "foreground": "#232629",
     "black": "#f8f8f2",
@@ -2794,6 +3060,8 @@
   },
   {
     "name": "Base16 iA Dark",
+    "_author": "iA Inc. (modified by aramisgithub)",
+    "_variant": "dark",
     "background": "#1a1a1a",
     "foreground": "#cccccc",
     "black": "#1a1a1a",
@@ -2815,6 +3083,8 @@
   },
   {
     "name": "Base16 iA Light",
+    "_author": "iA Inc. (modified by aramisgithub)",
+    "_variant": "light",
     "background": "#f6f6f6",
     "foreground": "#181818",
     "black": "#f6f6f6",
@@ -2836,6 +3106,8 @@
   },
   {
     "name": "Base16 Icy Dark",
+    "_author": "icyphox (https://icyphox.ga)",
+    "_variant": "light",
     "background": "#021012",
     "foreground": "#095b67",
     "black": "#021012",
@@ -2857,6 +3129,8 @@
   },
   {
     "name": "Base16 IR Black",
+    "_author": "Timothée Poisot (http://timotheepoisot.fr)",
+    "_variant": "dark",
     "background": "#000000",
     "foreground": "#b5b3aa",
     "black": "#000000",
@@ -2878,6 +3152,8 @@
   },
   {
     "name": "Base16 Isotope",
+    "_author": "Jan T. Sott",
+    "_variant": "dark",
     "background": "#000000",
     "foreground": "#d0d0d0",
     "black": "#000000",
@@ -2899,6 +3175,8 @@
   },
   {
     "name": "Base16 Jabuti",
+    "_author": "https://github.com/notusknot",
+    "_variant": "dark",
     "background": "#292a37",
     "foreground": "#c0cbe3",
     "black": "#292a37",
@@ -2920,6 +3198,8 @@
   },
   {
     "name": "Base16 Kanagawa",
+    "_author": "Tommaso Laurenzi (https://github.com/rebelot)",
+    "_variant": "dark",
     "background": "#1f1f28",
     "foreground": "#dcd7ba",
     "black": "#1f1f28",
@@ -2941,6 +3221,8 @@
   },
   {
     "name": "Base16 Katy",
+    "_author": "George Essig (https://github.com/gessig)",
+    "_variant": "dark",
     "background": "#292d3e",
     "foreground": "#959dcb",
     "black": "#292d3e",
@@ -2962,6 +3244,8 @@
   },
   {
     "name": "Base16 Kimber",
+    "_author": "Mishka Nguyen (https://github.com/akhsiM)",
+    "_variant": "dark",
     "background": "#222222",
     "foreground": "#dedee7",
     "black": "#222222",
@@ -2983,6 +3267,8 @@
   },
   {
     "name": "Base16 lime",
+    "_author": "limelier",
+    "_variant": "dark",
     "background": "#1a1a2f",
     "foreground": "#818175",
     "black": "#1a1a2f",
@@ -3004,6 +3290,8 @@
   },
   {
     "name": "Base16 Macintosh",
+    "_author": "Rebecca Bettencourt (http://www.kreativekorp.com)",
+    "_variant": "dark",
     "background": "#000000",
     "foreground": "#c0c0c0",
     "black": "#000000",
@@ -3025,6 +3313,8 @@
   },
   {
     "name": "Base16 Marrakesh",
+    "_author": "Alexandre Gavioli (http://github.com/Alexx2/)",
+    "_variant": "dark",
     "background": "#201602",
     "foreground": "#948e48",
     "black": "#201602",
@@ -3046,6 +3336,8 @@
   },
   {
     "name": "Base16 Materia",
+    "_author": "Defman21",
+    "_variant": "dark",
     "background": "#263238",
     "foreground": "#cdd3de",
     "black": "#263238",
@@ -3067,6 +3359,8 @@
   },
   {
     "name": "Base16 Material Darker",
+    "_author": "Nate Peterson",
+    "_variant": "dark",
     "background": "#212121",
     "foreground": "#eeffff",
     "black": "#212121",
@@ -3088,6 +3382,8 @@
   },
   {
     "name": "Base16 Material Lighter",
+    "_author": "Nate Peterson",
+    "_variant": "light",
     "background": "#fafafa",
     "foreground": "#80cbc4",
     "black": "#fafafa",
@@ -3109,6 +3405,8 @@
   },
   {
     "name": "Base16 Material Palenight",
+    "_author": "Nate Peterson",
+    "_variant": "dark",
     "background": "#292d3e",
     "foreground": "#959dcb",
     "black": "#292d3e",
@@ -3130,6 +3428,8 @@
   },
   {
     "name": "Base16 Material Vivid",
+    "_author": "joshyrobot",
+    "_variant": "dark",
     "background": "#202124",
     "foreground": "#80868b",
     "black": "#202124",
@@ -3151,6 +3451,8 @@
   },
   {
     "name": "Base16 Material",
+    "_author": "Nate Peterson",
+    "_variant": "dark",
     "background": "#263238",
     "foreground": "#eeffff",
     "black": "#263238",
@@ -3172,6 +3474,8 @@
   },
   {
     "name": "Base16 Measured Dark",
+    "_author": "Measured (https://measured.co)",
+    "_variant": "dark",
     "background": "#00211f",
     "foreground": "#dcdcdc",
     "black": "#00211f",
@@ -3193,6 +3497,8 @@
   },
   {
     "name": "Base16 Measured Light",
+    "_author": "Measured (https://measured.co)",
+    "_variant": "light",
     "background": "#fdf9f5",
     "foreground": "#292929",
     "black": "#fdf9f5",
@@ -3214,6 +3520,8 @@
   },
   {
     "name": "Base16 Mellow Purple",
+    "_author": "gidsi",
+    "_variant": "dark",
     "background": "#1e0528",
     "foreground": "#ffeeff",
     "black": "#1e0528",
@@ -3235,6 +3543,8 @@
   },
   {
     "name": "Base16 Mexico Light",
+    "_author": "Sheldon Johnson",
+    "_variant": "light",
     "background": "#f8f8f8",
     "foreground": "#383838",
     "black": "#f8f8f8",
@@ -3256,6 +3566,8 @@
   },
   {
     "name": "Base16 Mocha",
+    "_author": "Chris Kempson (http://chriskempson.com)",
+    "_variant": "dark",
     "background": "#3b3228",
     "foreground": "#d0c8c6",
     "black": "#3b3228",
@@ -3277,6 +3589,8 @@
   },
   {
     "name": "Base16 Monokai",
+    "_author": "Wimer Hazenberg (http://www.monokai.nl)",
+    "_variant": "dark",
     "background": "#272822",
     "foreground": "#f8f8f2",
     "black": "#272822",
@@ -3298,6 +3612,8 @@
   },
   {
     "name": "Base16 Moonlight",
+    "_author": "Jeremy Swinarton (https://github.com/jswinarton)",
+    "_variant": "dark",
     "background": "#212337",
     "foreground": "#a3ace1",
     "black": "#212337",
@@ -3319,6 +3635,8 @@
   },
   {
     "name": "Base16 Mountain",
+    "_author": "gnsfujiwara (https://github.com/gnsfujiwara)",
+    "_variant": "dark",
     "background": "#0f0f0f",
     "foreground": "#cacaca",
     "black": "#0f0f0f",
@@ -3340,6 +3658,8 @@
   },
   {
     "name": "Base16 Nebula",
+    "_author": "Gabriel Fontes (https://github.com/Misterio77)",
+    "_variant": "dark",
     "background": "#22273b",
     "foreground": "#a4a6a9",
     "black": "#22273b",
@@ -3361,6 +3681,8 @@
   },
   {
     "name": "Base16 Nord Light",
+    "_author": "threddast, based on fuxialexander&#39;s doom-nord-light-theme (Doom Emacs)",
+    "_variant": "light",
     "background": "#e5e9f0",
     "foreground": "#2e3440",
     "black": "#e5e9f0",
@@ -3382,6 +3704,8 @@
   },
   {
     "name": "Base16 Nord",
+    "_author": "arcticicestudio",
+    "_variant": "dark",
     "background": "#2e3440",
     "foreground": "#e5e9f0",
     "black": "#2e3440",
@@ -3403,6 +3727,8 @@
   },
   {
     "name": "Base16 Nova",
+    "_author": "George Essig (https://github.com/gessig), Trevor D. Miller (https://trevordmiller.com)",
+    "_variant": "dark",
     "background": "#3c4c55",
     "foreground": "#c5d4dd",
     "black": "#3c4c55",
@@ -3424,6 +3750,8 @@
   },
   {
     "name": "Base16 Ocean",
+    "_author": "Chris Kempson (http://chriskempson.com)",
+    "_variant": "dark",
     "background": "#2b303b",
     "foreground": "#c0c5ce",
     "black": "#2b303b",
@@ -3445,6 +3773,8 @@
   },
   {
     "name": "Base16 OceanicNext",
+    "_author": "https://github.com/voronianski/oceanic-next-color-scheme",
+    "_variant": "dark",
     "background": "#1b2b34",
     "foreground": "#c0c5ce",
     "black": "#1b2b34",
@@ -3466,6 +3796,8 @@
   },
   {
     "name": "Base16 One Light",
+    "_author": "Daniel Pfeifer (http://github.com/purpleKarrot)",
+    "_variant": "light",
     "background": "#fafafa",
     "foreground": "#383a42",
     "black": "#fafafa",
@@ -3487,6 +3819,8 @@
   },
   {
     "name": "Base16 OneDark Dark",
+    "_author": "olimorris (https://github.com/olimorris)",
+    "_variant": "dark",
     "background": "#000000",
     "foreground": "#abb2bf",
     "black": "#000000",
@@ -3508,6 +3842,8 @@
   },
   {
     "name": "Base16 OneDark",
+    "_author": "Lalit Magant (http://github.com/tilal6991)",
+    "_variant": "dark",
     "background": "#282c34",
     "foreground": "#abb2bf",
     "black": "#282c34",
@@ -3529,6 +3865,8 @@
   },
   {
     "name": "Base16 Outrun Dark",
+    "_author": "Hugo Delahousse (http://github.com/hugodelahousse/)",
+    "_variant": "dark",
     "background": "#00002a",
     "foreground": "#d0d0fa",
     "black": "#00002a",
@@ -3550,6 +3888,8 @@
   },
   {
     "name": "Base16 Oxocarbon Dark",
+    "_author": "shaunsingh/IBM",
+    "_variant": "dark",
     "background": "#161616",
     "foreground": "#f2f4f8",
     "black": "#161616",
@@ -3571,6 +3911,8 @@
   },
   {
     "name": "Base16 Oxocarbon Light",
+    "_author": "shaunsingh/IBM",
+    "_variant": "light",
     "background": "#f2f4f8",
     "foreground": "#393939",
     "black": "#f2f4f8",
@@ -3592,6 +3934,8 @@
   },
   {
     "name": "Base16 pandora",
+    "_author": "Cassandra Fox",
+    "_variant": "dark",
     "background": "#131213",
     "foreground": "#f15c99",
     "black": "#131213",
@@ -3613,6 +3957,8 @@
   },
   {
     "name": "Base16 PaperColor Dark",
+    "_author": "Jon Leopard (http://github.com/jonleopard), based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)",
+    "_variant": "dark",
     "background": "#1c1c1c",
     "foreground": "#808080",
     "black": "#1c1c1c",
@@ -3634,6 +3980,8 @@
   },
   {
     "name": "Base16 PaperColor Light",
+    "_author": "Jon Leopard (http://github.com/jonleopard), based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)",
+    "_variant": "light",
     "background": "#eeeeee",
     "foreground": "#444444",
     "black": "#eeeeee",
@@ -3655,6 +4003,8 @@
   },
   {
     "name": "Base16 Paraiso",
+    "_author": "Jan T. Sott",
+    "_variant": "dark",
     "background": "#2f1e2e",
     "foreground": "#a39e9b",
     "black": "#2f1e2e",
@@ -3676,6 +4026,8 @@
   },
   {
     "name": "Base16 Pasque",
+    "_author": "Gabriel Fontes (https://github.com/Misterio77)",
+    "_variant": "dark",
     "background": "#271c3a",
     "foreground": "#dedcdf",
     "black": "#271c3a",
@@ -3697,6 +4049,8 @@
   },
   {
     "name": "Base16 PhD",
+    "_author": "Hennig Hasemann (http://leetless.de/vim.html)",
+    "_variant": "dark",
     "background": "#061229",
     "foreground": "#b8bbc2",
     "black": "#061229",
@@ -3718,6 +4072,8 @@
   },
   {
     "name": "Base16 Pico",
+    "_author": "PICO-8 (http://www.lexaloffle.com/pico-8.php)",
+    "_variant": "dark",
     "background": "#000000",
     "foreground": "#5f574f",
     "black": "#000000",
@@ -3739,6 +4095,8 @@
   },
   {
     "name": "Base16 pinky",
+    "_author": "Benjamin (https://github.com/b3nj5m1n)",
+    "_variant": "dark",
     "background": "#171517",
     "foreground": "#f5f5f5",
     "black": "#171517",
@@ -3760,6 +4118,8 @@
   },
   {
     "name": "Base16 Pop",
+    "_author": "Chris Kempson (http://chriskempson.com)",
+    "_variant": "dark",
     "background": "#000000",
     "foreground": "#d0d0d0",
     "black": "#000000",
@@ -3781,6 +4141,8 @@
   },
   {
     "name": "Base16 Porple",
+    "_author": "Niek den Breeje (https://github.com/AuditeMarlow)",
+    "_variant": "dark",
     "background": "#292c36",
     "foreground": "#d8d8d8",
     "black": "#292c36",
@@ -3802,6 +4164,8 @@
   },
   {
     "name": "Base16 Precious Dark Eleven",
+    "_author": "4lex4 &lt;4lex49@zoho.com&gt;",
+    "_variant": "dark",
     "background": "#1c1e20",
     "foreground": "#b8b7b6",
     "black": "#1c1e20",
@@ -3823,6 +4187,8 @@
   },
   {
     "name": "Base16 Precious Dark Fifteen",
+    "_author": "4lex4 &lt;4lex49@zoho.com&gt;",
+    "_variant": "dark",
     "background": "#23262b",
     "foreground": "#bab9b6",
     "black": "#23262b",
@@ -3844,6 +4210,8 @@
   },
   {
     "name": "Base16 Precious Light Warm",
+    "_author": "4lex4 &lt;4lex49@zoho.com&gt;",
+    "_variant": "light",
     "background": "#fff5e5",
     "foreground": "#4e5359",
     "black": "#fff5e5",
@@ -3865,6 +4233,8 @@
   },
   {
     "name": "Base16 Precious Light White",
+    "_author": "4lex4 &lt;4lex49@zoho.com&gt;",
+    "_variant": "light",
     "background": "#ffffff",
     "foreground": "#555555",
     "black": "#ffffff",
@@ -3886,6 +4256,8 @@
   },
   {
     "name": "Base16 Primer Dark Dimmed",
+    "_author": "Jimmy Lin",
+    "_variant": "dark",
     "background": "#1c2128",
     "foreground": "#909dab",
     "black": "#1c2128",
@@ -3907,6 +4279,8 @@
   },
   {
     "name": "Base16 Primer Dark",
+    "_author": "Jimmy Lin",
+    "_variant": "dark",
     "background": "#010409",
     "foreground": "#b1bac4",
     "black": "#010409",
@@ -3928,6 +4302,8 @@
   },
   {
     "name": "Base16 Primer Light",
+    "_author": "Jimmy Lin",
+    "_variant": "light",
     "background": "#fafbfc",
     "foreground": "#2f363d",
     "black": "#fafbfc",
@@ -3949,6 +4325,8 @@
   },
   {
     "name": "Base16 Purpledream",
+    "_author": "malet",
+    "_variant": "dark",
     "background": "#100510",
     "foreground": "#ddd0dd",
     "black": "#100510",
@@ -3970,6 +4348,8 @@
   },
   {
     "name": "Base16 Qualia",
+    "_author": "isaacwhanson",
+    "_variant": "dark",
     "background": "#101010",
     "foreground": "#c0c0c0",
     "black": "#101010",
@@ -3991,6 +4371,8 @@
   },
   {
     "name": "Base16 Railscasts",
+    "_author": "Ryan Bates (http://railscasts.com)",
+    "_variant": "dark",
     "background": "#2b2b2b",
     "foreground": "#e6e1dc",
     "black": "#2b2b2b",
@@ -4012,6 +4394,8 @@
   },
   {
     "name": "Base16 Rebecca",
+    "_author": "Victor Borja (http://github.com/vic) based on Rebecca Theme (http://github.com/vic/rebecca-theme)",
+    "_variant": "dark",
     "background": "#292a44",
     "foreground": "#f1eff8",
     "black": "#292a44",
@@ -4033,6 +4417,8 @@
   },
   {
     "name": "Base16 Rosé Pine Dawn",
+    "_author": "Emilia Dunfelt &lt;edun@dunfelt.se&gt;",
+    "_variant": "light",
     "background": "#faf4ed",
     "foreground": "#575279",
     "black": "#faf4ed",
@@ -4054,6 +4440,8 @@
   },
   {
     "name": "Base16 Rosé Pine Moon",
+    "_author": "Emilia Dunfelt &lt;edun@dunfelt.se&gt;",
+    "_variant": "dark",
     "background": "#232136",
     "foreground": "#e0def4",
     "black": "#232136",
@@ -4075,6 +4463,8 @@
   },
   {
     "name": "Base16 Rosé Pine",
+    "_author": "Emilia Dunfelt &lt;edun@dunfelt.se&gt;",
+    "_variant": "dark",
     "background": "#191724",
     "foreground": "#e0def4",
     "black": "#191724",
@@ -4096,6 +4486,8 @@
   },
   {
     "name": "Base16 SAGA",
+    "_author": "https://github.com/SAGAtheme/SAGA",
+    "_variant": "dark",
     "background": "#05080a",
     "foreground": "#dce2f7",
     "black": "#05080a",
@@ -4117,6 +4509,8 @@
   },
   {
     "name": "Base16 Sagelight",
+    "_author": "Carter Veldhuizen",
+    "_variant": "light",
     "background": "#f8f8f8",
     "foreground": "#383838",
     "black": "#f8f8f8",
@@ -4138,6 +4532,8 @@
   },
   {
     "name": "Base16 Sakura",
+    "_author": "Misterio77 (http://github.com/Misterio77)",
+    "_variant": "light",
     "background": "#feedf3",
     "foreground": "#564448",
     "black": "#feedf3",
@@ -4159,6 +4555,8 @@
   },
   {
     "name": "Base16 Sandcastle",
+    "_author": "George Essig (https://github.com/gessig)",
+    "_variant": "dark",
     "background": "#282c34",
     "foreground": "#a89984",
     "black": "#282c34",
@@ -4180,6 +4578,8 @@
   },
   {
     "name": "Base16 selenized-black",
+    "_author": "Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali",
+    "_variant": "dark",
     "background": "#181818",
     "foreground": "#b9b9b9",
     "black": "#181818",
@@ -4201,6 +4601,8 @@
   },
   {
     "name": "Base16 selenized-dark",
+    "_author": "Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali",
+    "_variant": "dark",
     "background": "#103c48",
     "foreground": "#adbcbc",
     "black": "#103c48",
@@ -4222,6 +4624,8 @@
   },
   {
     "name": "Base16 selenized-light",
+    "_author": "Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali",
+    "_variant": "light",
     "background": "#fbf3db",
     "foreground": "#53676d",
     "black": "#fbf3db",
@@ -4243,6 +4647,8 @@
   },
   {
     "name": "Base16 selenized-white",
+    "_author": "Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali",
+    "_variant": "light",
     "background": "#ffffff",
     "foreground": "#474747",
     "black": "#ffffff",
@@ -4264,6 +4670,8 @@
   },
   {
     "name": "Base16 Seti UI",
+    "_author": "",
+    "_variant": "dark",
     "background": "#151718",
     "foreground": "#d6d6d6",
     "black": "#151718",
@@ -4285,6 +4693,8 @@
   },
   {
     "name": "Base16 Shades of Purple",
+    "_author": "Iolar Demartini Junior (http://github.com/demartini), based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode)",
+    "_variant": "dark",
     "background": "#1e1e3f",
     "foreground": "#c7c7c7",
     "black": "#1e1e3f",
@@ -4306,6 +4716,8 @@
   },
   {
     "name": "Base16 ShadeSmear Dark",
+    "_author": "Kyle Giammarco (http://kyle.giammar.co)",
+    "_variant": "dark",
     "background": "#232323",
     "foreground": "#dbdbdb",
     "black": "#232323",
@@ -4327,6 +4739,8 @@
   },
   {
     "name": "Base16 ShadeSmear Light",
+    "_author": "Kyle Giammarco (http://kyle.giammar.co)",
+    "_variant": "light",
     "background": "#dbdbdb",
     "foreground": "#232323",
     "black": "#dbdbdb",
@@ -4348,6 +4762,8 @@
   },
   {
     "name": "Base16 Shapeshifter",
+    "_author": "Tyler Benziger (http://tybenz.com)",
+    "_variant": "light",
     "background": "#f9f9f9",
     "foreground": "#102015",
     "black": "#f9f9f9",
@@ -4369,6 +4785,8 @@
   },
   {
     "name": "Base16 Silk Dark",
+    "_author": "Gabriel Fontes (https://github.com/Misterio77)",
+    "_variant": "dark",
     "background": "#0e3c46",
     "foreground": "#c7dbdd",
     "black": "#0e3c46",
@@ -4390,6 +4808,8 @@
   },
   {
     "name": "Base16 Silk Light",
+    "_author": "Gabriel Fontes (https://github.com/Misterio77)",
+    "_variant": "light",
     "background": "#e9f1ef",
     "foreground": "#385156",
     "black": "#e9f1ef",
@@ -4411,6 +4831,8 @@
   },
   {
     "name": "Base16 Snazzy",
+    "_author": "Chawye Hsu (https://github.com/chawyehsu), based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)",
+    "_variant": "dark",
     "background": "#282a36",
     "foreground": "#e2e4e5",
     "black": "#282a36",
@@ -4432,6 +4854,8 @@
   },
   {
     "name": "Base16 Solar Flare Light",
+    "_author": "Chuck Harmston (https://chuck.harmston.ch)",
+    "_variant": "light",
     "background": "#f5f7fa",
     "foreground": "#586875",
     "black": "#f5f7fa",
@@ -4453,6 +4877,8 @@
   },
   {
     "name": "Base16 Solar Flare",
+    "_author": "Chuck Harmston (https://chuck.harmston.ch)",
+    "_variant": "dark",
     "background": "#18262f",
     "foreground": "#a6afb8",
     "black": "#18262f",
@@ -4474,6 +4900,8 @@
   },
   {
     "name": "Base16 Solarized Dark",
+    "_author": "Ethan Schoonover (modified by aramisgithub)",
+    "_variant": "dark",
     "background": "#002b36",
     "foreground": "#93a1a1",
     "black": "#002b36",
@@ -4495,6 +4923,8 @@
   },
   {
     "name": "Base16 Solarized Light",
+    "_author": "Ethan Schoonover (modified by aramisgithub)",
+    "_variant": "light",
     "background": "#fdf6e3",
     "foreground": "#586e75",
     "black": "#fdf6e3",
@@ -4516,6 +4946,8 @@
   },
   {
     "name": "Base16 Spaceduck",
+    "_author": "Guillermo Rodriguez (https://github.com/pineapplegiant), packaged by Gabriel Fontes (https://github.com/Misterio77)",
+    "_variant": "dark",
     "background": "#16172d",
     "foreground": "#ecf0c1",
     "black": "#16172d",
@@ -4537,6 +4969,8 @@
   },
   {
     "name": "Base16 Spacemacs",
+    "_author": "Nasser Alshammari (https://github.com/nashamri/spacemacs-theme)",
+    "_variant": "dark",
     "background": "#1f2022",
     "foreground": "#a3a3a3",
     "black": "#1f2022",
@@ -4558,6 +4992,8 @@
   },
   {
     "name": "Base16 Sparky",
+    "_author": "Leila Sother (https://github.com/mixcoac)",
+    "_variant": "dark",
     "background": "#072b31",
     "foreground": "#f4f5f0",
     "black": "#072b31",
@@ -4579,6 +5015,8 @@
   },
   {
     "name": "Base16 standardized-dark",
+    "_author": "ali (https://github.com/ali-githb/base16-standardized-scheme)",
+    "_variant": "dark",
     "background": "#222222",
     "foreground": "#c0c0c0",
     "black": "#222222",
@@ -4600,6 +5038,8 @@
   },
   {
     "name": "Base16 standardized-light",
+    "_author": "ali (https://github.com/ali-githb/base16-standardized-scheme)",
+    "_variant": "light",
     "background": "#ffffff",
     "foreground": "#444444",
     "black": "#ffffff",
@@ -4621,6 +5061,8 @@
   },
   {
     "name": "Base16 Stella",
+    "_author": "Shrimpram",
+    "_variant": "dark",
     "background": "#2b213c",
     "foreground": "#998bad",
     "black": "#2b213c",
@@ -4642,6 +5084,8 @@
   },
   {
     "name": "Base16 Still Alive",
+    "_author": "Derrick McKee (derrick.mckee@gmail.com)",
+    "_variant": "light",
     "background": "#f0f0f0",
     "foreground": "#d80000",
     "black": "#f0f0f0",
@@ -4663,6 +5107,8 @@
   },
   {
     "name": "Base16 summercamp",
+    "_author": "zoe firi (zoefiri.github.io)",
+    "_variant": "dark",
     "background": "#1c1810",
     "foreground": "#736e55",
     "black": "#1c1810",
@@ -4684,6 +5130,8 @@
   },
   {
     "name": "Base16 Summerfruit Dark",
+    "_author": "Christopher Corley (http://christop.club/)",
+    "_variant": "dark",
     "background": "#151515",
     "foreground": "#d0d0d0",
     "black": "#151515",
@@ -4705,6 +5153,8 @@
   },
   {
     "name": "Base16 Summerfruit Light",
+    "_author": "Christopher Corley (http://christop.club/)",
+    "_variant": "light",
     "background": "#ffffff",
     "foreground": "#101010",
     "black": "#ffffff",
@@ -4726,6 +5176,8 @@
   },
   {
     "name": "Base16 Synth Midnight Terminal Dark",
+    "_author": "Michaël Ball (http://github.com/michael-ball/)",
+    "_variant": "dark",
     "background": "#050608",
     "foreground": "#c1c3c4",
     "black": "#050608",
@@ -4747,6 +5199,8 @@
   },
   {
     "name": "Base16 Synth Midnight Terminal Light",
+    "_author": "Michaël Ball (http://github.com/michael-ball/)",
+    "_variant": "light",
     "background": "#dddfe0",
     "foreground": "#28292a",
     "black": "#dddfe0",
@@ -4768,6 +5222,8 @@
   },
   {
     "name": "Base16 Tango",
+    "_author": "@Schnouki, based on the Tango Desktop Project",
+    "_variant": "dark",
     "background": "#2e3436",
     "foreground": "#d3d7cf",
     "black": "#2e3436",
@@ -4789,6 +5245,8 @@
   },
   {
     "name": "Base16 tarot",
+    "_author": "ed (https://codeberg.org/ed)",
+    "_variant": "dark",
     "background": "#0e091d",
     "foreground": "#aa556f",
     "black": "#0e091d",
@@ -4810,6 +5268,8 @@
   },
   {
     "name": "Base16 tender",
+    "_author": "Jacobo Tabernero (https://github/com/jacoborus/tender.vim)",
+    "_variant": "dark",
     "background": "#282828",
     "foreground": "#eeeeee",
     "black": "#282828",
@@ -4831,6 +5291,8 @@
   },
   {
     "name": "Base16 Terracotta Dark",
+    "_author": "Alexander Rossell Hayes (https://github.com/rossellhayes)",
+    "_variant": "dark",
     "background": "#241d1a",
     "foreground": "#b8a59d",
     "black": "#241d1a",
@@ -4852,6 +5314,8 @@
   },
   {
     "name": "Base16 Terracotta",
+    "_author": "Alexander Rossell Hayes (https://github.com/rossellhayes)",
+    "_variant": "light",
     "background": "#efeae8",
     "foreground": "#473731",
     "black": "#efeae8",
@@ -4873,6 +5337,8 @@
   },
   {
     "name": "Base16 Tokyo City Dark",
+    "_author": "Michaël Ball",
+    "_variant": "dark",
     "background": "#171d23",
     "foreground": "#d8e2ec",
     "black": "#171d23",
@@ -4894,6 +5360,8 @@
   },
   {
     "name": "Base16 Tokyo City Light",
+    "_author": "Michaël Ball",
+    "_variant": "light",
     "background": "#fbfbfd",
     "foreground": "#343b59",
     "black": "#fbfbfd",
@@ -4915,6 +5383,8 @@
   },
   {
     "name": "Base16 Tokyo City Terminal Dark",
+    "_author": "Michaël Ball",
+    "_variant": "dark",
     "background": "#171d23",
     "foreground": "#d8e2ec",
     "black": "#171d23",
@@ -4936,6 +5406,8 @@
   },
   {
     "name": "Base16 Tokyo City Terminal Light",
+    "_author": "Michaël Ball",
+    "_variant": "light",
     "background": "#fbfbfd",
     "foreground": "#28323a",
     "black": "#fbfbfd",
@@ -4957,6 +5429,8 @@
   },
   {
     "name": "Base16 Tokyo Night Dark",
+    "_author": "Michaël Ball",
+    "_variant": "dark",
     "background": "#1a1b26",
     "foreground": "#a9b1d6",
     "black": "#1a1b26",
@@ -4978,6 +5452,8 @@
   },
   {
     "name": "Base16 Tokyo Night Light",
+    "_author": "Michaël Ball",
+    "_variant": "light",
     "background": "#d5d6db",
     "foreground": "#343b59",
     "black": "#d5d6db",
@@ -4999,6 +5475,8 @@
   },
   {
     "name": "Base16 Tokyo Night Moon",
+    "_author": "Ólafur Bjarki Bogason",
+    "_variant": "dark",
     "background": "#222436",
     "foreground": "#3b4261",
     "black": "#222436",
@@ -5020,6 +5498,8 @@
   },
   {
     "name": "Base16 Tokyo Night Storm",
+    "_author": "Michaël Ball",
+    "_variant": "dark",
     "background": "#24283b",
     "foreground": "#a9b1d6",
     "black": "#24283b",
@@ -5041,6 +5521,8 @@
   },
   {
     "name": "Base16 Tokyo Night Terminal Dark",
+    "_author": "Michaël Ball",
+    "_variant": "dark",
     "background": "#16161e",
     "foreground": "#787c99",
     "black": "#16161e",
@@ -5062,6 +5544,8 @@
   },
   {
     "name": "Base16 Tokyo Night Terminal Light",
+    "_author": "Michaël Ball",
+    "_variant": "light",
     "background": "#d5d6db",
     "foreground": "#4c505e",
     "black": "#d5d6db",
@@ -5083,6 +5567,8 @@
   },
   {
     "name": "Base16 Tokyo Night Terminal Storm",
+    "_author": "Michaël Ball",
+    "_variant": "dark",
     "background": "#24283b",
     "foreground": "#787c99",
     "black": "#24283b",
@@ -5104,6 +5590,8 @@
   },
   {
     "name": "Base16 Tokyodark Terminal",
+    "_author": "Tiagovla (https://github.com/tiagovla/)",
+    "_variant": "dark",
     "background": "#11121d",
     "foreground": "#a0a8cd",
     "black": "#11121d",
@@ -5125,27 +5613,31 @@
   },
   {
     "name": "Base16 Tokyodark",
+    "_author": "Jamy Golden (https://github.com/JamyGolden), Based on Tokyodark.nvim (https://github.com/tiagovla/tokyodark.nvim)",
+    "_variant": "dark",
     "background": "#11121d",
-    "foreground": "#abb2bf",
+    "foreground": "#a0a8cd",
     "black": "#11121d",
-    "red": "#a485dd",
-    "green": "#d7a65f",
-    "yellow": "#7199ee",
-    "blue": "#95c561",
-    "purple": "#ee6d85",
-    "cyan": "#a485dd",
-    "white": "#abb2bf",
-    "brightBlack": "#393a45",
-    "brightRed": "#a485dd",
-    "brightGreen": "#d7a65f",
-    "brightYellow": "#7199ee",
-    "brightBlue": "#95c561",
-    "brightPurple": "#ee6d85",
-    "brightCyan": "#a485dd",
-    "brightWhite": "#2c2d38"
+    "red": "#ee6d85",
+    "green": "#95c561",
+    "yellow": "#d7a65f",
+    "blue": "#7199ee",
+    "purple": "#a485dd",
+    "cyan": "#9fbbf3",
+    "white": "#a0a8cd",
+    "brightBlack": "#353945",
+    "brightRed": "#ee6d85",
+    "brightGreen": "#95c561",
+    "brightYellow": "#d7a65f",
+    "brightBlue": "#7199ee",
+    "brightPurple": "#a485dd",
+    "brightCyan": "#9fbbf3",
+    "brightWhite": "#bcc2dc"
   },
   {
     "name": "Base16 Tomorrow Night Eighties",
+    "_author": "Chris Kempson (http://chriskempson.com)",
+    "_variant": "dark",
     "background": "#2d2d2d",
     "foreground": "#cccccc",
     "black": "#2d2d2d",
@@ -5167,6 +5659,8 @@
   },
   {
     "name": "Base16 Tomorrow Night",
+    "_author": "Chris Kempson (http://chriskempson.com)",
+    "_variant": "dark",
     "background": "#1d1f21",
     "foreground": "#c5c8c6",
     "black": "#1d1f21",
@@ -5188,6 +5682,8 @@
   },
   {
     "name": "Base16 Tomorrow",
+    "_author": "Chris Kempson (http://chriskempson.com)",
+    "_variant": "light",
     "background": "#ffffff",
     "foreground": "#4d4d4c",
     "black": "#ffffff",
@@ -5209,6 +5705,8 @@
   },
   {
     "name": "Base16 London Tube",
+    "_author": "Jan T. Sott",
+    "_variant": "dark",
     "background": "#231f20",
     "foreground": "#d9d8d8",
     "black": "#231f20",
@@ -5230,6 +5728,8 @@
   },
   {
     "name": "Base16 Twilight",
+    "_author": "David Hart (https://github.com/hartbit)",
+    "_variant": "dark",
     "background": "#1e1e1e",
     "foreground": "#a7a7a7",
     "black": "#1e1e1e",
@@ -5251,6 +5751,8 @@
   },
   {
     "name": "Base16 Unikitty Dark",
+    "_author": "Josh W Lewis (@joshwlewis)",
+    "_variant": "dark",
     "background": "#2e2a31",
     "foreground": "#bcbabe",
     "black": "#2e2a31",
@@ -5272,6 +5774,8 @@
   },
   {
     "name": "Base16 Unikitty Light",
+    "_author": "Josh W Lewis (@joshwlewis)",
+    "_variant": "light",
     "background": "#ffffff",
     "foreground": "#6c696e",
     "black": "#ffffff",
@@ -5293,6 +5797,8 @@
   },
   {
     "name": "Base16 Unikitty Reversible",
+    "_author": "Josh W Lewis (@joshwlewis)",
+    "_variant": "dark",
     "background": "#2e2a31",
     "foreground": "#c3c2c4",
     "black": "#2e2a31",
@@ -5314,6 +5820,8 @@
   },
   {
     "name": "Base16 UwUnicorn",
+    "_author": "Fernando Marques (https://github.com/RakkiUwU) and Gabriel Fontes (https://github.com/Misterio77)",
+    "_variant": "dark",
     "background": "#241b26",
     "foreground": "#eed5d9",
     "black": "#241b26",
@@ -5335,6 +5843,8 @@
   },
   {
     "name": "Base16 Vesper",
+    "_author": "FormalSnake (https://github.com/formalsnake)",
+    "_variant": "dark",
     "background": "#101010",
     "foreground": "#b7b7b7",
     "black": "#101010",
@@ -5356,6 +5866,8 @@
   },
   {
     "name": "Base16 vice",
+    "_author": "Thomas Leon Highbaugh thighbaugh@zoho.com",
+    "_variant": "dark",
     "background": "#17191e",
     "foreground": "#8b9cbe",
     "black": "#17191e",
@@ -5377,6 +5889,8 @@
   },
   {
     "name": "Base16 vulcan",
+    "_author": "Andrey Varfolomeev",
+    "_variant": "dark",
     "background": "#041523",
     "foreground": "#5b778c",
     "black": "#041523",
@@ -5398,6 +5912,8 @@
   },
   {
     "name": "Base16 Windows 10 Light",
+    "_author": "Fergus Collins (https://github.com/C-Fergus)",
+    "_variant": "light",
     "background": "#f2f2f2",
     "foreground": "#767676",
     "black": "#f2f2f2",
@@ -5419,6 +5935,8 @@
   },
   {
     "name": "Base16 Windows 10",
+    "_author": "Fergus Collins (https://github.com/C-Fergus)",
+    "_variant": "dark",
     "background": "#0c0c0c",
     "foreground": "#cccccc",
     "black": "#0c0c0c",
@@ -5440,6 +5958,8 @@
   },
   {
     "name": "Base16 Windows 95 Light",
+    "_author": "Fergus Collins (https://github.com/C-Fergus)",
+    "_variant": "light",
     "background": "#fcfcfc",
     "foreground": "#545454",
     "black": "#fcfcfc",
@@ -5461,6 +5981,8 @@
   },
   {
     "name": "Base16 Windows 95",
+    "_author": "Fergus Collins (https://github.com/C-Fergus)",
+    "_variant": "dark",
     "background": "#000000",
     "foreground": "#a8a8a8",
     "black": "#000000",
@@ -5482,6 +6004,8 @@
   },
   {
     "name": "Base16 Windows High Contrast Light",
+    "_author": "Fergus Collins (https://github.com/C-Fergus)",
+    "_variant": "light",
     "background": "#fcfcfc",
     "foreground": "#545454",
     "black": "#fcfcfc",
@@ -5503,6 +6027,8 @@
   },
   {
     "name": "Base16 Windows High Contrast",
+    "_author": "Fergus Collins (https://github.com/C-Fergus)",
+    "_variant": "dark",
     "background": "#000000",
     "foreground": "#c0c0c0",
     "black": "#000000",
@@ -5524,6 +6050,8 @@
   },
   {
     "name": "Base16 Windows NT Light",
+    "_author": "Fergus Collins (https://github.com/C-Fergus)",
+    "_variant": "light",
     "background": "#ffffff",
     "foreground": "#808080",
     "black": "#ffffff",
@@ -5545,6 +6073,8 @@
   },
   {
     "name": "Base16 Windows NT",
+    "_author": "Fergus Collins (https://github.com/C-Fergus)",
+    "_variant": "dark",
     "background": "#000000",
     "foreground": "#c0c0c0",
     "black": "#000000",
@@ -5566,6 +6096,8 @@
   },
   {
     "name": "Base16 Woodland",
+    "_author": "Jay Cornwall (https://jcornwall.com)",
+    "_variant": "dark",
     "background": "#231e18",
     "foreground": "#cabcb1",
     "black": "#231e18",
@@ -5587,6 +6119,8 @@
   },
   {
     "name": "Base16 XCode Dusk",
+    "_author": "Elsa Gonsiorowski (https://github.com/gonsie)",
+    "_variant": "dark",
     "background": "#282b35",
     "foreground": "#939599",
     "black": "#282b35",
@@ -5608,6 +6142,8 @@
   },
   {
     "name": "Base16 Zenbones",
+    "_author": "mcchrish",
+    "_variant": "dark",
     "background": "#191919",
     "foreground": "#b279a7",
     "black": "#191919",
@@ -5629,6 +6165,8 @@
   },
   {
     "name": "Base16 Zenburn",
+    "_author": "elnawe",
+    "_variant": "dark",
     "background": "#383838",
     "foreground": "#dcdccc",
     "black": "#383838",
