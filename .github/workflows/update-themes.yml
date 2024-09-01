@@ -26,10 +26,15 @@ jobs:
 
       - name: commit & push changes
         run: |
+          new_branch=update-themes-$(date +'%Y%m%d%s')
+          git checkout -b $new_branch
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git diff --quiet || (
             git add windows-terminal allthemes.json
             git commit -m "fix: update themes"
-            git push
+            git push -u origin $new_branch
+            gh pr create -B master --title 'Update color themes' --body 'Created by Github action'
           )
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
