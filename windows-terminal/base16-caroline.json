@@ -2,6 +2,7 @@
   "name": "Base16 caroline",
   "_author": "ed (https://codeberg.org/ed)",
   "_variant": "dark",
+  "_description": "caroline",
   "background": "#1c1213",
   "foreground": "#a87569",
   "black": "#1c1213",

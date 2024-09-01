@@ -2,6 +2,7 @@
   "name": "Base16 Nord Light",
   "_author": "threddast, based on fuxialexander&#39;s doom-nord-light-theme (Doom Emacs)",
   "_variant": "light",
+  "_description": "Nord Light",
   "background": "#e5e9f0",
   "foreground": "#2e3440",
   "black": "#e5e9f0",

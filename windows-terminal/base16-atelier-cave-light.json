@@ -2,6 +2,7 @@
   "name": "Base16 Atelier Cave Light",
   "_author": "Bram de Haan (http://atelierbramdehaan.nl)",
   "_variant": "light",
+  "_description": "Atelier Cave Light",
   "background": "#efecf4",
   "foreground": "#585260",
   "black": "#efecf4",

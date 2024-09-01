@@ -2,6 +2,7 @@
   "name": "Base16 Seti UI",
   "_author": "",
   "_variant": "dark",
+  "_description": "Seti UI",
   "background": "#151718",
   "foreground": "#d6d6d6",
   "black": "#151718",

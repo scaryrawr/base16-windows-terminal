@@ -2,6 +2,7 @@
   "name": "Base16 pinky",
   "_author": "Benjamin (https://github.com/b3nj5m1n)",
   "_variant": "dark",
+  "_description": "pinky",
   "background": "#171517",
   "foreground": "#f5f5f5",
   "black": "#171517",

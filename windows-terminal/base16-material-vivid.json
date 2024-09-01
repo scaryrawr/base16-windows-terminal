@@ -2,6 +2,7 @@
   "name": "Base16 Material Vivid",
   "_author": "joshyrobot",
   "_variant": "dark",
+  "_description": "Material Vivid",
   "background": "#202124",
   "foreground": "#80868b",
   "black": "#202124",

@@ -2,6 +2,7 @@
   "name": "Base16 Everforest",
   "_author": "Sainnhe Park (https://github.com/sainnhe)",
   "_variant": "dark",
+  "_description": "Everforest",
   "background": "#2d353b",
   "foreground": "#d3c6aa",
   "black": "#2d353b",

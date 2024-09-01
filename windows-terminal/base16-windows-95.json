@@ -2,6 +2,7 @@
   "name": "Base16 Windows 95",
   "_author": "Fergus Collins (https://github.com/C-Fergus)",
   "_variant": "dark",
+  "_description": "Windows 95",
   "background": "#000000",
   "foreground": "#a8a8a8",
   "black": "#000000",

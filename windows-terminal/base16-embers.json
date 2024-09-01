@@ -2,6 +2,7 @@
   "name": "Base16 Embers",
   "_author": "Jannik Siebert (https://github.com/janniks)",
   "_variant": "dark",
+  "_description": "Embers",
   "background": "#16130f",
   "foreground": "#a39a90",
   "black": "#16130f",

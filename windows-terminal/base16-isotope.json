@@ -2,6 +2,7 @@
   "name": "Base16 Isotope",
   "_author": "Jan T. Sott",
   "_variant": "dark",
+  "_description": "Isotope",
   "background": "#000000",
   "foreground": "#d0d0d0",
   "black": "#000000",

@@ -2,6 +2,7 @@
   "name": "Base16 London Tube",
   "_author": "Jan T. Sott",
   "_variant": "dark",
+  "_description": "London Tube",
   "background": "#231f20",
   "foreground": "#d9d8d8",
   "black": "#231f20",

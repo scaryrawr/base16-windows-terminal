@@ -2,6 +2,7 @@
   "name": "Base16 Equilibrium Light",
   "_author": "Carlo Abelli",
   "_variant": "light",
+  "_description": "Equilibrium Light",
   "background": "#f5f0e7",
   "foreground": "#43474e",
   "black": "#f5f0e7",

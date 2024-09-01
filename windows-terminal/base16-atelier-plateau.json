@@ -2,6 +2,7 @@
   "name": "Base16 Atelier Plateau",
   "_author": "Bram de Haan (http://atelierbramdehaan.nl)",
   "_variant": "dark",
+  "_description": "Atelier Plateau",
   "background": "#1b1818",
   "foreground": "#8a8585",
   "black": "#1b1818",

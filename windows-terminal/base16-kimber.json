@@ -2,6 +2,7 @@
   "name": "Base16 Kimber",
   "_author": "Mishka Nguyen (https://github.com/akhsiM)",
   "_variant": "dark",
+  "_description": "Kimber",
   "background": "#222222",
   "foreground": "#dedee7",
   "black": "#222222",

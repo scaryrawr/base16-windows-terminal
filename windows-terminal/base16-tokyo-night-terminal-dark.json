@@ -2,6 +2,7 @@
   "name": "Base16 Tokyo Night Terminal Dark",
   "_author": "Michaël Ball",
   "_variant": "dark",
+  "_description": "Tokyo Night Terminal Dark",
   "background": "#16161e",
   "foreground": "#787c99",
   "black": "#16161e",

@@ -2,6 +2,7 @@
   "name": "Base16 iA Light",
   "_author": "iA Inc. (modified by aramisgithub)",
   "_variant": "light",
+  "_description": "iA Light",
   "background": "#f6f6f6",
   "foreground": "#181818",
   "black": "#f6f6f6",

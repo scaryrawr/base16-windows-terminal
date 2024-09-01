@@ -2,6 +2,7 @@
   "name": "Base16 Flat",
   "_author": "Chris Kempson (http://chriskempson.com)",
   "_variant": "dark",
+  "_description": "Flat",
   "background": "#2c3e50",
   "foreground": "#e0e0e0",
   "black": "#2c3e50",

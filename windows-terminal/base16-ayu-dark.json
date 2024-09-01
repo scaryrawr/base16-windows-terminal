@@ -2,6 +2,7 @@
   "name": "Base16 Ayu Dark",
   "_author": "Khue Nguyen &lt;Z5483Y@gmail.com&gt;",
   "_variant": "dark",
+  "_description": "Ayu Dark",
   "background": "#0f1419",
   "foreground": "#e6e1cf",
   "black": "#0f1419",

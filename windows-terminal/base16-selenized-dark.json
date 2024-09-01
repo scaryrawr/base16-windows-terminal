@@ -2,6 +2,7 @@
   "name": "Base16 selenized-dark",
   "_author": "Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali",
   "_variant": "dark",
+  "_description": "selenized-dark",
   "background": "#103c48",
   "foreground": "#adbcbc",
   "black": "#103c48",

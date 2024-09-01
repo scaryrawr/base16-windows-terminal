@@ -2,6 +2,7 @@
   "name": "Base16 darkmoss",
   "_author": "Gabriel Avanzi (https://github.com/avanzzzi)",
   "_variant": "dark",
+  "_description": "darkmoss",
   "background": "#171e1f",
   "foreground": "#c7c7a5",
   "black": "#171e1f",

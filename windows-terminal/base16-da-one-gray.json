@@ -2,6 +2,7 @@
   "name": "Base16 Da One Gray",
   "_author": "NNB (https://github.com/NNBnh)",
   "_variant": "dark",
+  "_description": "Da One Gray",
   "background": "#181818",
   "foreground": "#ffffff",
   "black": "#181818",

@@ -2,6 +2,7 @@
   "name": "Base16 Tokyo Night Storm",
   "_author": "Michaël Ball",
   "_variant": "dark",
+  "_description": "Tokyo Night Storm",
   "background": "#24283b",
   "foreground": "#a9b1d6",
   "black": "#24283b",

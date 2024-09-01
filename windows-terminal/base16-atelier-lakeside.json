@@ -2,6 +2,7 @@
   "name": "Base16 Atelier Lakeside",
   "_author": "Bram de Haan (http://atelierbramdehaan.nl)",
   "_variant": "dark",
+  "_description": "Atelier Lakeside",
   "background": "#161b1d",
   "foreground": "#7ea2b4",
   "black": "#161b1d",

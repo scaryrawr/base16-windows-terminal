@@ -2,6 +2,7 @@
   "name": "Base16 Gigavolt",
   "_author": "Aidan Swope (http://github.com/Whillikers)",
   "_variant": "dark",
+  "_description": "Gigavolt",
   "background": "#202126",
   "foreground": "#e9e7e1",
   "black": "#202126",

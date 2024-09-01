@@ -2,6 +2,7 @@
   "name": "Base16 eris",
   "_author": "ed (https://codeberg.org/ed)",
   "_variant": "dark",
+  "_description": "eris",
   "background": "#0a0920",
   "foreground": "#606bac",
   "black": "#0a0920",

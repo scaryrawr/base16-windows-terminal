@@ -2,6 +2,7 @@
   "name": "Base16 Hardcore",
   "_author": "Chris Caller",
   "_variant": "dark",
+  "_description": "Hardcore",
   "background": "#212121",
   "foreground": "#cdcdcd",
   "black": "#212121",

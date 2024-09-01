@@ -2,6 +2,7 @@
   "name": "Base16 Fruit Soda",
   "_author": "jozip",
   "_variant": "light",
+  "_description": "Fruit Soda",
   "background": "#f1ecf1",
   "foreground": "#515151",
   "black": "#f1ecf1",

@@ -2,6 +2,7 @@
   "name": "Base16 Da One Black",
   "_author": "NNB (https://github.com/NNBnh)",
   "_variant": "dark",
+  "_description": "Da One Black",
   "background": "#000000",
   "foreground": "#ffffff",
   "black": "#000000",

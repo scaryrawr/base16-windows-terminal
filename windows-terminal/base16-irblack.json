@@ -2,6 +2,7 @@
   "name": "Base16 IR Black",
   "_author": "Timothée Poisot (http://timotheepoisot.fr)",
   "_variant": "dark",
+  "_description": "IR Black",
   "background": "#000000",
   "foreground": "#b5b3aa",
   "black": "#000000",

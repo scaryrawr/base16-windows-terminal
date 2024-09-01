@@ -2,6 +2,7 @@
   "name": "Base16 Snazzy",
   "_author": "Chawye Hsu (https://github.com/chawyehsu), based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)",
   "_variant": "dark",
+  "_description": "Snazzy",
   "background": "#282a36",
   "foreground": "#e2e4e5",
   "black": "#282a36",

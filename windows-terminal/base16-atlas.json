@@ -2,6 +2,7 @@
   "name": "Base16 Atlas",
   "_author": "Alex Lende (https://ajlende.com)",
   "_variant": "dark",
+  "_description": "Atlas",
   "background": "#002635",
   "foreground": "#a1a19a",
   "black": "#002635",

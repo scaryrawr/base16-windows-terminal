@@ -2,6 +2,7 @@
   "name": "Base16 Tomorrow",
   "_author": "Chris Kempson (http://chriskempson.com)",
   "_variant": "light",
+  "_description": "Tomorrow",
   "background": "#ffffff",
   "foreground": "#4d4d4c",
   "black": "#ffffff",

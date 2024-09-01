@@ -2,6 +2,7 @@
   "name": "Base16 Equilibrium Gray Dark",
   "_author": "Carlo Abelli",
   "_variant": "dark",
+  "_description": "Equilibrium Gray Dark",
   "background": "#111111",
   "foreground": "#ababab",
   "black": "#111111",

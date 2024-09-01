@@ -2,6 +2,7 @@
   "name": "Base16 Primer Light",
   "_author": "Jimmy Lin",
   "_variant": "light",
+  "_description": "Primer Light",
   "background": "#fafbfc",
   "foreground": "#2f363d",
   "black": "#fafbfc",

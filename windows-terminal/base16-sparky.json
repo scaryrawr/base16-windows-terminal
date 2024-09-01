@@ -2,6 +2,7 @@
   "name": "Base16 Sparky",
   "_author": "Leila Sother (https://github.com/mixcoac)",
   "_variant": "dark",
+  "_description": "Sparky",
   "background": "#072b31",
   "foreground": "#f4f5f0",
   "black": "#072b31",

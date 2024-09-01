@@ -2,6 +2,7 @@
   "name": "Base16 Vesper",
   "_author": "FormalSnake (https://github.com/formalsnake)",
   "_variant": "dark",
+  "_description": "Vesper",
   "background": "#101010",
   "foreground": "#b7b7b7",
   "black": "#101010",

@@ -2,6 +2,7 @@
   "name": "Base16 Gruvbox dark, pale",
   "_author": "Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)",
   "_variant": "dark",
+  "_description": "Gruvbox dark, pale",
   "background": "#262626",
   "foreground": "#dab997",
   "black": "#262626",

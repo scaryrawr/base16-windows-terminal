@@ -2,6 +2,7 @@
   "name": "Base16 Mountain",
   "_author": "gnsfujiwara (https://github.com/gnsfujiwara)",
   "_variant": "dark",
+  "_description": "Mountain",
   "background": "#0f0f0f",
   "foreground": "#cacaca",
   "black": "#0f0f0f",

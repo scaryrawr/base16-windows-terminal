@@ -2,6 +2,7 @@
   "name": "Base16 Tokyo Night Dark",
   "_author": "Michaël Ball",
   "_variant": "dark",
+  "_description": "Tokyo Night Dark",
   "background": "#1a1b26",
   "foreground": "#a9b1d6",
   "black": "#1a1b26",

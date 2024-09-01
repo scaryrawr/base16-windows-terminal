@@ -2,6 +2,7 @@
   "name": "Base16 Summerfruit Light",
   "_author": "Christopher Corley (http://christop.club/)",
   "_variant": "light",
+  "_description": "Summerfruit Light",
   "background": "#ffffff",
   "foreground": "#101010",
   "black": "#ffffff",

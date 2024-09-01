@@ -2,6 +2,7 @@
   "name": "Base16 Outrun Dark",
   "_author": "Hugo Delahousse (http://github.com/hugodelahousse/)",
   "_variant": "dark",
+  "_description": "Outrun Dark",
   "background": "#00002a",
   "foreground": "#d0d0fa",
   "black": "#00002a",

@@ -2,6 +2,7 @@
   "name": "Base16 DanQing",
   "_author": "Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)",
   "_variant": "dark",
+  "_description": "DanQing",
   "background": "#2d302f",
   "foreground": "#e0f0ef",
   "black": "#2d302f",

@@ -2,6 +2,7 @@
   "name": "Base16 PaperColor Dark",
   "_author": "Jon Leopard (http://github.com/jonleopard), based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)",
   "_variant": "dark",
+  "_description": "PaperColor Dark",
   "background": "#1c1c1c",
   "foreground": "#808080",
   "black": "#1c1c1c",

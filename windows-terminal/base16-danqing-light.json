@@ -2,6 +2,7 @@
   "name": "Base16 DanQing Light",
   "_author": "Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)",
   "_variant": "light",
+  "_description": "DanQing Light",
   "background": "#fcfefd",
   "foreground": "#5a605d",
   "black": "#fcfefd",

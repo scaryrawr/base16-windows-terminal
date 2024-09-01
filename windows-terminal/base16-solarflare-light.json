@@ -2,6 +2,7 @@
   "name": "Base16 Solar Flare Light",
   "_author": "Chuck Harmston (https://chuck.harmston.ch)",
   "_variant": "light",
+  "_description": "Solar Flare Light",
   "background": "#f5f7fa",
   "foreground": "#586875",
   "black": "#f5f7fa",

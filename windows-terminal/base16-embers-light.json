@@ -2,6 +2,7 @@
   "name": "Base16 Embers Light",
   "_author": "Jannik Siebert (https://github.com/janniks)",
   "_variant": "light",
+  "_description": "Embers Light",
   "background": "#d1d6db",
   "foreground": "#323b43",
   "black": "#d1d6db",

@@ -2,6 +2,7 @@
   "name": "Base16 Framer",
   "_author": "Framer (Maintained by Jesse Hoyos)",
   "_variant": "dark",
+  "_description": "Framer",
   "background": "#181818",
   "foreground": "#d0d0d0",
   "black": "#181818",

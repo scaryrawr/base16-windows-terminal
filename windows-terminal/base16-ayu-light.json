@@ -2,6 +2,7 @@
   "name": "Base16 Ayu Light",
   "_author": "Khue Nguyen &lt;Z5483Y@gmail.com&gt;",
   "_variant": "light",
+  "_description": "Ayu Light",
   "background": "#fafafa",
   "foreground": "#5c6773",
   "black": "#fafafa",

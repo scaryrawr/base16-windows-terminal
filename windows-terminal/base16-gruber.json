@@ -2,6 +2,7 @@
   "name": "Base16 Gruber",
   "_author": "Patel, Nimai &lt;nimai.m.patel@gmail.com&gt;, colors from www.github.com/rexim/gruber-darker-theme",
   "_variant": "dark",
+  "_description": "Gruber",
   "background": "#181818",
   "foreground": "#f4f4ff",
   "black": "#181818",

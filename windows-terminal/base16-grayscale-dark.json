@@ -2,6 +2,7 @@
   "name": "Base16 Grayscale Dark",
   "_author": "Alexandre Gavioli (https://github.com/Alexx2/)",
   "_variant": "dark",
+  "_description": "Grayscale Dark",
   "background": "#101010",
   "foreground": "#b9b9b9",
   "black": "#101010",

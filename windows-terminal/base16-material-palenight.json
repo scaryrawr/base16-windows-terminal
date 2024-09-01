@@ -2,6 +2,7 @@
   "name": "Base16 Material Palenight",
   "_author": "Nate Peterson",
   "_variant": "dark",
+  "_description": "Material Palenight",
   "background": "#292d3e",
   "foreground": "#959dcb",
   "black": "#292d3e",

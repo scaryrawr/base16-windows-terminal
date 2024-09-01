@@ -2,6 +2,7 @@
   "name": "Base16 Woodland",
   "_author": "Jay Cornwall (https://jcornwall.com)",
   "_variant": "dark",
+  "_description": "Woodland",
   "background": "#231e18",
   "foreground": "#cabcb1",
   "black": "#231e18",

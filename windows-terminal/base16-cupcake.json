@@ -2,6 +2,7 @@
   "name": "Base16 Cupcake",
   "_author": "Chris Kempson (http://chriskempson.com)",
   "_variant": "light",
+  "_description": "Cupcake",
   "background": "#fbf1f2",
   "foreground": "#8b8198",
   "black": "#fbf1f2",

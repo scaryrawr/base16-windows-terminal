@@ -2,6 +2,7 @@
   "name": "Base16 Ayu Mirage",
   "_author": "Khue Nguyen &lt;Z5483Y@gmail.com&gt;",
   "_variant": "dark",
+  "_description": "Ayu Mirage",
   "background": "#171b24",
   "foreground": "#cccac2",
   "black": "#171b24",

@@ -2,6 +2,7 @@
   "name": "Base16 OceanicNext",
   "_author": "https://github.com/voronianski/oceanic-next-color-scheme",
   "_variant": "dark",
+  "_description": "OceanicNext",
   "background": "#1b2b34",
   "foreground": "#c0c5ce",
   "black": "#1b2b34",

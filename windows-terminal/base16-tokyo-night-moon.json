@@ -2,6 +2,7 @@
   "name": "Base16 Tokyo Night Moon",
   "_author": "Ólafur Bjarki Bogason",
   "_variant": "dark",
+  "_description": "Tokyo Night Moon",
   "background": "#222436",
   "foreground": "#3b4261",
   "black": "#222436",

@@ -2,6 +2,7 @@
   "name": "Base16 Porple",
   "_author": "Niek den Breeje (https://github.com/AuditeMarlow)",
   "_variant": "dark",
+  "_description": "Porple",
   "background": "#292c36",
   "foreground": "#d8d8d8",
   "black": "#292c36",

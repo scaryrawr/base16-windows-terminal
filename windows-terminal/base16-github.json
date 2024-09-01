@@ -2,6 +2,7 @@
   "name": "Base16 Github",
   "_author": "Defman21",
   "_variant": "light",
+  "_description": "Github",
   "background": "#ffffff",
   "foreground": "#333333",
   "black": "#ffffff",

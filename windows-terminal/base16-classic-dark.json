@@ -2,6 +2,7 @@
   "name": "Base16 Classic Dark",
   "_author": "Jason Heeris (http://heeris.id.au)",
   "_variant": "dark",
+  "_description": "Classic Dark",
   "background": "#151515",
   "foreground": "#d0d0d0",
   "black": "#151515",

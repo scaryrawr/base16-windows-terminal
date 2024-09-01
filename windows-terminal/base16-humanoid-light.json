@@ -2,6 +2,7 @@
   "name": "Base16 Humanoid light",
   "_author": "Thomas (tasmo) Friese",
   "_variant": "light",
+  "_description": "Humanoid light",
   "background": "#f8f8f2",
   "foreground": "#232629",
   "black": "#f8f8f2",

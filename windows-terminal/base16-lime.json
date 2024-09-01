@@ -2,6 +2,7 @@
   "name": "Base16 lime",
   "_author": "limelier",
   "_variant": "dark",
+  "_description": "lime",
   "background": "#1a1a2f",
   "foreground": "#818175",
   "black": "#1a1a2f",

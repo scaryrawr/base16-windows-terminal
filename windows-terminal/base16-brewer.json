@@ -2,6 +2,7 @@
   "name": "Base16 Brewer",
   "_author": "Timothée Poisot (http://github.com/tpoisot)",
   "_variant": "dark",
+  "_description": "Brewer",
   "background": "#0c0d0e",
   "foreground": "#b7b8b9",
   "black": "#0c0d0e",

@@ -2,6 +2,7 @@
   "name": "Base16 iA Dark",
   "_author": "iA Inc. (modified by aramisgithub)",
   "_variant": "dark",
+  "_description": "iA Dark",
   "background": "#1a1a1a",
   "foreground": "#cccccc",
   "black": "#1a1a1a",

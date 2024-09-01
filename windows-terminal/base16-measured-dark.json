@@ -2,6 +2,7 @@
   "name": "Base16 Measured Dark",
   "_author": "Measured (https://measured.co)",
   "_variant": "dark",
+  "_description": "Measured Dark",
   "background": "#00211f",
   "foreground": "#dcdcdc",
   "black": "#00211f",

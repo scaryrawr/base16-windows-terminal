@@ -2,6 +2,7 @@
   "name": "Base16 Ocean",
   "_author": "Chris Kempson (http://chriskempson.com)",
   "_variant": "dark",
+  "_description": "Ocean",
   "background": "#2b303b",
   "foreground": "#c0c5ce",
   "black": "#2b303b",

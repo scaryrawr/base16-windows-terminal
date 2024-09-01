@@ -2,6 +2,7 @@
   "name": "Base16 Unikitty Reversible",
   "_author": "Josh W Lewis (@joshwlewis)",
   "_variant": "dark",
+  "_description": "Unikitty Reversible",
   "background": "#2e2a31",
   "foreground": "#c3c2c4",
   "black": "#2e2a31",

@@ -2,6 +2,7 @@
   "name": "Base16 Windows NT",
   "_author": "Fergus Collins (https://github.com/C-Fergus)",
   "_variant": "dark",
+  "_description": "Windows NT",
   "background": "#000000",
   "foreground": "#c0c0c0",
   "black": "#000000",

@@ -2,6 +2,7 @@
   "name": "Base16 ShadeSmear Light",
   "_author": "Kyle Giammarco (http://kyle.giammar.co)",
   "_variant": "light",
+  "_description": "ShadeSmear Light",
   "background": "#dbdbdb",
   "foreground": "#232323",
   "black": "#dbdbdb",

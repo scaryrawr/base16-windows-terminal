@@ -2,6 +2,7 @@
   "name": "Base16 Synth Midnight Terminal Light",
   "_author": "Michaël Ball (http://github.com/michael-ball/)",
   "_variant": "light",
+  "_description": "Synth Midnight Terminal Light",
   "background": "#dddfe0",
   "foreground": "#28292a",
   "black": "#dddfe0",

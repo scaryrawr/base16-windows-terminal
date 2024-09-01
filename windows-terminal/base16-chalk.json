@@ -2,6 +2,7 @@
   "name": "Base16 Chalk",
   "_author": "Chris Kempson (http://chriskempson.com)",
   "_variant": "dark",
+  "_description": "Chalk",
   "background": "#151515",
   "foreground": "#d0d0d0",
   "black": "#151515",

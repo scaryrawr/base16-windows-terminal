@@ -2,6 +2,7 @@
   "name": "Base16 Nebula",
   "_author": "Gabriel Fontes (https://github.com/Misterio77)",
   "_variant": "dark",
+  "_description": "Nebula",
   "background": "#22273b",
   "foreground": "#a4a6a9",
   "black": "#22273b",

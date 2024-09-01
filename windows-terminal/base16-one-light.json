@@ -2,6 +2,7 @@
   "name": "Base16 One Light",
   "_author": "Daniel Pfeifer (http://github.com/purpleKarrot)",
   "_variant": "light",
+  "_description": "One Light",
   "background": "#fafafa",
   "foreground": "#383a42",
   "black": "#fafafa",

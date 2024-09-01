@@ -2,6 +2,7 @@
   "name": "Base16 vice",
   "_author": "Thomas Leon Highbaugh thighbaugh@zoho.com",
   "_variant": "dark",
+  "_description": "vice",
   "background": "#17191e",
   "foreground": "#8b9cbe",
   "black": "#17191e",

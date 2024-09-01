@@ -2,6 +2,7 @@
   "name": "Base16 Blue Forest",
   "_author": "alonsodomin (https://github.com/alonsodomin)",
   "_variant": "dark",
+  "_description": "Blue Forest",
   "background": "#141f2e",
   "foreground": "#ffcc33",
   "black": "#141f2e",

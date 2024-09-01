@@ -2,6 +2,7 @@
   "name": "Base16 Colors",
   "_author": "mrmrs (http://clrs.cc)",
   "_variant": "dark",
+  "_description": "Colors",
   "background": "#111111",
   "foreground": "#bbbbbb",
   "black": "#111111",

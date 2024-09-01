@@ -2,6 +2,7 @@
   "name": "Base16 SAGA",
   "_author": "https://github.com/SAGAtheme/SAGA",
   "_variant": "dark",
+  "_description": "SAGA",
   "background": "#05080a",
   "foreground": "#dce2f7",
   "black": "#05080a",

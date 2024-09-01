@@ -2,6 +2,7 @@
   "name": "Base16 Measured Light",
   "_author": "Measured (https://measured.co)",
   "_variant": "light",
+  "_description": "Measured Light",
   "background": "#fdf9f5",
   "foreground": "#292929",
   "black": "#fdf9f5",

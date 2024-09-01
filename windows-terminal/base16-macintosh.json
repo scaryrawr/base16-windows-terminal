@@ -2,6 +2,7 @@
   "name": "Base16 Macintosh",
   "_author": "Rebecca Bettencourt (http://www.kreativekorp.com)",
   "_variant": "dark",
+  "_description": "Macintosh",
   "background": "#000000",
   "foreground": "#c0c0c0",
   "black": "#000000",

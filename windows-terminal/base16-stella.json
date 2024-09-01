@@ -2,6 +2,7 @@
   "name": "Base16 Stella",
   "_author": "Shrimpram",
   "_variant": "dark",
+  "_description": "Stella",
   "background": "#2b213c",
   "foreground": "#998bad",
   "black": "#2b213c",

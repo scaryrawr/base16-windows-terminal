@@ -2,6 +2,7 @@
   "name": "Base16 Atelier Seaside Light",
   "_author": "Bram de Haan (http://atelierbramdehaan.nl)",
   "_variant": "light",
+  "_description": "Atelier Seaside Light",
   "background": "#f4fbf4",
   "foreground": "#5e6e5e",
   "black": "#f4fbf4",

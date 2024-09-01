@@ -2,6 +2,7 @@
   "name": "Base16 Ashes",
   "_author": "Jannik Siebert (https://github.com/janniks)",
   "_variant": "dark",
+  "_description": "Ashes",
   "background": "#1c2023",
   "foreground": "#c7ccd1",
   "black": "#1c2023",

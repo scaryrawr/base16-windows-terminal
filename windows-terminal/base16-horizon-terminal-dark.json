@@ -2,6 +2,7 @@
   "name": "Base16 Horizon Terminal Dark",
   "_author": "Michaël Ball (http://github.com/michael-ball/)",
   "_variant": "dark",
+  "_description": "Horizon Terminal Dark",
   "background": "#1c1e26",
   "foreground": "#cbced0",
   "black": "#1c1e26",

@@ -2,6 +2,7 @@
   "name": "Base16 Bright",
   "_author": "Chris Kempson (http://chriskempson.com)",
   "_variant": "dark",
+  "_description": "Bright",
   "background": "#000000",
   "foreground": "#e0e0e0",
   "black": "#000000",

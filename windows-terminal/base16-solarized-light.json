@@ -2,6 +2,7 @@
   "name": "Base16 Solarized Light",
   "_author": "Ethan Schoonover (modified by aramisgithub)",
   "_variant": "light",
+  "_description": "Solarized Light",
   "background": "#fdf6e3",
   "foreground": "#586e75",
   "black": "#fdf6e3",

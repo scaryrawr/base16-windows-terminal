@@ -2,6 +2,7 @@
   "name": "Base16 Windows NT Light",
   "_author": "Fergus Collins (https://github.com/C-Fergus)",
   "_variant": "light",
+  "_description": "Windows NT Light",
   "background": "#ffffff",
   "foreground": "#808080",
   "black": "#ffffff",

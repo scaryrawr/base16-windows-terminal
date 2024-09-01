@@ -2,6 +2,7 @@
   "name": "Base16 Moonlight",
   "_author": "Jeremy Swinarton (https://github.com/jswinarton)",
   "_variant": "dark",
+  "_description": "Moonlight",
   "background": "#212337",
   "foreground": "#a3ace1",
   "black": "#212337",

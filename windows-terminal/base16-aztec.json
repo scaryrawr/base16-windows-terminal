@@ -2,6 +2,7 @@
   "name": "Base16 Aztec",
   "_author": "TheNeverMan (github.com/TheNeverMan)",
   "_variant": "dark",
+  "_description": "Aztec",
   "background": "#101600",
   "foreground": "#ffda51",
   "black": "#101600",

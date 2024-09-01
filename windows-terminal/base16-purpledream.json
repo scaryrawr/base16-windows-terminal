@@ -2,6 +2,7 @@
   "name": "Base16 Purpledream",
   "_author": "malet",
   "_variant": "dark",
+  "_description": "Purpledream",
   "background": "#100510",
   "foreground": "#ddd0dd",
   "black": "#100510",

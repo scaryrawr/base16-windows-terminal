@@ -2,6 +2,7 @@
   "name": "Base16 tender",
   "_author": "Jacobo Tabernero (https://github/com/jacoborus/tender.vim)",
   "_variant": "dark",
+  "_description": "tender",
   "background": "#282828",
   "foreground": "#eeeeee",
   "black": "#282828",

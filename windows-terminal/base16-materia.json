@@ -2,6 +2,7 @@
   "name": "Base16 Materia",
   "_author": "Defman21",
   "_variant": "dark",
+  "_description": "Materia",
   "background": "#263238",
   "foreground": "#cdd3de",
   "black": "#263238",

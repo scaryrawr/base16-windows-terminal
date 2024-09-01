@@ -2,6 +2,7 @@
   "name": "Base16 Nord",
   "_author": "arcticicestudio",
   "_variant": "dark",
+  "_description": "Nord",
   "background": "#2e3440",
   "foreground": "#e5e9f0",
   "black": "#2e3440",

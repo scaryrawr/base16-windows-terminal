@@ -2,6 +2,7 @@
   "name": "Base16 dirtysea",
   "_author": "Kahlil (Kal) Hodgson",
   "_variant": "light",
+  "_description": "dirtysea",
   "background": "#e0e0e0",
   "foreground": "#000000",
   "black": "#e0e0e0",

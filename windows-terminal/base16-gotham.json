@@ -2,6 +2,7 @@
   "name": "Base16 Gotham",
   "_author": "Andrea Leopardi (arranged by Brett Jones)",
   "_variant": "dark",
+  "_description": "Gotham",
   "background": "#0c1014",
   "foreground": "#599cab",
   "black": "#0c1014",

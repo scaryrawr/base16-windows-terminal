@@ -2,6 +2,7 @@
   "name": "Base16 Google Dark",
   "_author": "Seth Wright (http://sethawright.com)",
   "_variant": "dark",
+  "_description": "Google Dark",
   "background": "#1d1f21",
   "foreground": "#c5c8c6",
   "black": "#1d1f21",

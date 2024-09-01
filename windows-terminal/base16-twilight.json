@@ -2,6 +2,7 @@
   "name": "Base16 Twilight",
   "_author": "David Hart (https://github.com/hartbit)",
   "_variant": "dark",
+  "_description": "Twilight",
   "background": "#1e1e1e",
   "foreground": "#a7a7a7",
   "black": "#1e1e1e",

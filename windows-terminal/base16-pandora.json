@@ -2,6 +2,7 @@
   "name": "Base16 pandora",
   "_author": "Cassandra Fox",
   "_variant": "dark",
+  "_description": "pandora",
   "background": "#131213",
   "foreground": "#f15c99",
   "black": "#131213",

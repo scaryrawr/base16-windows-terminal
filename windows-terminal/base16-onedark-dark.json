@@ -2,6 +2,7 @@
   "name": "Base16 OneDark Dark",
   "_author": "olimorris (https://github.com/olimorris)",
   "_variant": "dark",
+  "_description": "OneDark Dark",
   "background": "#000000",
   "foreground": "#abb2bf",
   "black": "#000000",

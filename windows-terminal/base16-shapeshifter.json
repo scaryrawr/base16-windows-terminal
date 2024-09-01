@@ -2,6 +2,7 @@
   "name": "Base16 Shapeshifter",
   "_author": "Tyler Benziger (http://tybenz.com)",
   "_variant": "light",
+  "_description": "Shapeshifter",
   "background": "#f9f9f9",
   "foreground": "#102015",
   "black": "#f9f9f9",

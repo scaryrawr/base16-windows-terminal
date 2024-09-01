@@ -2,6 +2,7 @@
   "name": "Base16 Gruvbox Material Light, Medium",
   "_author": "Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)",
   "_variant": "light",
+  "_description": "Gruvbox Material Light, Medium",
   "background": "#fbf1c7",
   "foreground": "#654735",
   "black": "#fbf1c7",

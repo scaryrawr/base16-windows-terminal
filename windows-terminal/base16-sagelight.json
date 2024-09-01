@@ -2,6 +2,7 @@
   "name": "Base16 Sagelight",
   "_author": "Carter Veldhuizen",
   "_variant": "light",
+  "_description": "Sagelight",
   "background": "#f8f8f8",
   "foreground": "#383838",
   "black": "#f8f8f8",

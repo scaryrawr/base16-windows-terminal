@@ -2,6 +2,7 @@
   "name": "Base16 PaperColor Light",
   "_author": "Jon Leopard (http://github.com/jonleopard), based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)",
   "_variant": "light",
+  "_description": "PaperColor Light",
   "background": "#eeeeee",
   "foreground": "#444444",
   "black": "#eeeeee",

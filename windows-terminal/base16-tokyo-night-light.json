@@ -2,6 +2,7 @@
   "name": "Base16 Tokyo Night Light",
   "_author": "Michaël Ball",
   "_variant": "light",
+  "_description": "Tokyo Night Light",
   "background": "#d5d6db",
   "foreground": "#343b59",
   "black": "#d5d6db",

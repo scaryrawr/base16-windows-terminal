@@ -2,6 +2,7 @@
   "name": "Base16 Monokai",
   "_author": "Wimer Hazenberg (http://www.monokai.nl)",
   "_variant": "dark",
+  "_description": "Monokai",
   "background": "#272822",
   "foreground": "#f8f8f2",
   "black": "#272822",

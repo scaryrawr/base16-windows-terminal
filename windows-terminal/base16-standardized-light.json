@@ -2,6 +2,7 @@
   "name": "Base16 standardized-light",
   "_author": "ali (https://github.com/ali-githb/base16-standardized-scheme)",
   "_variant": "light",
+  "_description": "standardized-light",
   "background": "#ffffff",
   "foreground": "#444444",
   "black": "#ffffff",

@@ -2,6 +2,7 @@
   "name": "Base16 Catppuccin Latte",
   "_author": "https://github.com/catppuccin/catppuccin",
   "_variant": "light",
+  "_description": "Catppuccin Latte",
   "background": "#eff1f5",
   "foreground": "#4c4f69",
   "black": "#eff1f5",

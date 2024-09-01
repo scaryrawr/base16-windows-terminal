@@ -2,6 +2,7 @@
   "name": "Base16 Oxocarbon Light",
   "_author": "shaunsingh/IBM",
   "_variant": "light",
+  "_description": "Oxocarbon Light",
   "background": "#f2f4f8",
   "foreground": "#393939",
   "black": "#f2f4f8",

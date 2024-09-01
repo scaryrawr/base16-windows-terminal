@@ -2,6 +2,7 @@
   "name": "Base16 Default Dark",
   "_author": "Chris Kempson (http://chriskempson.com)",
   "_variant": "dark",
+  "_description": "Default Dark",
   "background": "#181818",
   "foreground": "#d8d8d8",
   "black": "#181818",

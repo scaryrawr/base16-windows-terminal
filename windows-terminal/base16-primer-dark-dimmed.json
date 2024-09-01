@@ -2,6 +2,7 @@
   "name": "Base16 Primer Dark Dimmed",
   "_author": "Jimmy Lin",
   "_variant": "dark",
+  "_description": "Primer Dark Dimmed",
   "background": "#1c2128",
   "foreground": "#909dab",
   "black": "#1c2128",

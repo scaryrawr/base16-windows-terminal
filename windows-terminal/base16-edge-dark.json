@@ -2,6 +2,7 @@
   "name": "Base16 Edge Dark",
   "_author": "cjayross (https://github.com/cjayross)",
   "_variant": "dark",
+  "_description": "Edge Dark",
   "background": "#262729",
   "foreground": "#b7bec9",
   "black": "#262729",

@@ -2,6 +2,7 @@
   "name": "Base16 Rosé Pine",
   "_author": "Emilia Dunfelt &lt;edun@dunfelt.se&gt;",
   "_variant": "dark",
+  "_description": "Rosé Pine",
   "background": "#191724",
   "foreground": "#e0def4",
   "black": "#191724",

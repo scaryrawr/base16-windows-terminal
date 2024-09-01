@@ -2,6 +2,7 @@
   "name": "Base16 vulcan",
   "_author": "Andrey Varfolomeev",
   "_variant": "dark",
+  "_description": "vulcan",
   "background": "#041523",
   "foreground": "#5b778c",
   "black": "#041523",

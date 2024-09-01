@@ -2,6 +2,7 @@
   "name": "Base16 Qualia",
   "_author": "isaacwhanson",
   "_variant": "dark",
+  "_description": "Qualia",
   "background": "#101010",
   "foreground": "#c0c0c0",
   "black": "#101010",

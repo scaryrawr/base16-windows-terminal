@@ -2,6 +2,7 @@
   "name": "Base16 Catppuccin Mocha",
   "_author": "https://github.com/catppuccin/catppuccin",
   "_variant": "dark",
+  "_description": "Catppuccin Mocha",
   "background": "#1e1e2e",
   "foreground": "#cdd6f4",
   "black": "#1e1e2e",

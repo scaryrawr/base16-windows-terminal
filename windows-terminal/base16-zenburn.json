@@ -2,6 +2,7 @@
   "name": "Base16 Zenburn",
   "_author": "elnawe",
   "_variant": "dark",
+  "_description": "Zenburn",
   "background": "#383838",
   "foreground": "#dcdccc",
   "black": "#383838",

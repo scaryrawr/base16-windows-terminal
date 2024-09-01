@@ -2,6 +2,7 @@
   "name": "Base16 Windows 10 Light",
   "_author": "Fergus Collins (https://github.com/C-Fergus)",
   "_variant": "light",
+  "_description": "Windows 10 Light",
   "background": "#f2f2f2",
   "foreground": "#767676",
   "black": "#f2f2f2",

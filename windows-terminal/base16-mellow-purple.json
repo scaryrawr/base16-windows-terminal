@@ -2,6 +2,7 @@
   "name": "Base16 Mellow Purple",
   "_author": "gidsi",
   "_variant": "dark",
+  "_description": "Mellow Purple",
   "background": "#1e0528",
   "foreground": "#ffeeff",
   "black": "#1e0528",

@@ -2,6 +2,7 @@
   "name": "Base16 Atelier Savanna",
   "_author": "Bram de Haan (http://atelierbramdehaan.nl)",
   "_variant": "dark",
+  "_description": "Atelier Savanna",
   "background": "#171c19",
   "foreground": "#87928a",
   "black": "#171c19",

@@ -2,6 +2,7 @@
   "name": "Base16 Evenok Dark",
   "_author": "Mekeor Melire",
   "_variant": "dark",
+  "_description": "Evenok Dark",
   "background": "#000000",
   "foreground": "#d0d0d0",
   "black": "#000000",

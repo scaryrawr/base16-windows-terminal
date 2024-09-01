@@ -2,6 +2,7 @@
   "name": "Base16 Summerfruit Dark",
   "_author": "Christopher Corley (http://christop.club/)",
   "_variant": "dark",
+  "_description": "Summerfruit Dark",
   "background": "#151515",
   "foreground": "#d0d0d0",
   "black": "#151515",

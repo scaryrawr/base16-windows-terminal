@@ -2,6 +2,7 @@
   "name": "Base16 Tokyodark",
   "_author": "Jamy Golden (https://github.com/JamyGolden), Based on Tokyodark.nvim (https://github.com/tiagovla/tokyodark.nvim)",
   "_variant": "dark",
+  "_description": "Tokyodark",
   "background": "#11121d",
   "foreground": "#a0a8cd",
   "black": "#11121d",

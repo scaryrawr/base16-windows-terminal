@@ -2,6 +2,7 @@
   "name": "Base16 Material Darker",
   "_author": "Nate Peterson",
   "_variant": "dark",
+  "_description": "Material Darker",
   "background": "#212121",
   "foreground": "#eeffff",
   "black": "#212121",

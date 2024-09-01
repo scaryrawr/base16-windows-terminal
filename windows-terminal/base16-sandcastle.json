@@ -2,6 +2,7 @@
   "name": "Base16 Sandcastle",
   "_author": "George Essig (https://github.com/gessig)",
   "_variant": "dark",
+  "_description": "Sandcastle",
   "background": "#282c34",
   "foreground": "#a89984",
   "black": "#282c34",

@@ -2,6 +2,7 @@
   "name": "Base16 Catppuccin Frappe",
   "_author": "https://github.com/catppuccin/catppuccin",
   "_variant": "dark",
+  "_description": "Catppuccin Frappe",
   "background": "#303446",
   "foreground": "#c6d0f5",
   "black": "#303446",

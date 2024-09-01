@@ -2,6 +2,7 @@
   "name": "Base16 Kanagawa",
   "_author": "Tommaso Laurenzi (https://github.com/rebelot)",
   "_variant": "dark",
+  "_description": "Kanagawa",
   "background": "#1f1f28",
   "foreground": "#dcd7ba",
   "black": "#1f1f28",

@@ -2,6 +2,7 @@
   "name": "Base16 Dark Violet",
   "_author": "ruler501 (https://github.com/ruler501/base16-darkviolet)",
   "_variant": "dark",
+  "_description": "Dark Violet",
   "background": "#000000",
   "foreground": "#b08ae6",
   "black": "#000000",

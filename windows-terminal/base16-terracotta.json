@@ -2,6 +2,7 @@
   "name": "Base16 Terracotta",
   "_author": "Alexander Rossell Hayes (https://github.com/rossellhayes)",
   "_variant": "light",
+  "_description": "Terracotta",
   "background": "#efeae8",
   "foreground": "#473731",
   "black": "#efeae8",

@@ -2,6 +2,7 @@
   "name": "Base16 Gruvbox light, hard",
   "_author": "Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)",
   "_variant": "light",
+  "_description": "Gruvbox light, hard",
   "background": "#f9f5d7",
   "foreground": "#504945",
   "black": "#f9f5d7",

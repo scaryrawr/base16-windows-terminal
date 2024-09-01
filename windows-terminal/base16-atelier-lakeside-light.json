@@ -2,6 +2,7 @@
   "name": "Base16 Atelier Lakeside Light",
   "_author": "Bram de Haan (http://atelierbramdehaan.nl)",
   "_variant": "light",
+  "_description": "Atelier Lakeside Light",
   "background": "#ebf8ff",
   "foreground": "#516d7b",
   "black": "#ebf8ff",

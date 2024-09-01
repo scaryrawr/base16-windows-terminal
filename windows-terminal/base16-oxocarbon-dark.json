@@ -2,6 +2,7 @@
   "name": "Base16 Oxocarbon Dark",
   "_author": "shaunsingh/IBM",
   "_variant": "dark",
+  "_description": "Oxocarbon Dark",
   "background": "#161616",
   "foreground": "#f2f4f8",
   "black": "#161616",

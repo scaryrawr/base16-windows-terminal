@@ -2,6 +2,7 @@
   "name": "Base16 Material Lighter",
   "_author": "Nate Peterson",
   "_variant": "light",
+  "_description": "Material Lighter",
   "background": "#fafafa",
   "foreground": "#80cbc4",
   "black": "#fafafa",

@@ -2,6 +2,7 @@
   "name": "Base16 Gruvbox Material Dark, Hard",
   "_author": "Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)",
   "_variant": "dark",
+  "_description": "Gruvbox Material Dark, Hard",
   "background": "#202020",
   "foreground": "#ddc7a1",
   "black": "#202020",

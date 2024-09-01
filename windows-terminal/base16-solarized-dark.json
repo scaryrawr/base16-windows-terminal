@@ -2,6 +2,7 @@
   "name": "Base16 Solarized Dark",
   "_author": "Ethan Schoonover (modified by aramisgithub)",
   "_variant": "dark",
+  "_description": "Solarized Dark",
   "background": "#002b36",
   "foreground": "#93a1a1",
   "black": "#002b36",

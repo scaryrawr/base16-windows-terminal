@@ -2,6 +2,7 @@
   "name": "Base16 Eva Dim",
   "_author": "kjakapat (https://github.com/kjakapat)",
   "_variant": "dark",
+  "_description": "Eva Dim",
   "background": "#2a3b4d",
   "foreground": "#9fa2a6",
   "black": "#2a3b4d",

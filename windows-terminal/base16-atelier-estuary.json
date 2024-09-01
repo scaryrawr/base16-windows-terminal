@@ -2,6 +2,7 @@
   "name": "Base16 Atelier Estuary",
   "_author": "Bram de Haan (http://atelierbramdehaan.nl)",
   "_variant": "dark",
+  "_description": "Atelier Estuary",
   "background": "#22221b",
   "foreground": "#929181",
   "black": "#22221b",

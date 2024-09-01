@@ -2,6 +2,7 @@
   "name": "Base16 Black Metal (Bathory)",
   "_author": "metalelf0 (https://github.com/metalelf0)",
   "_variant": "dark",
+  "_description": "Black Metal (Bathory)",
   "background": "#000000",
   "foreground": "#c1c1c1",
   "black": "#000000",

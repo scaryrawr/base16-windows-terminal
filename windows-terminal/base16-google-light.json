@@ -2,6 +2,7 @@
   "name": "Base16 Google Light",
   "_author": "Seth Wright (http://sethawright.com)",
   "_variant": "light",
+  "_description": "Google Light",
   "background": "#ffffff",
   "foreground": "#373b41",
   "black": "#ffffff",

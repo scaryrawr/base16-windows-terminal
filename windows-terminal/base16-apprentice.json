@@ -2,6 +2,7 @@
   "name": "Base16 Apprentice",
   "_author": "romainl",
   "_variant": "dark",
+  "_description": "Apprentice",
   "background": "#262626",
   "foreground": "#5f5f87",
   "black": "#262626",

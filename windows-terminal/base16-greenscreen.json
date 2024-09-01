@@ -2,6 +2,7 @@
   "name": "Base16 Green Screen",
   "_author": "Chris Kempson (http://chriskempson.com)",
   "_variant": "dark",
+  "_description": "Green Screen",
   "background": "#001100",
   "foreground": "#00bb00",
   "black": "#001100",

@@ -2,6 +2,7 @@
   "name": "Base16 Primer Dark",
   "_author": "Jimmy Lin",
   "_variant": "dark",
+  "_description": "Primer Dark",
   "background": "#010409",
   "foreground": "#b1bac4",
   "black": "#010409",

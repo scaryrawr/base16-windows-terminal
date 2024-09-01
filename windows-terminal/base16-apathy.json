@@ -2,6 +2,7 @@
   "name": "Base16 Apathy",
   "_author": "Jannik Siebert (https://github.com/janniks)",
   "_variant": "dark",
+  "_description": "Apathy",
   "background": "#031a16",
   "foreground": "#81b5ac",
   "black": "#031a16",

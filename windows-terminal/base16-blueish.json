@@ -2,6 +2,7 @@
   "name": "Base16 Blueish",
   "_author": "Ben Mayoras",
   "_variant": "dark",
+  "_description": "Blueish",
   "background": "#182430",
   "foreground": "#c8e1f8",
   "black": "#182430",

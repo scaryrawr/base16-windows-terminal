@@ -2,6 +2,7 @@
   "name": "Base16 OneDark",
   "_author": "Lalit Magant (http://github.com/tilal6991)",
   "_variant": "dark",
+  "_description": "OneDark",
   "background": "#282c34",
   "foreground": "#abb2bf",
   "black": "#282c34",

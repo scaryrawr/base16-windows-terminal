@@ -2,6 +2,7 @@
   "name": "Base16 Tango",
   "_author": "@Schnouki, based on the Tango Desktop Project",
   "_variant": "dark",
+  "_description": "Tango",
   "background": "#2e3436",
   "foreground": "#d3d7cf",
   "black": "#2e3436",

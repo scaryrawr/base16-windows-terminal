@@ -2,6 +2,7 @@
   "name": "Base16 Da One Paper",
   "_author": "NNB (https://github.com/NNBnh)",
   "_variant": "light",
+  "_description": "Da One Paper",
   "background": "#faf0dc",
   "foreground": "#181818",
   "black": "#faf0dc",

@@ -2,6 +2,7 @@
   "name": "Base16 Edge Light",
   "_author": "cjayross (https://github.com/cjayross)",
   "_variant": "light",
+  "_description": "Edge Light",
   "background": "#fafafa",
   "foreground": "#5e646f",
   "black": "#fafafa",

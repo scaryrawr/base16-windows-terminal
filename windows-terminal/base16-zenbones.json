@@ -2,6 +2,7 @@
   "name": "Base16 Zenbones",
   "_author": "mcchrish",
   "_variant": "dark",
+  "_description": "Zenbones",
   "background": "#191919",
   "foreground": "#b279a7",
   "black": "#191919",

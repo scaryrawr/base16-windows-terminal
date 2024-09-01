@@ -2,6 +2,7 @@
   "name": "Base16 Classic Light",
   "_author": "Jason Heeris (http://heeris.id.au)",
   "_variant": "light",
+  "_description": "Classic Light",
   "background": "#f5f5f5",
   "foreground": "#303030",
   "black": "#f5f5f5",

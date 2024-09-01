@@ -2,6 +2,7 @@
   "name": "Base16 Tokyo City Terminal Light",
   "_author": "Michaël Ball",
   "_variant": "light",
+  "_description": "Tokyo City Terminal Light",
   "background": "#fbfbfd",
   "foreground": "#28323a",
   "black": "#fbfbfd",

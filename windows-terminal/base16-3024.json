@@ -2,6 +2,7 @@
   "name": "Base16 3024",
   "_author": "Jan T. Sott (http://github.com/idleberg)",
   "_variant": "dark",
+  "_description": "3024",
   "background": "#090300",
   "foreground": "#a5a2a2",
   "black": "#090300",

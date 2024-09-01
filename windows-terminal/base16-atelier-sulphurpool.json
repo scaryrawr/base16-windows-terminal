@@ -2,6 +2,7 @@
   "name": "Base16 Atelier Sulphurpool",
   "_author": "Bram de Haan (http://atelierbramdehaan.nl)",
   "_variant": "dark",
+  "_description": "Atelier Sulphurpool",
   "background": "#202746",
   "foreground": "#979db4",
   "black": "#202746",

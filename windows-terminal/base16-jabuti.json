@@ -2,6 +2,7 @@
   "name": "Base16 Jabuti",
   "_author": "https://github.com/notusknot",
   "_variant": "dark",
+  "_description": "Jabuti",
   "background": "#292a37",
   "foreground": "#c0cbe3",
   "black": "#292a37",

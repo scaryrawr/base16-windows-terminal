@@ -2,6 +2,7 @@
   "name": "Base16 Nova",
   "_author": "George Essig (https://github.com/gessig), Trevor D. Miller (https://trevordmiller.com)",
   "_variant": "dark",
+  "_description": "Nova",
   "background": "#3c4c55",
   "foreground": "#c5d4dd",
   "black": "#3c4c55",

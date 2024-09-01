@@ -2,6 +2,7 @@
   "name": "Base16 Dracula",
   "_author": "Jamy Golden (http://github.com/JamyGolden), based on Dracula Theme (http://github.com/dracula)",
   "_variant": "dark",
+  "_description": "Dracula",
   "background": "#282a36",
   "foreground": "#f8f8f2",
   "black": "#282a36",

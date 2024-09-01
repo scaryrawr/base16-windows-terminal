@@ -2,6 +2,7 @@
   "name": "Base16 Spacemacs",
   "_author": "Nasser Alshammari (https://github.com/nashamri/spacemacs-theme)",
   "_variant": "dark",
+  "_description": "Spacemacs",
   "background": "#1f2022",
   "foreground": "#a3a3a3",
   "black": "#1f2022",

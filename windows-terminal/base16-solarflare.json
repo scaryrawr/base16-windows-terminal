@@ -2,6 +2,7 @@
   "name": "Base16 Solar Flare",
   "_author": "Chuck Harmston (https://chuck.harmston.ch)",
   "_variant": "dark",
+  "_description": "Solar Flare",
   "background": "#18262f",
   "foreground": "#a6afb8",
   "black": "#18262f",

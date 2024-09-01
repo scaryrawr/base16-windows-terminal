@@ -2,6 +2,7 @@
   "name": "Base16 PhD",
   "_author": "Hennig Hasemann (http://leetless.de/vim.html)",
   "_variant": "dark",
+  "_description": "PhD",
   "background": "#061229",
   "foreground": "#b8bbc2",
   "black": "#061229",

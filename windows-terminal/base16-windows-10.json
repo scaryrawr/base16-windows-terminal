@@ -2,6 +2,7 @@
   "name": "Base16 Windows 10",
   "_author": "Fergus Collins (https://github.com/C-Fergus)",
   "_variant": "dark",
+  "_description": "Windows 10",
   "background": "#0c0c0c",
   "foreground": "#cccccc",
   "black": "#0c0c0c",

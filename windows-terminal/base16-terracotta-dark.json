@@ -2,6 +2,7 @@
   "name": "Base16 Terracotta Dark",
   "_author": "Alexander Rossell Hayes (https://github.com/rossellhayes)",
   "_variant": "dark",
+  "_description": "Terracotta Dark",
   "background": "#241d1a",
   "foreground": "#b8a59d",
   "black": "#241d1a",

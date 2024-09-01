@@ -2,6 +2,7 @@
   "name": "Base16 Brush Trees",
   "_author": "Abraham White &lt;abelincoln.white@gmail.com&gt;",
   "_variant": "dark",
+  "_description": "Brush Trees",
   "background": "#e3efef",
   "foreground": "#6d828e",
   "black": "#e3efef",

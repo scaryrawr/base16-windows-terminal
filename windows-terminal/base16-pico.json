@@ -2,6 +2,7 @@
   "name": "Base16 Pico",
   "_author": "PICO-8 (http://www.lexaloffle.com/pico-8.php)",
   "_variant": "dark",
+  "_description": "Pico",
   "background": "#000000",
   "foreground": "#5f574f",
   "black": "#000000",

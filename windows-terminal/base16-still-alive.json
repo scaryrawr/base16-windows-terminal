@@ -2,6 +2,7 @@
   "name": "Base16 Still Alive",
   "_author": "Derrick McKee (derrick.mckee@gmail.com)",
   "_variant": "light",
+  "_description": "Still Alive",
   "background": "#f0f0f0",
   "foreground": "#d80000",
   "black": "#f0f0f0",

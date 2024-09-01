@@ -2,6 +2,7 @@
   "name": "Base16 Atelier Heath Light",
   "_author": "Bram de Haan (http://atelierbramdehaan.nl)",
   "_variant": "light",
+  "_description": "Atelier Heath Light",
   "background": "#f7f3f7",
   "foreground": "#695d69",
   "black": "#f7f3f7",

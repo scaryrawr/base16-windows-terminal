@@ -2,6 +2,7 @@
   "name": "Base16 XCode Dusk",
   "_author": "Elsa Gonsiorowski (https://github.com/gonsie)",
   "_variant": "dark",
+  "_description": "XCode Dusk",
   "background": "#282b35",
   "foreground": "#939599",
   "black": "#282b35",

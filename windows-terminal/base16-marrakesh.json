@@ -2,6 +2,7 @@
   "name": "Base16 Marrakesh",
   "_author": "Alexandre Gavioli (http://github.com/Alexx2/)",
   "_variant": "dark",
+  "_description": "Marrakesh",
   "background": "#201602",
   "foreground": "#948e48",
   "black": "#201602",

@@ -2,6 +2,7 @@
   "name": "Base16 Horizon Terminal Light",
   "_author": "Michaël Ball (http://github.com/michael-ball/)",
   "_variant": "light",
+  "_description": "Horizon Terminal Light",
   "background": "#fdf0ed",
   "foreground": "#403c3d",
   "black": "#fdf0ed",

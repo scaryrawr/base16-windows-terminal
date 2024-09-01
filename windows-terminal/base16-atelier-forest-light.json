@@ -2,6 +2,7 @@
   "name": "Base16 Atelier Forest Light",
   "_author": "Bram de Haan (http://atelierbramdehaan.nl)",
   "_variant": "light",
+  "_description": "Atelier Forest Light",
   "background": "#f1efee",
   "foreground": "#68615e",
   "black": "#f1efee",

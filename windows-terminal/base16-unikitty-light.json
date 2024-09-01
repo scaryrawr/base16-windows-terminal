@@ -2,6 +2,7 @@
   "name": "Base16 Unikitty Light",
   "_author": "Josh W Lewis (@joshwlewis)",
   "_variant": "light",
+  "_description": "Unikitty Light",
   "background": "#ffffff",
   "foreground": "#6c696e",
   "black": "#ffffff",

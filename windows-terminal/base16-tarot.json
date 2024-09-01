@@ -2,6 +2,7 @@
   "name": "Base16 tarot",
   "_author": "ed (https://codeberg.org/ed)",
   "_variant": "dark",
+  "_description": "tarot",
   "background": "#0e091d",
   "foreground": "#aa556f",
   "black": "#0e091d",

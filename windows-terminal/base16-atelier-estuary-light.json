@@ -2,6 +2,7 @@
   "name": "Base16 Atelier Estuary Light",
   "_author": "Bram de Haan (http://atelierbramdehaan.nl)",
   "_variant": "light",
+  "_description": "Atelier Estuary Light",
   "background": "#f4f3ec",
   "foreground": "#5f5e4e",
   "black": "#f4f3ec",

@@ -2,6 +2,7 @@
   "name": "Base16 Atelier Plateau Light",
   "_author": "Bram de Haan (http://atelierbramdehaan.nl)",
   "_variant": "light",
+  "_description": "Atelier Plateau Light",
   "background": "#f4ecec",
   "foreground": "#585050",
   "black": "#f4ecec",

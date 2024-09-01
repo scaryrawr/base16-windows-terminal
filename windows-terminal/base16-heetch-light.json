@@ -2,6 +2,7 @@
   "name": "Base16 Heetch Light",
   "_author": "Geoffrey Teale (tealeg@gmail.com)",
   "_variant": "light",
+  "_description": "Heetch Light",
   "background": "#feffff",
   "foreground": "#5a496e",
   "black": "#feffff",

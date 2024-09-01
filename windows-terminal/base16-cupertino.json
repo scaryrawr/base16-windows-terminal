@@ -2,6 +2,7 @@
   "name": "Base16 Cupertino",
   "_author": "Defman21",
   "_variant": "light",
+  "_description": "Cupertino",
   "background": "#ffffff",
   "foreground": "#404040",
   "black": "#ffffff",

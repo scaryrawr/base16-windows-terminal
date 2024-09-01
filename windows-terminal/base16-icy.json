@@ -2,6 +2,7 @@
   "name": "Base16 Icy Dark",
   "_author": "icyphox (https://icyphox.ga)",
   "_variant": "light",
+  "_description": "Icy Dark",
   "background": "#021012",
   "foreground": "#095b67",
   "black": "#021012",

@@ -2,6 +2,7 @@
   "name": "Base16 Catppuccin Macchiato",
   "_author": "https://github.com/catppuccin/catppuccin",
   "_variant": "dark",
+  "_description": "Catppuccin Macchiato",
   "background": "#24273a",
   "foreground": "#cad3f5",
   "black": "#24273a",

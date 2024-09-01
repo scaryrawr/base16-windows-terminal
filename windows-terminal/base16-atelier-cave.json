@@ -2,6 +2,7 @@
   "name": "Base16 Atelier Cave",
   "_author": "Bram de Haan (http://atelierbramdehaan.nl)",
   "_variant": "dark",
+  "_description": "Atelier Cave",
   "background": "#19171c",
   "foreground": "#8b8792",
   "black": "#19171c",

@@ -2,6 +2,7 @@
   "name": "Base16 Heetch Dark",
   "_author": "Geoffrey Teale (tealeg@gmail.com)",
   "_variant": "dark",
+  "_description": "Heetch Dark",
   "background": "#190134",
   "foreground": "#bdb6c5",
   "black": "#190134",

@@ -2,6 +2,7 @@
   "name": "Base16 Katy",
   "_author": "George Essig (https://github.com/gessig)",
   "_variant": "dark",
+  "_description": "Katy",
   "background": "#292d3e",
   "foreground": "#959dcb",
   "black": "#292d3e",

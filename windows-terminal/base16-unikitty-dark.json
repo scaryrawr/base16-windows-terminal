@@ -2,6 +2,7 @@
   "name": "Base16 Unikitty Dark",
   "_author": "Josh W Lewis (@joshwlewis)",
   "_variant": "dark",
+  "_description": "Unikitty Dark",
   "background": "#2e2a31",
   "foreground": "#bcbabe",
   "black": "#2e2a31",

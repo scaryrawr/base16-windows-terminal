@@ -2,6 +2,7 @@
   "name": "Base16 Tokyo City Light",
   "_author": "Michaël Ball",
   "_variant": "light",
+  "_description": "Tokyo City Light",
   "background": "#fbfbfd",
   "foreground": "#343b59",
   "black": "#fbfbfd",
