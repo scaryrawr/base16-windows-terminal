@@ -5,6 +5,8 @@
   "_description": "Horizon Dark",
   "background": "#1c1e26",
   "foreground": "#cbced0",
+  "cursorColor": "#df5273",
+  "selectionBackground": "df5273",
   "black": "#1c1e26",
   "red": "#e93c58",
   "green": "#efaf8e",

@@ -5,6 +5,8 @@
   "_description": "Qualia",
   "background": "#101010",
   "foreground": "#c0c0c0",
+  "cursorColor": "#50cacd",
+  "selectionBackground": "50cacd",
   "black": "#101010",
   "red": "#efa6a2",
   "green": "#80c990",

@@ -5,6 +5,8 @@
   "_description": "IR Black",
   "background": "#000000",
   "foreground": "#b5b3aa",
+  "cursorColor": "#96cbfe",
+  "selectionBackground": "96cbfe",
   "black": "#000000",
   "red": "#ff6c60",
   "green": "#a8ff60",

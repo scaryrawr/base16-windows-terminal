@@ -5,6 +5,8 @@
   "_description": "Materia",
   "background": "#263238",
   "foreground": "#cdd3de",
+  "cursorColor": "#89ddff",
+  "selectionBackground": "89ddff",
   "black": "#263238",
   "red": "#ec5f67",
   "green": "#8bd649",

@@ -5,6 +5,8 @@
   "_description": "Atelier Cave Light",
   "background": "#efecf4",
   "foreground": "#585260",
+  "cursorColor": "#576ddb",
+  "selectionBackground": "576ddb",
   "black": "#efecf4",
   "red": "#be4678",
   "green": "#2a9292",

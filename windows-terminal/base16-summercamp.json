@@ -5,6 +5,8 @@
   "_description": "summercamp",
   "background": "#1c1810",
   "foreground": "#736e55",
+  "cursorColor": "#489bf0",
+  "selectionBackground": "489bf0",
   "black": "#1c1810",
   "red": "#e35142",
   "green": "#5ceb5a",

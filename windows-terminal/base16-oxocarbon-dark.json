@@ -5,6 +5,8 @@
   "_description": "Oxocarbon Dark",
   "background": "#161616",
   "foreground": "#f2f4f8",
+  "cursorColor": "#42be65",
+  "selectionBackground": "42be65",
   "black": "#161616",
   "red": "#3ddbd9",
   "green": "#33b1ff",

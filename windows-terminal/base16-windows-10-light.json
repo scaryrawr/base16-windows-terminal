@@ -5,6 +5,8 @@
   "_description": "Windows 10 Light",
   "background": "#f2f2f2",
   "foreground": "#767676",
+  "cursorColor": "#0037da",
+  "selectionBackground": "0037da",
   "black": "#f2f2f2",
   "red": "#c50f1f",
   "green": "#13a10e",

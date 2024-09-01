@@ -5,6 +5,8 @@
   "_description": "Heetch Light",
   "background": "#feffff",
   "foreground": "#5a496e",
+  "cursorColor": "#47f9f5",
+  "selectionBackground": "47f9f5",
   "black": "#feffff",
   "red": "#27d9d5",
   "green": "#f80059",

@@ -5,6 +5,8 @@
   "_description": "Equilibrium Light",
   "background": "#f5f0e7",
   "foreground": "#43474e",
+  "cursorColor": "#0073b5",
+  "selectionBackground": "0073b5",
   "black": "#f5f0e7",
   "red": "#d02023",
   "green": "#637200",

@@ -5,6 +5,8 @@
   "_description": "Zenburn",
   "background": "#383838",
   "foreground": "#dcdccc",
+  "cursorColor": "#7cb8bb",
+  "selectionBackground": "7cb8bb",
   "black": "#383838",
   "red": "#dca3a3",
   "green": "#5f7f5f",

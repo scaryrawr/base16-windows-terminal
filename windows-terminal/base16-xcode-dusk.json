@@ -5,6 +5,8 @@
   "_description": "XCode Dusk",
   "background": "#282b35",
   "foreground": "#939599",
+  "cursorColor": "#790ead",
+  "selectionBackground": "790ead",
   "black": "#282b35",
   "red": "#b21889",
   "green": "#df0002",

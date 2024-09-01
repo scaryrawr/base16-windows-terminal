@@ -5,6 +5,8 @@
   "_description": "Equilibrium Gray Dark",
   "background": "#111111",
   "foreground": "#ababab",
+  "cursorColor": "#008dd1",
+  "selectionBackground": "008dd1",
   "black": "#111111",
   "red": "#f04339",
   "green": "#7f8b00",

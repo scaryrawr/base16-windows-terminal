@@ -5,6 +5,8 @@
   "_description": "Isotope",
   "background": "#000000",
   "foreground": "#d0d0d0",
+  "cursorColor": "#0066ff",
+  "selectionBackground": "0066ff",
   "black": "#000000",
   "red": "#ff0000",
   "green": "#33ff00",

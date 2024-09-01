@@ -5,6 +5,8 @@
   "_description": "Sakura",
   "background": "#feedf3",
   "foreground": "#564448",
+  "cursorColor": "#006e93",
+  "selectionBackground": "006e93",
   "black": "#feedf3",
   "red": "#df2d52",
   "green": "#2e916d",

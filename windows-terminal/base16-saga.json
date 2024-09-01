@@ -5,6 +5,8 @@
   "_description": "SAGA",
   "background": "#05080a",
   "foreground": "#dce2f7",
+  "cursorColor": "#c9fff7",
+  "selectionBackground": "c9fff7",
   "black": "#05080a",
   "red": "#ffd4e9",
   "green": "#f7ddff",

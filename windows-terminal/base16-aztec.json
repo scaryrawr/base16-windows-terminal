@@ -5,6 +5,8 @@
   "_description": "Aztec",
   "background": "#101600",
   "foreground": "#ffda51",
+  "cursorColor": "#5b4a9f",
+  "selectionBackground": "5b4a9f",
   "black": "#101600",
   "red": "#ee2e00",
   "green": "#63d932",

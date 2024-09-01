@@ -5,6 +5,8 @@
   "_description": "Material Vivid",
   "background": "#202124",
   "foreground": "#80868b",
+  "cursorColor": "#2196f3",
+  "selectionBackground": "2196f3",
   "black": "#202124",
   "red": "#f44336",
   "green": "#00e676",

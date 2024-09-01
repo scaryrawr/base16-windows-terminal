@@ -5,6 +5,8 @@
   "_description": "Tokyo Night Terminal Light",
   "background": "#d5d6db",
   "foreground": "#4c505e",
+  "cursorColor": "#34548a",
+  "selectionBackground": "34548a",
   "black": "#d5d6db",
   "red": "#8c4351",
   "green": "#33635c",

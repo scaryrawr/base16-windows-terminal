@@ -5,6 +5,8 @@
   "_description": "Hardcore",
   "background": "#111111",
   "foreground": "#a9a9a9",
+  "cursorColor": "#414141",
+  "selectionBackground": "414141",
   "black": "#141414",
   "red": "#ff5555",
   "green": "#98ec65",

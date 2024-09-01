@@ -5,6 +5,8 @@
   "_description": "pandora",
   "background": "#131213",
   "foreground": "#f15c99",
+  "cursorColor": "#008080",
+  "selectionBackground": "008080",
   "black": "#131213",
   "red": "#b00b69",
   "green": "#9ddf69",

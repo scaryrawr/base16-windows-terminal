@@ -5,6 +5,8 @@
   "_description": "Github",
   "background": "#ffffff",
   "foreground": "#333333",
+  "cursorColor": "#795da3",
+  "selectionBackground": "795da3",
   "black": "#ffffff",
   "red": "#ed6a43",
   "green": "#183691",

@@ -5,6 +5,8 @@
   "_description": "Blue Forest",
   "background": "#141f2e",
   "foreground": "#ffcc33",
+  "cursorColor": "#a2cff5",
+  "selectionBackground": "a2cff5",
   "black": "#141f2e",
   "red": "#fffab1",
   "green": "#80ff80",

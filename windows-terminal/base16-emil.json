@@ -5,6 +5,8 @@
   "_description": "emil",
   "background": "#efefef",
   "foreground": "#313145",
+  "cursorColor": "#471397",
+  "selectionBackground": "471397",
   "black": "#efefef",
   "red": "#f43979",
   "green": "#0073a8",

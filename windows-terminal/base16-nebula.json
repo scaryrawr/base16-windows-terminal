@@ -5,6 +5,8 @@
   "_description": "Nebula",
   "background": "#22273b",
   "foreground": "#a4a6a9",
+  "cursorColor": "#4d6bb6",
+  "selectionBackground": "4d6bb6",
   "black": "#22273b",
   "red": "#777abc",
   "green": "#6562a8",

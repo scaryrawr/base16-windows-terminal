@@ -5,6 +5,8 @@
   "_description": "Gruvbox Material Light, Soft",
   "background": "#f2e5bc",
   "foreground": "#654735",
+  "cursorColor": "#45707a",
+  "selectionBackground": "45707a",
   "black": "#f2e5bc",
   "red": "#c14a4a",
   "green": "#6c782e",

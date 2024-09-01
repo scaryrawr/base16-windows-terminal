@@ -5,6 +5,8 @@
   "_description": "PhD",
   "background": "#061229",
   "foreground": "#b8bbc2",
+  "cursorColor": "#5299bf",
+  "selectionBackground": "5299bf",
   "black": "#061229",
   "red": "#d07346",
   "green": "#99bf52",

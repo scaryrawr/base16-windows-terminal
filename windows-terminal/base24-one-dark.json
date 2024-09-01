@@ -5,6 +5,8 @@
   "_description": "One Dark",
   "background": "#282c34",
   "foreground": "#abb2bf",
+  "cursorColor": "#4f5666",
+  "selectionBackground": "4f5666",
   "black": "#3f4451",
   "red": "#e05561",
   "green": "#8cc265",

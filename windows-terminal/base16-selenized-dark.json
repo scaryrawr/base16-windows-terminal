@@ -5,6 +5,8 @@
   "_description": "selenized-dark",
   "background": "#103c48",
   "foreground": "#adbcbc",
+  "cursorColor": "#4695f7",
+  "selectionBackground": "4695f7",
   "black": "#103c48",
   "red": "#fa5750",
   "green": "#75b938",

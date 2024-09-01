@@ -5,6 +5,8 @@
   "_description": "Framer",
   "background": "#181818",
   "foreground": "#d0d0d0",
+  "cursorColor": "#20bcfc",
+  "selectionBackground": "20bcfc",
   "black": "#181818",
   "red": "#fd886b",
   "green": "#32ccdc",

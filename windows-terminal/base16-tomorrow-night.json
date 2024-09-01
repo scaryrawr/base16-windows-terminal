@@ -5,6 +5,8 @@
   "_description": "Tomorrow Night",
   "background": "#1d1f21",
   "foreground": "#c5c8c6",
+  "cursorColor": "#81a2be",
+  "selectionBackground": "81a2be",
   "black": "#1d1f21",
   "red": "#cc6666",
   "green": "#b5bd68",

@@ -5,6 +5,8 @@
   "_description": "Brogrammer",
   "background": "#131313",
   "foreground": "#c1c8d7",
+  "cursorColor": "#2a3141",
+  "selectionBackground": "2a3141",
   "black": "#1f1f1f",
   "red": "#f71118",
   "green": "#2cc55d",

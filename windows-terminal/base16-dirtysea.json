@@ -5,6 +5,8 @@
   "_description": "dirtysea",
   "background": "#e0e0e0",
   "foreground": "#000000",
+  "cursorColor": "#007300",
+  "selectionBackground": "007300",
   "black": "#e0e0e0",
   "red": "#840000",
   "green": "#730073",

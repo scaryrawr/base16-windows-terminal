@@ -5,6 +5,8 @@
   "_description": "Hopscotch",
   "background": "#322931",
   "foreground": "#b9b5b8",
+  "cursorColor": "#1290bf",
+  "selectionBackground": "1290bf",
   "black": "#322931",
   "red": "#dd464c",
   "green": "#8fc13e",
