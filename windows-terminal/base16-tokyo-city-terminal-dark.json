@@ -14,11 +14,11 @@
   "cyan": "#70e1e8",
   "white": "#d8e2ec",
   "brightBlack": "#526270",
-  "brightRed": "#d95468",
-  "brightGreen": "#8bd49c",
-  "brightYellow": "#ebbf83",
-  "brightBlue": "#539afc",
-  "brightPurple": "#b62d65",
-  "brightCyan": "#70e1e8",
+  "brightRed": "#ff9e64",
+  "brightGreen": "#1d252c",
+  "brightYellow": "#28323a",
+  "brightBlue": "#b7c5d3",
+  "brightPurple": "#f6f6f8",
+  "brightCyan": "#dd9d82",
   "brightWhite": "#fbfbfd"
 }
