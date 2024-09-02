@@ -5,7 +5,7 @@
   "_description": "Green Screen",
   "background": "#001100",
   "foreground": "#00bb00",
-  "cursorColor": "#009900",
+  "cursorColor": "#00bb00",
   "selectionBackground": "#009900",
   "black": "#001100",
   "red": "#007700",

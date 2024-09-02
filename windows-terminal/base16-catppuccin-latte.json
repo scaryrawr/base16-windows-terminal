@@ -5,7 +5,7 @@
   "_description": "Catppuccin Latte",
   "background": "#eff1f5",
   "foreground": "#4c4f69",
-  "cursorColor": "#1e66f5",
+  "cursorColor": "#4c4f69",
   "selectionBackground": "#1e66f5",
   "black": "#eff1f5",
   "red": "#d20f39",

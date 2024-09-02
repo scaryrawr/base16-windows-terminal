@@ -5,7 +5,7 @@
   "_description": "Terracotta Dark",
   "background": "#241d1a",
   "foreground": "#b8a59d",
-  "cursorColor": "#b0a4c3",
+  "cursorColor": "#b8a59d",
   "selectionBackground": "#b0a4c3",
   "black": "#241d1a",
   "red": "#f6998f",

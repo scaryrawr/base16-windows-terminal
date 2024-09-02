@@ -5,7 +5,7 @@
   "_description": "Rosé Pine",
   "background": "#191724",
   "foreground": "#e0def4",
-  "cursorColor": "#c4a7e7",
+  "cursorColor": "#e0def4",
   "selectionBackground": "#c4a7e7",
   "black": "#191724",
   "red": "#eb6f92",

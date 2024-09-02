@@ -5,7 +5,7 @@
   "_description": "Eighties",
   "background": "#2d2d2d",
   "foreground": "#d3d0c8",
-  "cursorColor": "#6699cc",
+  "cursorColor": "#d3d0c8",
   "selectionBackground": "#6699cc",
   "black": "#2d2d2d",
   "red": "#f2777a",

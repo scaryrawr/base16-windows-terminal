@@ -5,7 +5,7 @@
   "_description": "PaperColor Light",
   "background": "#eeeeee",
   "foreground": "#444444",
-  "cursorColor": "#d75f00",
+  "cursorColor": "#444444",
   "selectionBackground": "#d75f00",
   "black": "#eeeeee",
   "red": "#bcbcbc",

@@ -5,7 +5,7 @@
   "_description": "Precious Dark Fifteen",
   "background": "#23262b",
   "foreground": "#bab9b6",
-  "cursorColor": "#66b0ef",
+  "cursorColor": "#bab9b6",
   "selectionBackground": "#66b0ef",
   "black": "#23262b",
   "red": "#ff8782",

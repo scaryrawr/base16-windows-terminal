@@ -5,7 +5,7 @@
   "_description": "DanQing",
   "background": "#2d302f",
   "foreground": "#e0f0ef",
-  "cursorColor": "#b0a4e3",
+  "cursorColor": "#e0f0ef",
   "selectionBackground": "#b0a4e3",
   "black": "#2d302f",
   "red": "#f9906f",

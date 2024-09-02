@@ -5,7 +5,7 @@
   "_description": "Stella",
   "background": "#2b213c",
   "foreground": "#998bad",
-  "cursorColor": "#a5aad4",
+  "cursorColor": "#998bad",
   "selectionBackground": "#a5aad4",
   "black": "#2b213c",
   "red": "#c79987",

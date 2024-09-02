@@ -5,7 +5,7 @@
   "_description": "Catppuccin Macchiato",
   "background": "#24273a",
   "foreground": "#cad3f5",
-  "cursorColor": "#8aadf4",
+  "cursorColor": "#cad3f5",
   "selectionBackground": "#8aadf4",
   "black": "#24273a",
   "red": "#ed8796",

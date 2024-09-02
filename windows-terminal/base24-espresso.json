@@ -5,7 +5,7 @@
   "_description": "Espresso",
   "background": "#262626",
   "foreground": "#c7c7c5",
-  "cursorColor": "#535353",
+  "cursorColor": "#c7c7c5",
   "selectionBackground": "#535353",
   "black": "#343434",
   "red": "#d25151",

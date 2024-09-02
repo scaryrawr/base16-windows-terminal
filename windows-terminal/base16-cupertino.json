@@ -5,7 +5,7 @@
   "_description": "Cupertino",
   "background": "#ffffff",
   "foreground": "#404040",
-  "cursorColor": "#0000ff",
+  "cursorColor": "#404040",
   "selectionBackground": "#0000ff",
   "black": "#ffffff",
   "red": "#c41a15",

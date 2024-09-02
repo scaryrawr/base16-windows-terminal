@@ -5,7 +5,7 @@
   "_description": "Pico",
   "background": "#000000",
   "foreground": "#5f574f",
-  "cursorColor": "#83769c",
+  "cursorColor": "#5f574f",
   "selectionBackground": "#83769c",
   "black": "#000000",
   "red": "#ff004d",

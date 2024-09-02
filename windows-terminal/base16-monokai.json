@@ -5,7 +5,7 @@
   "_description": "Monokai",
   "background": "#272822",
   "foreground": "#f8f8f2",
-  "cursorColor": "#66d9ef",
+  "cursorColor": "#f8f8f2",
   "selectionBackground": "#66d9ef",
   "black": "#272822",
   "red": "#f92672",

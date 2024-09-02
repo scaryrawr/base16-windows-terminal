@@ -5,7 +5,7 @@
   "_description": "Jabuti",
   "background": "#292a37",
   "foreground": "#c0cbe3",
-  "cursorColor": "#3fc6de",
+  "cursorColor": "#c0cbe3",
   "selectionBackground": "#3fc6de",
   "black": "#292a37",
   "red": "#ec6a88",

@@ -5,7 +5,7 @@
   "_description": "Material Palenight",
   "background": "#292d3e",
   "foreground": "#959dcb",
-  "cursorColor": "#82aaff",
+  "cursorColor": "#959dcb",
   "selectionBackground": "#82aaff",
   "black": "#292d3e",
   "red": "#f07178",

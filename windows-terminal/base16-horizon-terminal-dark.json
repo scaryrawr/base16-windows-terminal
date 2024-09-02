@@ -5,7 +5,7 @@
   "_description": "Horizon Terminal Dark",
   "background": "#1c1e26",
   "foreground": "#cbced0",
-  "cursorColor": "#26bbd9",
+  "cursorColor": "#cbced0",
   "selectionBackground": "#26bbd9",
   "black": "#1c1e26",
   "red": "#e95678",

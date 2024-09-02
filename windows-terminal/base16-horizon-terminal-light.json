@@ -5,7 +5,7 @@
   "_description": "Horizon Terminal Light",
   "background": "#fdf0ed",
   "foreground": "#403c3d",
-  "cursorColor": "#26bbd9",
+  "cursorColor": "#403c3d",
   "selectionBackground": "#26bbd9",
   "black": "#fdf0ed",
   "red": "#e95678",

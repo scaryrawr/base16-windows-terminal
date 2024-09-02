@@ -5,7 +5,7 @@
   "_description": "vulcan",
   "background": "#041523",
   "foreground": "#5b778c",
-  "cursorColor": "#977d7c",
+  "cursorColor": "#5b778c",
   "selectionBackground": "#977d7c",
   "black": "#041523",
   "red": "#818591",

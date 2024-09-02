@@ -5,7 +5,7 @@
   "_description": "Black Metal (Venom)",
   "background": "#000000",
   "foreground": "#c1c1c1",
-  "cursorColor": "#888888",
+  "cursorColor": "#c1c1c1",
   "selectionBackground": "#888888",
   "black": "#000000",
   "red": "#5f8787",

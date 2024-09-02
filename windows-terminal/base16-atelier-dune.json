@@ -5,7 +5,7 @@
   "_description": "Atelier Dune",
   "background": "#20201d",
   "foreground": "#a6a28c",
-  "cursorColor": "#6684e1",
+  "cursorColor": "#a6a28c",
   "selectionBackground": "#6684e1",
   "black": "#20201d",
   "red": "#d73737",

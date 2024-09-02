@@ -5,7 +5,7 @@
   "_description": "Apprentice",
   "background": "#262626",
   "foreground": "#5f5f87",
-  "cursorColor": "#8787af",
+  "cursorColor": "#5f5f87",
   "selectionBackground": "#8787af",
   "black": "#262626",
   "red": "#444444",

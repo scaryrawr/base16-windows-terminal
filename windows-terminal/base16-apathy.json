@@ -5,7 +5,7 @@
   "_description": "Apathy",
   "background": "#031a16",
   "foreground": "#81b5ac",
-  "cursorColor": "#96883e",
+  "cursorColor": "#81b5ac",
   "selectionBackground": "#96883e",
   "black": "#031a16",
   "red": "#3e9688",

@@ -5,7 +5,7 @@
   "_description": "Circus",
   "background": "#191919",
   "foreground": "#a7a7a7",
-  "cursorColor": "#639ee4",
+  "cursorColor": "#a7a7a7",
   "selectionBackground": "#639ee4",
   "black": "#191919",
   "red": "#dc657d",

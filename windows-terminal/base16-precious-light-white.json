@@ -5,7 +5,7 @@
   "_description": "Precious Light White",
   "background": "#ffffff",
   "foreground": "#555555",
-  "cursorColor": "#186daa",
+  "cursorColor": "#555555",
   "selectionBackground": "#186daa",
   "black": "#ffffff",
   "red": "#af4947",

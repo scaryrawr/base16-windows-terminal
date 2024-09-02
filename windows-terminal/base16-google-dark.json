@@ -5,7 +5,7 @@
   "_description": "Google Dark",
   "background": "#1d1f21",
   "foreground": "#c5c8c6",
-  "cursorColor": "#3971ed",
+  "cursorColor": "#c5c8c6",
   "selectionBackground": "#3971ed",
   "black": "#1d1f21",
   "red": "#cc342b",

@@ -5,7 +5,7 @@
   "_description": "Pop",
   "background": "#000000",
   "foreground": "#d0d0d0",
-  "cursorColor": "#0e5a94",
+  "cursorColor": "#d0d0d0",
   "selectionBackground": "#0e5a94",
   "black": "#000000",
   "red": "#eb008a",

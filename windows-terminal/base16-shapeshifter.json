@@ -5,7 +5,7 @@
   "_description": "Shapeshifter",
   "background": "#f9f9f9",
   "foreground": "#102015",
-  "cursorColor": "#3b48e3",
+  "cursorColor": "#102015",
   "selectionBackground": "#3b48e3",
   "black": "#f9f9f9",
   "red": "#e92f2f",

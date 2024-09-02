@@ -5,7 +5,7 @@
   "_description": "Windows NT Light",
   "background": "#ffffff",
   "foreground": "#808080",
-  "cursorColor": "#000080",
+  "cursorColor": "#808080",
   "selectionBackground": "#000080",
   "black": "#ffffff",
   "red": "#800000",

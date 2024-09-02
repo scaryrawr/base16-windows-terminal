@@ -5,7 +5,7 @@
   "_description": "Nord",
   "background": "#2e3440",
   "foreground": "#e5e9f0",
-  "cursorColor": "#81a1c1",
+  "cursorColor": "#e5e9f0",
   "selectionBackground": "#81a1c1",
   "black": "#2e3440",
   "red": "#bf616a",

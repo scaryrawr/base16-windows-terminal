@@ -5,7 +5,7 @@
   "_description": "Harmonic16 Dark",
   "background": "#0b1c2c",
   "foreground": "#cbd6e2",
-  "cursorColor": "#8b56bf",
+  "cursorColor": "#cbd6e2",
   "selectionBackground": "#8b56bf",
   "black": "#0b1c2c",
   "red": "#bf8b56",

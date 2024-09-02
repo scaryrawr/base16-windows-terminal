@@ -5,7 +5,7 @@
   "_description": "tender",
   "background": "#282828",
   "foreground": "#eeeeee",
-  "cursorColor": "#b3deef",
+  "cursorColor": "#eeeeee",
   "selectionBackground": "#b3deef",
   "black": "#282828",
   "red": "#f43753",

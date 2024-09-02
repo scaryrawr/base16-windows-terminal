@@ -5,7 +5,7 @@
   "_description": "DanQing Light",
   "background": "#fcfefd",
   "foreground": "#5a605d",
-  "cursorColor": "#b0a4e3",
+  "cursorColor": "#5a605d",
   "selectionBackground": "#b0a4e3",
   "black": "#fcfefd",
   "red": "#f9906f",

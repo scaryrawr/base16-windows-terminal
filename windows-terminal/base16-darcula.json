@@ -5,7 +5,7 @@
   "_description": "Darcula",
   "background": "#2b2b2b",
   "foreground": "#a9b7c6",
-  "cursorColor": "#9876aa",
+  "cursorColor": "#a9b7c6",
   "selectionBackground": "#9876aa",
   "black": "#2b2b2b",
   "red": "#4eade5",

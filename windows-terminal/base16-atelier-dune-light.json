@@ -5,7 +5,7 @@
   "_description": "Atelier Dune Light",
   "background": "#fefbec",
   "foreground": "#6e6b5e",
-  "cursorColor": "#6684e1",
+  "cursorColor": "#6e6b5e",
   "selectionBackground": "#6684e1",
   "black": "#fefbec",
   "red": "#d73737",

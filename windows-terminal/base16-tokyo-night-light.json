@@ -5,7 +5,7 @@
   "_description": "Tokyo Night Light",
   "background": "#d5d6db",
   "foreground": "#343b59",
-  "cursorColor": "#34548a",
+  "cursorColor": "#343b59",
   "selectionBackground": "#34548a",
   "black": "#d5d6db",
   "red": "#343b58",

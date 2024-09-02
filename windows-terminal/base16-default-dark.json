@@ -5,7 +5,7 @@
   "_description": "Default Dark",
   "background": "#181818",
   "foreground": "#d8d8d8",
-  "cursorColor": "#7cafc2",
+  "cursorColor": "#d8d8d8",
   "selectionBackground": "#7cafc2",
   "black": "#181818",
   "red": "#ab4642",

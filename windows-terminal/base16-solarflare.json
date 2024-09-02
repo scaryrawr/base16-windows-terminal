@@ -5,7 +5,7 @@
   "_description": "Solar Flare",
   "background": "#18262f",
   "foreground": "#a6afb8",
-  "cursorColor": "#33b5e1",
+  "cursorColor": "#a6afb8",
   "selectionBackground": "#33b5e1",
   "black": "#18262f",
   "red": "#ef5253",

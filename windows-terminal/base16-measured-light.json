@@ -5,7 +5,7 @@
   "_description": "Measured Light",
   "background": "#fdf9f5",
   "foreground": "#292929",
-  "cursorColor": "#0158ad",
+  "cursorColor": "#292929",
   "selectionBackground": "#0158ad",
   "black": "#fdf9f5",
   "red": "#ac1f35",

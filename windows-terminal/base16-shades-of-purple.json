@@ -5,7 +5,7 @@
   "_description": "Shades of Purple",
   "background": "#1e1e3f",
   "foreground": "#c7c7c7",
-  "cursorColor": "#6943ff",
+  "cursorColor": "#c7c7c7",
   "selectionBackground": "#6943ff",
   "black": "#1e1e3f",
   "red": "#d90429",

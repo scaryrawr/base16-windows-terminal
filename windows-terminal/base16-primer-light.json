@@ -5,7 +5,7 @@
   "_description": "Primer Light",
   "background": "#fafbfc",
   "foreground": "#2f363d",
-  "cursorColor": "#0366d6",
+  "cursorColor": "#2f363d",
   "selectionBackground": "#0366d6",
   "black": "#fafbfc",
   "red": "#d73a49",

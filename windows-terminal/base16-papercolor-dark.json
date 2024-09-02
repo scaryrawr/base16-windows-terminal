@@ -5,7 +5,7 @@
   "_description": "PaperColor Dark",
   "background": "#1c1c1c",
   "foreground": "#808080",
-  "cursorColor": "#ff5faf",
+  "cursorColor": "#808080",
   "selectionBackground": "#ff5faf",
   "black": "#1c1c1c",
   "red": "#585858",

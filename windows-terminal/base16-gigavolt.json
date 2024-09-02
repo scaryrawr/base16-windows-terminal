@@ -5,7 +5,7 @@
   "_description": "Gigavolt",
   "background": "#202126",
   "foreground": "#e9e7e1",
-  "cursorColor": "#40bfff",
+  "cursorColor": "#e9e7e1",
   "selectionBackground": "#40bfff",
   "black": "#202126",
   "red": "#ff661a",

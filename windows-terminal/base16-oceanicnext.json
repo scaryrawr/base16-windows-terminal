@@ -5,7 +5,7 @@
   "_description": "OceanicNext",
   "background": "#1b2b34",
   "foreground": "#c0c5ce",
-  "cursorColor": "#6699cc",
+  "cursorColor": "#c0c5ce",
   "selectionBackground": "#6699cc",
   "black": "#1b2b34",
   "red": "#ec5f67",

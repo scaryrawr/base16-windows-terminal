@@ -5,7 +5,7 @@
   "_description": "Material Lighter",
   "background": "#fafafa",
   "foreground": "#80cbc4",
-  "cursorColor": "#6182b8",
+  "cursorColor": "#80cbc4",
   "selectionBackground": "#6182b8",
   "black": "#fafafa",
   "red": "#ff5370",

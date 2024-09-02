@@ -5,7 +5,7 @@
   "_description": "lime",
   "background": "#1a1a2f",
   "foreground": "#818175",
-  "cursorColor": "#2b926f",
+  "cursorColor": "#818175",
   "selectionBackground": "#2b926f",
   "black": "#1a1a2f",
   "red": "#ff662a",

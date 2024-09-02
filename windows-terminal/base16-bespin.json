@@ -5,7 +5,7 @@
   "_description": "Bespin",
   "background": "#28211c",
   "foreground": "#8a8986",
-  "cursorColor": "#5ea6ea",
+  "cursorColor": "#8a8986",
   "selectionBackground": "#5ea6ea",
   "black": "#28211c",
   "red": "#cf6a4c",

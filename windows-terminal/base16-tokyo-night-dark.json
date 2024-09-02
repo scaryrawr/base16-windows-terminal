@@ -5,7 +5,7 @@
   "_description": "Tokyo Night Dark",
   "background": "#1a1b26",
   "foreground": "#a9b1d6",
-  "cursorColor": "#2ac3de",
+  "cursorColor": "#a9b1d6",
   "selectionBackground": "#2ac3de",
   "black": "#1a1b26",
   "red": "#c0caf5",

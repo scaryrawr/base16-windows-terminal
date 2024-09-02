@@ -5,7 +5,7 @@
   "_description": "Kanagawa",
   "background": "#1f1f28",
   "foreground": "#dcd7ba",
-  "cursorColor": "#7e9cd8",
+  "cursorColor": "#dcd7ba",
   "selectionBackground": "#7e9cd8",
   "black": "#1f1f28",
   "red": "#c34043",

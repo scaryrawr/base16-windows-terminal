@@ -5,7 +5,7 @@
   "_description": "Nord Light",
   "background": "#e5e9f0",
   "foreground": "#2e3440",
-  "cursorColor": "#3b6ea8",
+  "cursorColor": "#2e3440",
   "selectionBackground": "#3b6ea8",
   "black": "#e5e9f0",
   "red": "#99324b",
