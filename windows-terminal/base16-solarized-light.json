@@ -6,7 +6,7 @@
   "background": "#fdf6e3",
   "foreground": "#586e75",
   "cursorColor": "#268bd2",
-  "selectionBackground": "268bd2",
+  "selectionBackground": "#268bd2",
   "black": "#fdf6e3",
   "red": "#dc322f",
   "green": "#859900",
