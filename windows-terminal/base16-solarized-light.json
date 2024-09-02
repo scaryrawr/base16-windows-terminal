@@ -5,7 +5,7 @@
   "_description": "Solarized Light",
   "background": "#fdf6e3",
   "foreground": "#586e75",
-  "cursorColor": "#268bd2",
+  "cursorColor": "#586e75",
   "selectionBackground": "#268bd2",
   "black": "#fdf6e3",
   "red": "#dc322f",

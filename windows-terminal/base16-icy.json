@@ -5,7 +5,7 @@
   "_description": "Icy Dark",
   "background": "#021012",
   "foreground": "#095b67",
-  "cursorColor": "#00bcd4",
+  "cursorColor": "#095b67",
   "selectionBackground": "#00bcd4",
   "black": "#021012",
   "red": "#16c1d9",

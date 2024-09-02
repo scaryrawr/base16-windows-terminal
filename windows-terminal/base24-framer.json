@@ -5,7 +5,7 @@
   "_description": "Framer",
   "background": "#111111",
   "foreground": "#a9a9a9",
-  "cursorColor": "#414141",
+  "cursorColor": "#a9a9a9",
   "selectionBackground": "#414141",
   "black": "#141414",
   "red": "#ff5555",

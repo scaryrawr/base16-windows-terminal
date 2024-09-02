@@ -5,7 +5,7 @@
   "_description": "Gotham",
   "background": "#0c1014",
   "foreground": "#599cab",
-  "cursorColor": "#195466",
+  "cursorColor": "#599cab",
   "selectionBackground": "#195466",
   "black": "#0c1014",
   "red": "#c23127",

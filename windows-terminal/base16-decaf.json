@@ -5,7 +5,7 @@
   "_description": "Decaf",
   "background": "#2d2d2d",
   "foreground": "#cccccc",
-  "cursorColor": "#90bee1",
+  "cursorColor": "#cccccc",
   "selectionBackground": "#90bee1",
   "black": "#2d2d2d",
   "red": "#ff7f7b",

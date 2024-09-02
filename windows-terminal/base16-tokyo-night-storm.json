@@ -5,7 +5,7 @@
   "_description": "Tokyo Night Storm",
   "background": "#24283b",
   "foreground": "#a9b1d6",
-  "cursorColor": "#2ac3de",
+  "cursorColor": "#a9b1d6",
   "selectionBackground": "#2ac3de",
   "black": "#24283b",
   "red": "#c0caf5",

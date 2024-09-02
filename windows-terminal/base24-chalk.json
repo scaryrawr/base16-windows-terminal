@@ -5,7 +5,7 @@
   "_description": "Chalk",
   "background": "#151515",
   "foreground": "#d0d0d0",
-  "cursorColor": "#303030",
+  "cursorColor": "#d0d0d0",
   "selectionBackground": "#303030",
   "black": "#202020",
   "red": "#fa859c",

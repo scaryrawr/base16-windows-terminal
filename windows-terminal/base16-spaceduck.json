@@ -5,7 +5,7 @@
   "_description": "Spaceduck",
   "background": "#16172d",
   "foreground": "#ecf0c1",
-  "cursorColor": "#7a5ccc",
+  "cursorColor": "#ecf0c1",
   "selectionBackground": "#7a5ccc",
   "black": "#16172d",
   "red": "#e33400",

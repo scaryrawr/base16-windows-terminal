@@ -5,7 +5,7 @@
   "_description": "Windows High Contrast",
   "background": "#000000",
   "foreground": "#c0c0c0",
-  "cursorColor": "#5454fc",
+  "cursorColor": "#c0c0c0",
   "selectionBackground": "#5454fc",
   "black": "#000000",
   "red": "#fc5454",

@@ -5,7 +5,7 @@
   "_description": "Mountain",
   "background": "#0f0f0f",
   "foreground": "#cacaca",
-  "cursorColor": "#8f8aac",
+  "cursorColor": "#cacaca",
   "selectionBackground": "#8f8aac",
   "black": "#0f0f0f",
   "red": "#ac8a8c",

@@ -5,7 +5,7 @@
   "_description": "Rosé Pine Moon",
   "background": "#232136",
   "foreground": "#e0def4",
-  "cursorColor": "#c4a7e7",
+  "cursorColor": "#e0def4",
   "selectionBackground": "#c4a7e7",
   "black": "#232136",
   "red": "#eb6f92",

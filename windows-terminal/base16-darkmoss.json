@@ -5,7 +5,7 @@
   "_description": "darkmoss",
   "background": "#171e1f",
   "foreground": "#c7c7a5",
-  "cursorColor": "#498091",
+  "cursorColor": "#c7c7a5",
   "selectionBackground": "#498091",
   "black": "#171e1f",
   "red": "#ff4658",

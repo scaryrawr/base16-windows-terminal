@@ -5,7 +5,7 @@
   "_description": "Classic Light",
   "background": "#f5f5f5",
   "foreground": "#303030",
-  "cursorColor": "#6a9fb5",
+  "cursorColor": "#303030",
   "selectionBackground": "#6a9fb5",
   "black": "#f5f5f5",
   "red": "#ac4142",

@@ -5,7 +5,7 @@
   "_description": "Humanoid dark",
   "background": "#232629",
   "foreground": "#f8f8f2",
-  "cursorColor": "#00a6fb",
+  "cursorColor": "#f8f8f2",
   "selectionBackground": "#00a6fb",
   "black": "#232629",
   "red": "#f11235",

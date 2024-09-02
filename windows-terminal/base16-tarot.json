@@ -5,7 +5,7 @@
   "_description": "tarot",
   "background": "#0e091d",
   "foreground": "#aa556f",
-  "cursorColor": "#6e6080",
+  "cursorColor": "#aa556f",
   "selectionBackground": "#6e6080",
   "black": "#0e091d",
   "red": "#c53253",

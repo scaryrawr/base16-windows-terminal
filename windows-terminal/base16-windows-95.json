@@ -5,7 +5,7 @@
   "_description": "Windows 95",
   "background": "#000000",
   "foreground": "#a8a8a8",
-  "cursorColor": "#5454fc",
+  "cursorColor": "#a8a8a8",
   "selectionBackground": "#5454fc",
   "black": "#000000",
   "red": "#fc5454",

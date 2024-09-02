@@ -5,7 +5,7 @@
   "_description": "Marrakesh",
   "background": "#201602",
   "foreground": "#948e48",
-  "cursorColor": "#477ca1",
+  "cursorColor": "#948e48",
   "selectionBackground": "#477ca1",
   "black": "#201602",
   "red": "#c35359",

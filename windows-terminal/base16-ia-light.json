@@ -5,7 +5,7 @@
   "_description": "iA Light",
   "background": "#f6f6f6",
   "foreground": "#181818",
-  "cursorColor": "#48bac2",
+  "cursorColor": "#181818",
   "selectionBackground": "#48bac2",
   "black": "#f6f6f6",
   "red": "#9c5a02",

@@ -5,7 +5,7 @@
   "_description": "Brush Trees",
   "background": "#e3efef",
   "foreground": "#6d828e",
-  "cursorColor": "#868cb3",
+  "cursorColor": "#6d828e",
   "selectionBackground": "#868cb3",
   "black": "#e3efef",
   "red": "#b38686",

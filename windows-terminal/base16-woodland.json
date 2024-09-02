@@ -5,7 +5,7 @@
   "_description": "Woodland",
   "background": "#231e18",
   "foreground": "#cabcb1",
-  "cursorColor": "#88a4d3",
+  "cursorColor": "#cabcb1",
   "selectionBackground": "#88a4d3",
   "black": "#231e18",
   "red": "#d35c5c",

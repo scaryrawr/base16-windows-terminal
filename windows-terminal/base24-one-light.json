@@ -5,7 +5,7 @@
   "_description": "One Light",
   "background": "#e7e7e9",
   "foreground": "#383a42",
-  "cursorColor": "#cacace",
+  "cursorColor": "#383a42",
   "selectionBackground": "#cacace",
   "black": "#dfdfe1",
   "red": "#ca1243",

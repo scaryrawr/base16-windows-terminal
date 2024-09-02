@@ -5,7 +5,7 @@
   "_description": "Embers",
   "background": "#16130f",
   "foreground": "#a39a90",
-  "cursorColor": "#6d5782",
+  "cursorColor": "#a39a90",
   "selectionBackground": "#6d5782",
   "black": "#16130f",
   "red": "#826d57",

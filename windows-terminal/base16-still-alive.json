@@ -5,7 +5,7 @@
   "_description": "Still Alive",
   "background": "#f0f0f0",
   "foreground": "#d80000",
-  "cursorColor": "#001878",
+  "cursorColor": "#d80000",
   "selectionBackground": "#001878",
   "black": "#f0f0f0",
   "red": "#487830",

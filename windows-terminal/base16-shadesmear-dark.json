@@ -5,7 +5,7 @@
   "_description": "ShadeSmear Dark",
   "background": "#232323",
   "foreground": "#dbdbdb",
-  "cursorColor": "#376388",
+  "cursorColor": "#dbdbdb",
   "selectionBackground": "#376388",
   "black": "#232323",
   "red": "#cc5450",

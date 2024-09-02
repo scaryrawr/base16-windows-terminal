@@ -5,7 +5,7 @@
   "_description": "Tokyo City Light",
   "background": "#fbfbfd",
   "foreground": "#343b59",
-  "cursorColor": "#34548a",
+  "cursorColor": "#343b59",
   "selectionBackground": "#34548a",
   "black": "#fbfbfd",
   "red": "#8c4351",

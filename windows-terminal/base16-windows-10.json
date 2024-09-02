@@ -5,7 +5,7 @@
   "_description": "Windows 10",
   "background": "#0c0c0c",
   "foreground": "#cccccc",
-  "cursorColor": "#3b78ff",
+  "cursorColor": "#cccccc",
   "selectionBackground": "#3b78ff",
   "black": "#0c0c0c",
   "red": "#e74856",

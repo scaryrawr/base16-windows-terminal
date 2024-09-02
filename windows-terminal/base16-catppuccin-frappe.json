@@ -5,7 +5,7 @@
   "_description": "Catppuccin Frappe",
   "background": "#303446",
   "foreground": "#c6d0f5",
-  "cursorColor": "#8caaee",
+  "cursorColor": "#c6d0f5",
   "selectionBackground": "#8caaee",
   "black": "#303446",
   "red": "#e78284",

@@ -5,7 +5,7 @@
   "_description": "Edge Dark",
   "background": "#262729",
   "foreground": "#b7bec9",
-  "cursorColor": "#73b3e7",
+  "cursorColor": "#b7bec9",
   "selectionBackground": "#73b3e7",
   "black": "#262729",
   "red": "#e77171",

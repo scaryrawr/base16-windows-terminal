@@ -5,7 +5,7 @@
   "_description": "Porple",
   "background": "#292c36",
   "foreground": "#d8d8d8",
-  "cursorColor": "#8485ce",
+  "cursorColor": "#d8d8d8",
   "selectionBackground": "#8485ce",
   "black": "#292c36",
   "red": "#f84547",

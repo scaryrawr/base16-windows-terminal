@@ -5,7 +5,7 @@
   "_description": "Solar Flare Light",
   "background": "#f5f7fa",
   "foreground": "#586875",
-  "cursorColor": "#33b5e1",
+  "cursorColor": "#586875",
   "selectionBackground": "#33b5e1",
   "black": "#f5f7fa",
   "red": "#ef5253",

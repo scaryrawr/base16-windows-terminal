@@ -5,7 +5,7 @@
   "_description": "Synth Midnight Terminal Light",
   "background": "#dddfe0",
   "foreground": "#28292a",
-  "cursorColor": "#03aeff",
+  "cursorColor": "#28292a",
   "selectionBackground": "#03aeff",
   "black": "#dddfe0",
   "red": "#b53b50",

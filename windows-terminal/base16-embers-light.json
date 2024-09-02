@@ -5,7 +5,7 @@
   "_description": "Embers Light",
   "background": "#d1d6db",
   "foreground": "#323b43",
-  "cursorColor": "#82576d",
+  "cursorColor": "#323b43",
   "selectionBackground": "#82576d",
   "black": "#d1d6db",
   "red": "#576d82",

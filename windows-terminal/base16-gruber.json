@@ -5,7 +5,7 @@
   "_description": "Gruber",
   "background": "#181818",
   "foreground": "#f4f4ff",
-  "cursorColor": "#96a6c8",
+  "cursorColor": "#f4f4ff",
   "selectionBackground": "#96a6c8",
   "black": "#181818",
   "red": "#f43841",

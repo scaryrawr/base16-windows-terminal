@@ -5,7 +5,7 @@
   "_description": "Colors",
   "background": "#111111",
   "foreground": "#bbbbbb",
-  "cursorColor": "#0074d9",
+  "cursorColor": "#bbbbbb",
   "selectionBackground": "#0074d9",
   "black": "#111111",
   "red": "#ff4136",

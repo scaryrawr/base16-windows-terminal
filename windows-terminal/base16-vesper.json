@@ -5,7 +5,7 @@
   "_description": "Vesper",
   "background": "#101010",
   "foreground": "#b7b7b7",
-  "cursorColor": "#8eaaaa",
+  "cursorColor": "#b7b7b7",
   "selectionBackground": "#8eaaaa",
   "black": "#101010",
   "red": "#de6e6e",

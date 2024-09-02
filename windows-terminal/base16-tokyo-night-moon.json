@@ -5,7 +5,7 @@
   "_description": "Tokyo Night Moon",
   "background": "#222436",
   "foreground": "#3b4261",
-  "cursorColor": "#82aaff",
+  "cursorColor": "#3b4261",
   "selectionBackground": "#82aaff",
   "black": "#222436",
   "red": "#ff757f",

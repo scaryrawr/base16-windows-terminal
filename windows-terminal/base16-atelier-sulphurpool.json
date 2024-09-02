@@ -5,7 +5,7 @@
   "_description": "Atelier Sulphurpool",
   "background": "#202746",
   "foreground": "#979db4",
-  "cursorColor": "#3d8fd1",
+  "cursorColor": "#979db4",
   "selectionBackground": "#3d8fd1",
   "black": "#202746",
   "red": "#c94922",

@@ -5,7 +5,7 @@
   "_description": "vice",
   "background": "#17191e",
   "foreground": "#8b9cbe",
-  "cursorColor": "#00eaff",
+  "cursorColor": "#8b9cbe",
   "selectionBackground": "#00eaff",
   "black": "#17191e",
   "red": "#ff29a8",

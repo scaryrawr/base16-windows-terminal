@@ -5,7 +5,7 @@
   "_description": "Tokyo Night Terminal Dark",
   "background": "#16161e",
   "foreground": "#787c99",
-  "cursorColor": "#7aa2f7",
+  "cursorColor": "#787c99",
   "selectionBackground": "#7aa2f7",
   "black": "#16161e",
   "red": "#f7768e",

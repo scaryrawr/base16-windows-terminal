@@ -5,7 +5,7 @@
   "_description": "Brewer",
   "background": "#0c0d0e",
   "foreground": "#b7b8b9",
-  "cursorColor": "#3182bd",
+  "cursorColor": "#b7b8b9",
   "selectionBackground": "#3182bd",
   "black": "#0c0d0e",
   "red": "#e31a1c",

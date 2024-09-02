@@ -5,7 +5,7 @@
   "_description": "Moonlight",
   "background": "#212337",
   "foreground": "#a3ace1",
-  "cursorColor": "#40ffff",
+  "cursorColor": "#a3ace1",
   "selectionBackground": "#40ffff",
   "black": "#212337",
   "red": "#ff5370",

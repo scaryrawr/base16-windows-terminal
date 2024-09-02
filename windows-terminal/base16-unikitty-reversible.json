@@ -5,7 +5,7 @@
   "_description": "Unikitty Reversible",
   "background": "#2e2a31",
   "foreground": "#c3c2c4",
-  "cursorColor": "#7864fa",
+  "cursorColor": "#c3c2c4",
   "selectionBackground": "#7864fa",
   "black": "#2e2a31",
   "red": "#d8137f",

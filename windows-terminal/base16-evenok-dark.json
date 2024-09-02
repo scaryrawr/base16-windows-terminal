@@ -5,7 +5,7 @@
   "_description": "Evenok Dark",
   "background": "#000000",
   "foreground": "#d0d0d0",
-  "cursorColor": "#00aff2",
+  "cursorColor": "#d0d0d0",
   "selectionBackground": "#00aff2",
   "black": "#000000",
   "red": "#f5708a",

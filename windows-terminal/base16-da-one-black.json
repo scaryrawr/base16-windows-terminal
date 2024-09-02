@@ -5,7 +5,7 @@
   "_description": "Da One Black",
   "background": "#000000",
   "foreground": "#ffffff",
-  "cursorColor": "#6bb8ff",
+  "cursorColor": "#ffffff",
   "selectionBackground": "#6bb8ff",
   "black": "#000000",
   "red": "#fa7883",
