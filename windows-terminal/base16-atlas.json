@@ -5,6 +5,8 @@
   "_description": "Atlas",
   "background": "#002635",
   "foreground": "#a1a19a",
+  "cursorColor": "#14747e",
+  "selectionBackground": "14747e",
   "black": "#002635",
   "red": "#ff5a67",
   "green": "#7fc06e",

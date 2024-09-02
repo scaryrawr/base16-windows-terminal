@@ -5,6 +5,8 @@
   "_description": "Heetch Dark",
   "background": "#190134",
   "foreground": "#bdb6c5",
+  "cursorColor": "#bd0152",
+  "selectionBackground": "bd0152",
   "black": "#190134",
   "red": "#27d9d5",
   "green": "#c33678",

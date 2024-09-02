@@ -5,6 +5,8 @@
   "_description": "Zenbones",
   "background": "#191919",
   "foreground": "#b279a7",
+  "cursorColor": "#cf86c1",
+  "selectionBackground": "cf86c1",
   "black": "#191919",
   "red": "#3d3839",
   "green": "#d68c67",

@@ -5,6 +5,8 @@
   "_description": "Summerfruit Dark",
   "background": "#151515",
   "foreground": "#d0d0d0",
+  "cursorColor": "#3777e6",
+  "selectionBackground": "3777e6",
   "black": "#151515",
   "red": "#ff0086",
   "green": "#00c918",

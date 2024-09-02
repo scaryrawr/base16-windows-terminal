@@ -5,6 +5,8 @@
   "_description": "Atelier Plateau Light",
   "background": "#f4ecec",
   "foreground": "#585050",
+  "cursorColor": "#7272ca",
+  "selectionBackground": "7272ca",
   "black": "#f4ecec",
   "red": "#ca4949",
   "green": "#4b8b8b",

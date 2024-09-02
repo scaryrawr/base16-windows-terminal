@@ -5,6 +5,8 @@
   "_description": "Kimber",
   "background": "#222222",
   "foreground": "#dedee7",
+  "cursorColor": "#537c9c",
+  "selectionBackground": "537c9c",
   "black": "#222222",
   "red": "#c88c8c",
   "green": "#99c899",

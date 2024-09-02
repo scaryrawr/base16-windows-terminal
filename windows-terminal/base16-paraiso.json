@@ -5,6 +5,8 @@
   "_description": "Paraiso",
   "background": "#2f1e2e",
   "foreground": "#a39e9b",
+  "cursorColor": "#06b6ef",
+  "selectionBackground": "06b6ef",
   "black": "#2f1e2e",
   "red": "#ef6155",
   "green": "#48b685",

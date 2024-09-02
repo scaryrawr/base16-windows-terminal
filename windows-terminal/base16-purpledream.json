@@ -5,6 +5,8 @@
   "_description": "Purpledream",
   "background": "#100510",
   "foreground": "#ddd0dd",
+  "cursorColor": "#00a0f0",
+  "selectionBackground": "00a0f0",
   "black": "#100510",
   "red": "#ff1d0d",
   "green": "#14cc64",

@@ -5,6 +5,8 @@
   "_description": "Dracula",
   "background": "#282a36",
   "foreground": "#f8f8f2",
+  "cursorColor": "#80bfff",
+  "selectionBackground": "80bfff",
   "black": "#282a36",
   "red": "#ff5555",
   "green": "#50fa7b",

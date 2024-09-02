@@ -5,6 +5,8 @@
   "_description": "Tokyodark Terminal",
   "background": "#11121d",
   "foreground": "#a0a8cd",
+  "cursorColor": "#7199ee",
+  "selectionBackground": "7199ee",
   "black": "#11121d",
   "red": "#ee6d85",
   "green": "#95c561",

@@ -5,6 +5,8 @@
   "_description": "Ayu Mirage",
   "background": "#171b24",
   "foreground": "#cccac2",
+  "cursorColor": "#5ccfe6",
+  "selectionBackground": "5ccfe6",
   "black": "#171b24",
   "red": "#f28779",
   "green": "#d5ff80",

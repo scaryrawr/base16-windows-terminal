@@ -5,6 +5,8 @@
   "_description": "Gruvbox Material Light, Medium",
   "background": "#fbf1c7",
   "foreground": "#654735",
+  "cursorColor": "#45707a",
+  "selectionBackground": "45707a",
   "black": "#fbf1c7",
   "red": "#c14a4a",
   "green": "#6c782e",

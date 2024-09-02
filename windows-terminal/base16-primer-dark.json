@@ -5,6 +5,8 @@
   "_description": "Primer Dark",
   "background": "#010409",
   "foreground": "#b1bac4",
+  "cursorColor": "#58a6ff",
+  "selectionBackground": "58a6ff",
   "black": "#010409",
   "red": "#ff7b72",
   "green": "#3fb950",

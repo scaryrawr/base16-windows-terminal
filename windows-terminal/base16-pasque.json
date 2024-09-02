@@ -5,6 +5,8 @@
   "_description": "Pasque",
   "background": "#271c3a",
   "foreground": "#dedcdf",
+  "cursorColor": "#8e7dc6",
+  "selectionBackground": "8e7dc6",
   "black": "#271c3a",
   "red": "#a92258",
   "green": "#c6914b",

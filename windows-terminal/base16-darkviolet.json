@@ -5,6 +5,8 @@
   "_description": "Dark Violet",
   "background": "#000000",
   "foreground": "#b08ae6",
+  "cursorColor": "#4136d9",
+  "selectionBackground": "4136d9",
   "black": "#000000",
   "red": "#a82ee6",
   "green": "#4595e6",

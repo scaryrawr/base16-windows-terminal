@@ -5,6 +5,8 @@
   "_description": "Sparky",
   "background": "#072b31",
   "foreground": "#f4f5f0",
+  "cursorColor": "#4698cb",
+  "selectionBackground": "4698cb",
   "black": "#072b31",
   "red": "#ff585d",
   "green": "#78d64b",

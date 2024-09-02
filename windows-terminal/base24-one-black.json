@@ -5,6 +5,8 @@
   "_description": "One Black",
   "background": "#000000",
   "foreground": "#abb2bf",
+  "cursorColor": "#4f5666",
+  "selectionBackground": "4f5666",
   "black": "#000000",
   "red": "#e05561",
   "green": "#8cc265",

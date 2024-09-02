@@ -5,6 +5,8 @@
   "_description": "Edge Light",
   "background": "#fafafa",
   "foreground": "#5e646f",
+  "cursorColor": "#6587bf",
+  "selectionBackground": "6587bf",
   "black": "#fafafa",
   "red": "#db7070",
   "green": "#7c9f4b",

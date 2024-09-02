@@ -5,6 +5,8 @@
   "_description": "Summerfruit Light",
   "background": "#ffffff",
   "foreground": "#101010",
+  "cursorColor": "#3777e6",
+  "selectionBackground": "3777e6",
   "black": "#ffffff",
   "red": "#ff0086",
   "green": "#00c918",

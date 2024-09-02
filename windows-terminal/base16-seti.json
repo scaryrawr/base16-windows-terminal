@@ -5,6 +5,8 @@
   "_description": "Seti UI",
   "background": "#151718",
   "foreground": "#d6d6d6",
+  "cursorColor": "#55b5db",
+  "selectionBackground": "55b5db",
   "black": "#151718",
   "red": "#cd3f45",
   "green": "#9fca56",

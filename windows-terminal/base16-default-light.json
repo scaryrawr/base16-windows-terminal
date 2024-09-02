@@ -5,6 +5,8 @@
   "_description": "Default Light",
   "background": "#f8f8f8",
   "foreground": "#383838",
+  "cursorColor": "#7cafc2",
+  "selectionBackground": "7cafc2",
   "black": "#f8f8f8",
   "red": "#ab4642",
   "green": "#a1b56c",

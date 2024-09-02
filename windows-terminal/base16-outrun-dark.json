@@ -5,6 +5,8 @@
   "_description": "Outrun Dark",
   "background": "#00002a",
   "foreground": "#d0d0fa",
+  "cursorColor": "#66b0ff",
+  "selectionBackground": "66b0ff",
   "black": "#00002a",
   "red": "#ff4242",
   "green": "#59f176",

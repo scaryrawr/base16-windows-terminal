@@ -5,6 +5,8 @@
   "_description": "Silk Dark",
   "background": "#0e3c46",
   "foreground": "#c7dbdd",
+  "cursorColor": "#46bddd",
+  "selectionBackground": "46bddd",
   "black": "#0e3c46",
   "red": "#fb6953",
   "green": "#73d8ad",

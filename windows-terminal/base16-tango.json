@@ -5,6 +5,8 @@
   "_description": "Tango",
   "background": "#2e3436",
   "foreground": "#d3d7cf",
+  "cursorColor": "#3465a4",
+  "selectionBackground": "3465a4",
   "black": "#2e3436",
   "red": "#cc0000",
   "green": "#4e9a06",

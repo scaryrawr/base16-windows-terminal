@@ -5,6 +5,8 @@
   "_description": "Precious Light Warm",
   "background": "#fff5e5",
   "foreground": "#4e5359",
+  "cursorColor": "#246da5",
+  "selectionBackground": "246da5",
   "black": "#fff5e5",
   "red": "#b14745",
   "green": "#557300",

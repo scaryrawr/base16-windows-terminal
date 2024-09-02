@@ -5,6 +5,8 @@
   "_description": "Tokyo Night Terminal Storm",
   "background": "#24283b",
   "foreground": "#787c99",
+  "cursorColor": "#7aa2f7",
+  "selectionBackground": "7aa2f7",
   "black": "#24283b",
   "red": "#f7768e",
   "green": "#41a6b5",

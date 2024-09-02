@@ -5,6 +5,8 @@
   "_description": "caroline",
   "background": "#1c1213",
   "foreground": "#a87569",
+  "cursorColor": "#684c59",
+  "selectionBackground": "684c59",
   "black": "#1c1213",
   "red": "#c24f57",
   "green": "#806c61",

@@ -5,6 +5,8 @@
   "_description": "Ayu Dark",
   "background": "#0f1419",
   "foreground": "#e6e1cf",
+  "cursorColor": "#59c2ff",
+  "selectionBackground": "59c2ff",
   "black": "#0f1419",
   "red": "#f07178",
   "green": "#b8cc52",

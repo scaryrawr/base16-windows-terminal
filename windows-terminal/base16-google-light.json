@@ -5,6 +5,8 @@
   "_description": "Google Light",
   "background": "#ffffff",
   "foreground": "#373b41",
+  "cursorColor": "#3971ed",
+  "selectionBackground": "3971ed",
   "black": "#ffffff",
   "red": "#cc342b",
   "green": "#198844",

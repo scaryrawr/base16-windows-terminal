@@ -5,6 +5,8 @@
   "_description": "Ayu Light",
   "background": "#fafafa",
   "foreground": "#5c6773",
+  "cursorColor": "#36a3d9",
+  "selectionBackground": "36a3d9",
   "black": "#fafafa",
   "red": "#f07178",
   "green": "#86b300",
