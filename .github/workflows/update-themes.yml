@@ -19,7 +19,7 @@ jobs:
 
       - name: Base16 Builder Go
         uses: tinted-theming/base16-builder-go@latest
-      
+
       - name: Build Combined Themes
         run: |
           ./combine-templates.sh > allthemes.json
@@ -34,7 +34,7 @@ jobs:
             git add windows-terminal allthemes.json
             git commit -m "fix: update themes"
             git push -u origin $new_branch
-            gh pr create -B master --title 'Update color themes' --body 'Created by Github action'
+            gh pr create -B master --title 'Update color themes' --body 'Created by Github action' -a scaryrawr
           )
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
