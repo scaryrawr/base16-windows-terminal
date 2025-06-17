@@ -3,7 +3,10 @@
     "$HOME/AppData/Local/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/LocalState", 
 
     # Preview
-    "$HOME/AppData/Local/Packages/Microsoft.WindowsTerminalPreview_8wekyb3d8bbwe/LocalState"
+    "$HOME/AppData/Local/Packages/Microsoft.WindowsTerminalPreview_8wekyb3d8bbwe/LocalState",
+
+    # Canary
+    "$HOME/AppData/Local/Packages/Microsoft.WindowsTerminalCanary_8wekyb3d8bbwe/LocalState"
 ) | ForEach-Object {
     $terminalDir = "$_"
     $terminalProfile = "$terminalDir/settings.json"
@@ -18,7 +21,7 @@
     # Load existing profile
     $configData = (Get-Content -Path $terminalProfile | ConvertFrom-Json) | Where-Object { $_ -ne $null }
 
-    $newThemes = $(Get-Content "./allthemes.json" | ConvertFrom-Json)
+    $newThemes = $(Get-Content './allthemes.json' | ConvertFrom-Json)
     $names = $newThemes | ForEach-Object { $_.name }
 
     # Create a new list to store schemes
